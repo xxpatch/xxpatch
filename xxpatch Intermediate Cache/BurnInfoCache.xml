@@ -38,12 +38,16 @@
 			<FileHash>ff3b3656ca3fa3b8b8785442caa0c1b0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp.xml</FileName>
+			<FileHash>a370ce9c0c084d84610a8d287729d885</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\sniper\sniper_soldier_mp.xml</FileName>
 			<FileHash>17030025a613e8a8224ced52f729a69e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\stormtroopers\stormtroopers_mp.xml</FileName>
-			<FileHash>bc0409b576fed5c2746532bcff5c9eb7</FileHash>
+			<FileHash>d6eeee014ec8b102d0fc5dce5ccb4a5a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.xml</FileName>
@@ -223,7 +227,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\panzer_grenadier_squad\panzer_grenadier_squad_mp.xml</FileName>
-			<FileHash>8fe8237a5cb5901da3715571621ad2b9</FileHash>
+			<FileHash>80e1704a1e4bfb50e5ba85c8bf905b63</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\panzer_grenadier_squad\urban_assault_panzer_grenadier_squad_mp.xml</FileName>
@@ -318,6 +322,10 @@
 			<FileHash>4a70917b88963ef1d6c5e527aeb4f084</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\small_arms\pgren_recon_g43.xml</FileName>
+			<FileHash>a6c002acc81e1a17e2640b702261760b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
 			<FileHash>5710e3125c9dd9da18177403cab545d9</FileHash>
 		</BurnInfo>
@@ -331,7 +339,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_panzergren_package.xml</FileName>
-			<FileHash>e26973488522a5278d10f90e4e956ab0</FileHash>
+			<FileHash>33558f10dd2676dfe8037eb1e170f6ba</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
@@ -362,12 +370,16 @@
 			<FileHash>bc873a477854e9a6fe5e2ef2958f5061</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\german\small_arms\single_fire\rifle\pgren_recon_g43.xml</FileName>
+			<FileHash>cc9fd6ae02c40d5a2538c7b3be992dc3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.xml</FileName>
 			<FileHash>132a2e4f39235157fe3da34ec7da389a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>5469328025d10936490cf9c4c569c043</FileHash>
+			<FileHash>0f176fee2ade7fd062cf380c5938ffcb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
