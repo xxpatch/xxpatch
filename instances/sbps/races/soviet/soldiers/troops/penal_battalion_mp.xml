@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="6" />
-					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp" />
+					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -180,7 +180,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">

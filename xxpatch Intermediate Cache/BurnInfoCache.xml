@@ -6,6 +6,10 @@
 			<FileHash>c9cda69f86eadf9e7e485555a1c99d0f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.xml</FileName>
+			<FileHash>a84bb025fddeadb2dafd23f63fb0efa4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\formations\element_british_line_core.xml</FileName>
 			<FileHash>14ffa54965c4a8ae8767ac8c34a30223</FileHash>
 		</BurnInfo>
@@ -227,7 +231,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>9bea3ae6174bdbc3cef52939b35899a4</FileHash>
+			<FileHash>855679d4d7ffdfa1d26ff357a00adf9d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -270,6 +274,10 @@
 			<FileHash>7dcc71472eaa94c1a8de735e96f4ff29</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
+			<FileHash>5710e3125c9dd9da18177403cab545d9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\squad_formations\british_cover_default.xml</FileName>
 			<FileHash>c99c6e0b9733eb95596ad656c70488d1</FileHash>
 		</BurnInfo>
@@ -278,8 +286,12 @@
 			<FileHash>a98b7efe9391ad6c5018e2913ad1b1f1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
+			<FileHash>8f188a2a39280c0141580c764ebfcb69</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+			<FileHash>71f7e16d3ab87cb1f68f8e7941a0ddaf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
