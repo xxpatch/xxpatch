@@ -6,6 +6,14 @@
 			<FileHash>c9cda69f86eadf9e7e485555a1c99d0f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\always_on_ability\brit_sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
+			<FileHash>602e5d3e84b24817ede4b512966cbe80</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\always_on_ability\axis_sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
+			<FileHash>c03cc73cf66428b393b1fb126ba0bf04</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
 			<FileHash>68322f963398bb64be42bfd581af6c9a</FileHash>
 		</BurnInfo>
@@ -18,12 +26,20 @@
 			<FileHash>4b6f50d8365fa603bfeeae495920850d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\always_on_ability\sniper_team_in_cover_auto_camouflage_mp.xml</FileName>
+			<FileHash>c47bc35610c0443ca93e233bc56a5cc8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\grenadiers\assault_grenadiers_leader_mp.xml</FileName>
 			<FileHash>1aa388a98ada964c45dd03c566ba4acb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\grenadiers\assault_grenadiers_mp.xml</FileName>
 			<FileHash>ff3b3656ca3fa3b8b8785442caa0c1b0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\sniper\sniper_soldier_mp.xml</FileName>
+			<FileHash>17030025a613e8a8224ced52f729a69e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\stormtroopers\stormtroopers_mp.xml</FileName>
@@ -243,7 +259,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\sniper_team\sniper_team_mp.xml</FileName>
-			<FileHash>3392f1f085a2417d28ceabfeb4ff759f</FileHash>
+			<FileHash>fb7474474b4bf27d63ff870b9159ffbe</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\guards_troops_assault_mp.xml</FileName>
