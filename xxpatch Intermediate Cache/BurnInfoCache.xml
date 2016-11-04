@@ -362,6 +362,10 @@
 			<FileHash>a98b7efe9391ad6c5018e2913ad1b1f1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
+			<FileHash>058fc5d6a8e1cbb0b92e75f8c4dd7e14</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_panzergren_package.xml</FileName>
 			<FileHash>33558f10dd2676dfe8037eb1e170f6ba</FileHash>
 		</BurnInfo>
@@ -412,6 +416,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\valentine_75mm_mp.xml</FileName>
 			<FileHash>5dd152c4b941cda4c1f4b07710125120</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp.xml</FileName>
+			<FileHash>0aec0315b07810a1bc96f26227c953fa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\german\small_arms\single_fire\rifle\pgren_recon_g43.xml</FileName>
