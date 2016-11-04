@@ -486,6 +486,12 @@
 							<locstring name="ui_name" value="0" />
 							<float name="veterancy_rank" value="1" />
 						</template_reference>
+						<template_reference name="required" value="requirements\required_active_weapon">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<string name="hardpoint_name" value="hardpoint_01" />
+							<instance_reference name="weapon" value="weapon\british\small_arms\machine_gun\sub_machine_gun\engineer_sten_9mm_smg_mp" />
+						</template_reference>
 					</list>
 					<list name="action_table">
 						<template_reference name="action" value="action\apply_modifiers_action">
@@ -803,7 +809,7 @@
 												<string name="modifier_id" value="" />
 												<string name="target_type_name" value="" />
 												<enum name="usage_type" value="multiplication" />
-												<float name="value" value="0.5" />
+												<float name="value" value="0.769" />
 												<instance_reference name="tooltip" value="modifier_tooltip\squad_cost_manpower_modifier" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
