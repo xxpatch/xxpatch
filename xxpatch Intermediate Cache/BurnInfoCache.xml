@@ -326,6 +326,26 @@
 			<FileHash>6994b6bb6bc1cb66f5b5839bbe664e6f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp.xml</FileName>
+			<FileHash>d348dfa12b95f60c32c91aef622fb186</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp.xml</FileName>
+			<FileHash>872636ae7f44bb76e72f5af7772deaca</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_critical_shot_mp.xml</FileName>
+			<FileHash>e511d08fb5b97b3dbf627acd85866d8b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp.xml</FileName>
+			<FileHash>bc873a477854e9a6fe5e2ef2958f5061</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.xml</FileName>
+			<FileHash>132a2e4f39235157fe3da34ec7da389a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
 			<FileHash>47048c4d6d15ec3bc9b62bbb1e477780</FileHash>
 		</BurnInfo>
