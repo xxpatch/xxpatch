@@ -36,21 +36,39 @@
 							<float name="duration" value="10" />
 							<bool name="fire_and_forget" value="True" />
 							<list name="subactions">
-								<template_reference name="action" value="action\apply_modifiers_action">
-									<float name="duration" value="10" />
-									<bool name="permanent" value="False" />
-									<list name="modifiers">
-										<template_reference name="modifier" value="modifiers\extended_sight_enable">
-											<enum name="application_type" value="apply_to_entity" />
-											<bool name="exclusive" value="False" />
-											<string name="modifier_id" value="" />
-											<string name="target_type_name" value="" />
-											<enum name="usage_type" value="enable" />
-											<float name="value" value="1" />
-											<instance_reference name="tooltip" value="modifier_tooltip\extended_sight_enable" />
+								<template_reference name="action" value="action\filter_action">
+									<bool name="apply_to_future_units" value="False" />
+									<bool name="apply_to_local_player" value="False" />
+									<instance_reference name="deprecated_entity_type" value="ebps\races\german\buildings\base_building\hq\german_hq_mp" />
+									<instance_reference name="deprecated_squad_type" value="" />
+									<group name="target_info">
+										<template_reference name="target_info" value="type_ability_target_type\allied">
+										</template_reference>
+									</group>
+									<enum name="deprecated_unit_class_type" value="" />
+									<list name="action_table">
+										<template_reference name="action" value="action\apply_modifiers_action">
+											<float name="duration" value="10" />
+											<bool name="permanent" value="False" />
+											<list name="modifiers">
+												<template_reference name="modifier" value="modifiers\extended_sight_enable">
+													<enum name="application_type" value="apply_to_entity_type" />
+													<bool name="exclusive" value="False" />
+													<string name="modifier_id" value="" />
+													<string name="target_type_name" value="german_hq_mp" />
+													<enum name="usage_type" value="enable" />
+													<float name="value" value="1" />
+													<instance_reference name="tooltip" value="modifier_tooltip\extended_sight_enable" />
+												</template_reference>
+											</list>
+											<uniqueid name="id" value="1073743328" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073742983" />
+									<enum name="deprecated_squad_class_type" value="" />
+									<list name="target_requirements">
+									</list>
+									<bool name="target_squad" value="False" />
+									<uniqueid name="id" value="1073743329" />
 								</template_reference>
 								<template_reference name="action" value="action\change_target_action">
 									<list name="actions">
