@@ -450,7 +450,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />

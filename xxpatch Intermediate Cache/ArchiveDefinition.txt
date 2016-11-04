@@ -3,6 +3,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\infantry_medkits_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\formations\element_british_line_core.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\formations\element_soviet_cover_core.rgd

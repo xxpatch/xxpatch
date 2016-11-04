@@ -600,7 +600,7 @@
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\repair_ability\soviet_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
@@ -876,7 +876,7 @@
 			<int name="ui_position" value="33" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="2" />
+			<float name="personnel_pop" value="1" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="28" />

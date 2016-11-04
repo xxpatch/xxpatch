@@ -621,7 +621,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
