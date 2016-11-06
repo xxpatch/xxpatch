@@ -160,6 +160,10 @@
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
+			<template_reference name="required" value="requirements\required_interactive_stage">
+				<locstring name="ui_name" value="11071180" />
+				<enum name="reason" value="usage" />
+			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
 		<int name="ui_position" value="23" />

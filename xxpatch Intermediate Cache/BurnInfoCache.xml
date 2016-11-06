@@ -22,6 +22,10 @@
 			<FileHash>f10be832a2492b3a1a0cb3171a0e906d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.xml</FileName>
+			<FileHash>a6f013bcf7520b9bab089ad0489d850d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.xml</FileName>
 			<FileHash>215428f32e04804e96250badee3e8cb5</FileHash>
 		</BurnInfo>
@@ -35,7 +39,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\handbrake_mode_mp.xml</FileName>
-			<FileHash>5c0c11ebc437300f1fc7b0a933e3a96e</FileHash>
+			<FileHash>001c7cbcdb46a9ffc7db2507d16571cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
@@ -115,7 +119,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
-			<FileHash>c0b3b63e3ca4361dd8b5675174080a80</FileHash>
+			<FileHash>0ddb95e08b2dd9d586da355051ada1f4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -175,11 +179,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
-			<FileHash>4dc7ffddaea70c6ee07805ba56ad8895</FileHash>
+			<FileHash>f2dcbc748cb4b448726bf9348ccdeec9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
-			<FileHash>f0123b0bb24ff3ebd75da6ba026fec4b</FileHash>
+			<FileHash>fd7442b2f8f83da80c831eeb85296ea9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\t_70m\t_70m_mp.xml</FileName>
+			<FileHash>4ec322064efe37555df1ecdd3079b63c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\base_building\light_armor_support_mp.xml</FileName>
@@ -450,6 +458,10 @@
 			<FileHash>3bece61a0f659b2a1921b00932bccba7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\vehicles\t-70m\t-70m_mp.xml</FileName>
+			<FileHash>6e34e8f16ae976226a7c5b858d28d650</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp.xml</FileName>
 			<FileHash>d83355aac4e61bbfcf372c1c31b3414c</FileHash>
 		</BurnInfo>
@@ -615,7 +627,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
-			<FileHash>c215129cee1c678f8b29f4e95ac73147</FileHash>
+			<FileHash>85f2c65aebf6e708646c845d02153af1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.xml</FileName>
+			<FileHash>1db329b4391161aa8ace4e531b867a26</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.xml</FileName>
