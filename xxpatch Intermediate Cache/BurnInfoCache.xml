@@ -86,8 +86,28 @@
 			<FileHash>c80c6bcc1152f37dd2ee5b2978264865</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
+			<FileHash>5e782a8d10a69ea0bc124558eeffe1f2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_mp.xml</FileName>
+			<FileHash>9f5e13db082ed87060ed1df34b05bff1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5a1_stuart\m5a1_stuart_mp.xml</FileName>
 			<FileHash>68a0c05aeea1802d0200e0548ea9af00</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
+			<FileHash>c0b3b63e3ca4361dd8b5675174080a80</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
+			<FileHash>d53928fff7bdaacfc30d74d4d35f8de4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
+			<FileHash>a0c0f5f14bfe8260a62ee08b4f1b8c66</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
@@ -138,8 +158,24 @@
 			<FileHash>a84bb025fddeadb2dafd23f63fb0efa4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
+			<FileHash>4dc7ffddaea70c6ee07805ba56ad8895</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
+			<FileHash>f0123b0bb24ff3ebd75da6ba026fec4b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\base_building\light_armor_support_mp.xml</FileName>
 			<FileHash>4f269aca41cf4823ce058a92a7468297</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
+			<FileHash>a17d4969fd98a43ae27c0be838cae12f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp.xml</FileName>
+			<FileHash>33d194236583997c2d3a0a6af5a69f95</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\formations\element_british_line_core.xml</FileName>
@@ -419,7 +455,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp.xml</FileName>
-			<FileHash>b0d27438257982f42839e1d79ff940c7</FileHash>
+			<FileHash>5fb9ce17829af36d6df7e9a9d0a46fcc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\small_arms\m1919a6_lmg_governor.xml</FileName>
