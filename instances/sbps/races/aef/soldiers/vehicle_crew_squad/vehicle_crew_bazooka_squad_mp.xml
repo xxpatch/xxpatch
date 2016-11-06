@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="4" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\vehicle_crew_troop\vehicle_crew_bazooka_mp" />
+					<instance_reference name="type" value="ebps\races\british\soldiers\vehicle_crew_troop\vehicle_crew_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -181,6 +181,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\items\vehicle_crew_thompson_sub_machine_gun_upgrade_mp" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\captain_bazooka_upgrade_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -520,9 +521,9 @@
 						<float name="max_persistent_squads" value="3" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
-								<float name="experience_value" value="200" />
+								<float name="experience_value" value="650" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11074356" />
+								<locstring name="screen_name" value="11070876" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -543,16 +544,16 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742411" />
+										<uniqueid name="id" value="1073743597" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 								</list>
 							</group>
 							<group name="veterancy_rank">
-								<float name="experience_value" value="400" />
+								<float name="experience_value" value="1300" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11074355" />
+								<locstring name="screen_name" value="11070877" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -573,16 +574,16 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742412" />
+										<uniqueid name="id" value="1073743598" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 								</list>
 							</group>
 							<group name="veterancy_rank">
-								<float name="experience_value" value="800" />
+								<float name="experience_value" value="2600" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11074354" />
+								<locstring name="screen_name" value="11070878" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -603,7 +604,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742413" />
+										<uniqueid name="id" value="1073743599" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -619,7 +620,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742414" />
+										<uniqueid name="id" value="1073743600" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -635,7 +636,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_ability_vehicle_crew_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
 				<instance_reference name="ability" value="abilities\aef\always_on_ability\vehicle_crew_auto_repair" />
