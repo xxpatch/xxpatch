@@ -4,6 +4,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\m5_stuart_shell_shock.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_heavy_he_short_delay_mortar_barrage_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\always_on_ability\brit_sniper_delayed_cover_auto_camouflage_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\always_on_ability\axis_sniper_delayed_cover_auto_camouflage_mp.rgd
@@ -21,6 +24,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\critical\vehicle_aec_temp_immobility.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\kwk37_stugiii_stubby_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.rgd
@@ -71,6 +75,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\vehicle_crew_squad\m20_assault_engy_antitank_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_bazooka_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\vehicle_crew_squad\vehicle_crew_squad_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m20_utility_car_squad\m20_utility_car_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.rgd
@@ -129,6 +134,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\tank_gun\m5a1_stuart_m6_37mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\tank_gun\m5_stuart_shell_shock_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_barrage_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\puma_50mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\puma_critical_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.rgd
