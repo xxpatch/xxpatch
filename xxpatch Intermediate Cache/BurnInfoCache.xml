@@ -207,7 +207,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
-			<FileHash>721aeb8bc6cb32c9ad5d9b83b95f2472</FileHash>
+			<FileHash>1b14a517fa84ce6c4f59097a3ab8b951</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\formations\element_british_line_core.xml</FileName>
@@ -670,6 +670,14 @@
 			<FileHash>132a2e4f39235157fe3da34ec7da389a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
+			<FileHash>c1f177cd7e9039cdde0c5db29f0132b4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
+			<FileHash>150ccba46513140eb999a65e42fa06a7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_aimed_shot_mp.xml</FileName>
 			<FileHash>ca87d7f7c9d926a229d17131852ff37c</FileHash>
 		</BurnInfo>
@@ -683,7 +691,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet.xml</FileName>
-			<FileHash>8917ed0840d0639f9f99292a4005ddb1</FileHash>
+			<FileHash>e6102724b5c252963a10509a2db611b2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
