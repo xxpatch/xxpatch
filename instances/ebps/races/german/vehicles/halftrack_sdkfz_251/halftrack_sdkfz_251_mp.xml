@@ -1202,7 +1202,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\halftrack_squad\sdkfz_251_halftrack_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\halftrack_squad\sdkfz_251_halftrack_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
