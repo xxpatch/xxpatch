@@ -472,7 +472,7 @@
 								<float name="z" value="1.41" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
