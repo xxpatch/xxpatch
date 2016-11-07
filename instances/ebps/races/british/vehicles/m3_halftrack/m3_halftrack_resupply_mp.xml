@@ -1123,7 +1123,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -1165,7 +1165,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
