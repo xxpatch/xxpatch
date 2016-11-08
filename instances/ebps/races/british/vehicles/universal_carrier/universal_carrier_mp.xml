@@ -16,7 +16,7 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\british\timed_ability\uec_self_repair" />
 				<instance_reference name="ability" value="abilities\british\timed_ability\uec_self_repair_improved" />
 				<instance_reference name="ability" value="abilities\british\timed_ability\universal_carrier_vickers_suppression_mp" />
