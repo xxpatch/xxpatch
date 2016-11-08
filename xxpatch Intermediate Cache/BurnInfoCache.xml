@@ -95,7 +95,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.xml</FileName>
-			<FileHash>4c4d8867cf8a9042a9d6e9b797e271b4</FileHash>
+			<FileHash>4fd93dafb06bf21b9d34924ff9ae1e3c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
@@ -155,7 +155,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\sniper\sniper_soldier_mp.xml</FileName>
-			<FileHash>17030025a613e8a8224ced52f729a69e</FileHash>
+			<FileHash>03b5b84c893b0bb9c39d12271876aad0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\stormtroopers\stormtroopers_mp.xml</FileName>
@@ -311,7 +311,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.xml</FileName>
-			<FileHash>800e9f8239271cf96cf39d270a1e18f1</FileHash>
+			<FileHash>3a1094fe2339853e53ec91fa16f7825e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m20_utility_car_squad\m20_utility_car_squad_mp.xml</FileName>
@@ -395,7 +395,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\mortar_team\mortar_team_81mm_mp.xml</FileName>
-			<FileHash>9c334bdd4f8f3a39955f44754d0b0944</FileHash>
+			<FileHash>f8268b89c1ba8728d2e9eff6b0a7d090</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\officer_squad\assault_officer_squad_mp.xml</FileName>
@@ -595,11 +595,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_barrage_mp.xml</FileName>
-			<FileHash>5c68dc1441058085fe4baba8b6695ba7</FileHash>
+			<FileHash>899d78eb2eb95f92fe8036c63b160d46</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_mp.xml</FileName>
-			<FileHash>40399baa9b9978fbfe8764a88ca55f4f</FileHash>
+			<FileHash>5d1162b1cfbabafac36ae4d6251c99db</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp.xml</FileName>
+			<FileHash>511eb3aac32ef407a2d6e97b79908e83</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\puma_50mm_mp.xml</FileName>
@@ -620,6 +624,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.xml</FileName>
 			<FileHash>00f5d68fbf4e554a30a01dce3e4f005a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp.xml</FileName>
+			<FileHash>a713b39dc2dfcfccee7803b2a14bfefc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp.xml</FileName>
@@ -691,7 +699,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>6e3aa045db71ab5ffc4ff76182cca7e6</FileHash>
+			<FileHash>1817a4eb17660b082fb6e8f35f25884a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>

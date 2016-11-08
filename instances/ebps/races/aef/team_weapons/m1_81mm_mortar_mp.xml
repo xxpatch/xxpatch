@@ -387,7 +387,6 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_heavy_he_short_delay_mortar_barrage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\combat_ext">
@@ -451,7 +450,7 @@
 								<float name="z" value="1.41" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
