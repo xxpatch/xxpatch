@@ -103,7 +103,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
-			<FileHash>5fcb4b7ffb4e0ab1368f77dcdd66acb1</FileHash>
+			<FileHash>9d45b7caeac40cd0ea9698c08f2cc472</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
@@ -606,6 +606,10 @@
 			<FileHash>511eb3aac32ef407a2d6e97b79908e83</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m20_utility_car_m2hb_50cal_mounted_mp.xml</FileName>
+			<FileHash>ff3ee8890d86c3d91495fed253891de5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\puma_50mm_mp.xml</FileName>
 			<FileHash>699e46ced5ac6f0321872e3a159d0634</FileHash>
 		</BurnInfo>
@@ -615,7 +619,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.xml</FileName>
-			<FileHash>1c059677f9edaf4b57d5fa3deca94881</FileHash>
+			<FileHash>b742a41ffa8c2bb5dfbe735c58dbae40</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.xml</FileName>
@@ -627,7 +631,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.xml</FileName>
-			<FileHash>00f5d68fbf4e554a30a01dce3e4f005a</FileHash>
+			<FileHash>eb71f6d02d75a615946a969e8c8710ac</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp.xml</FileName>
@@ -643,7 +647,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp.xml</FileName>
-			<FileHash>44aa67791d09074319b7108185094847</FileHash>
+			<FileHash>fd72fd3d6f7dd982f27dd34d908dfcdd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_critical_shot_mp.xml</FileName>
