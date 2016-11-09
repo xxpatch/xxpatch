@@ -427,9 +427,10 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\aef\modal_ability\usf_medic_heal_mp" />
-				<instance_reference name="ability" value="abilities\aef\always_on_ability\medic_auto_heal" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\usf_medic_heal_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\always_on_ability\medic_auto_heal" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\auto_heal_disable_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
