@@ -179,7 +179,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_commander_mp.xml</FileName>
-			<FileHash>cee770daae7d856c13816f6c57faa2fe</FileHash>
+			<FileHash>e2f410814a65140dad3b57e56aa0a9e6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.xml</FileName>
@@ -614,6 +614,10 @@
 			<FileHash>f97042499f6d2e83e015179449dc234b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.xml</FileName>
+			<FileHash>1c059677f9edaf4b57d5fa3deca94881</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.xml</FileName>
 			<FileHash>3c4ea95b8ac76dd9d1b5ec679f98407c</FileHash>
 		</BurnInfo>
@@ -636,6 +640,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\jaeger_panzergren_g43_rifle_mp.xml</FileName>
 			<FileHash>84ae533e2905bfc8a415c93f0588aa21</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp.xml</FileName>
+			<FileHash>44aa67791d09074319b7108185094847</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_critical_shot_mp.xml</FileName>
