@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="6" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -751,7 +751,7 @@
 			<instance_reference name="vaulting_formation" value="squad_formations\vaulting" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="0" />
+			<float name="personnel_pop" value="3" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_type_ext">
 			<list name="squad_type_list">
