@@ -900,9 +900,81 @@
 								<locstring name="phrase" value="0" />
 							</template_reference>
 						</template_reference>
-						<template_reference name="action" value="action\scar_function_call">
-							<string name="function_name" value="AE_ParaLandingMove" />
-							<uniqueid name="id" value="1073744093" />
+						<template_reference name="action" value="action\requirement_action">
+							<bool name="check_self" value="False" />
+							<bool name="global_fire_and_forget_on_success" value="False" />
+							<bool name="instant_requirement_check" value="False" />
+							<bool name="kill_action_on_failed_requirements" value="False" />
+							<bool name="no_retrigger" value="False" />
+							<bool name="validate_all_sub_actions" value="True" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_not">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<list name="requirement_table">
+										<template_reference name="required" value="requirements\required_squad_upgrade">
+											<enum name="reason" value="usage" />
+											<locstring name="ui_name" value="0" />
+											<bool name="include_queued" value="False" />
+											<bool name="is_present" value="True" />
+											<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\paratroopers_all_landed" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+										</template_reference>
+									</list>
+								</template_reference>
+							</list>
+							<list name="action_table">
+								<template_reference name="action" value="action\scar_function_call">
+									<string name="function_name" value="AE_ParaLandingMove" />
+									<uniqueid name="id" value="1073744386" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073744387" />
+							<bool name="fire_and_forget_non_global" value="False" />
+							<template_reference name="ui_help_text" value="tables\help_text_phrase">
+								<int name="phrase_order" value="0" />
+								<locstring name="phrase" value="0" />
+							</template_reference>
+						</template_reference>
+						<template_reference name="action" value="action\delay">
+							<float name="delay" value="15" />
+							<float name="delay_min" value="0" />
+							<bool name="progress_bar" value="False" />
+							<bool name="randomize" value="False" />
+							<list name="delayed_actions">
+								<template_reference name="action" value="action\requirement_action">
+									<bool name="check_self" value="False" />
+									<bool name="global_fire_and_forget_on_success" value="False" />
+									<bool name="instant_requirement_check" value="False" />
+									<bool name="kill_action_on_failed_requirements" value="False" />
+									<bool name="no_retrigger" value="False" />
+									<bool name="validate_all_sub_actions" value="True" />
+									<list name="requirement_table">
+										<template_reference name="required" value="requirements\required_squad_upgrade">
+											<enum name="reason" value="usage" />
+											<locstring name="ui_name" value="0" />
+											<bool name="include_queued" value="False" />
+											<bool name="is_present" value="False" />
+											<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\paratroopers_all_landed" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+										</template_reference>
+									</list>
+									<list name="action_table">
+										<template_reference name="action" value="action\upgrade_add">
+											<bool name="apply_to_entities_in_squad" value="False" />
+											<bool name="trigger_publish_event" value="False" />
+											<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\paratroopers_all_landed" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+											<uniqueid name="id" value="1073744388" />
+										</template_reference>
+									</list>
+									<uniqueid name="id" value="1073744389" />
+									<bool name="fire_and_forget_non_global" value="False" />
+									<template_reference name="ui_help_text" value="tables\help_text_phrase">
+										<int name="phrase_order" value="0" />
+										<locstring name="phrase" value="0" />
+									</template_reference>
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073744390" />
+							<bool name="can_prevent_refund" value="True" />
 						</template_reference>
 					</list>
 					<enum name="change_target_type" value="squad" />
