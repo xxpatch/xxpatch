@@ -59,7 +59,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\jaeger_interrogation.xml</FileName>
-			<FileHash>d759aff27de935c9406f02a5d2c10042</FileHash>
+			<FileHash>aed9398fbdda65b8d631a3267bab3468</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\dispatch\stug_iii_e.xml</FileName>
@@ -155,7 +155,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp.xml</FileName>
-			<FileHash>a370ce9c0c084d84610a8d287729d885</FileHash>
+			<FileHash>e0546b5af79588dda42eb5cd2f614560</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\sniper\sniper_soldier_mp.xml</FileName>
@@ -163,7 +163,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\stormtroopers\stormtroopers_mp.xml</FileName>
-			<FileHash>4739816605158dad0d819f413629371e</FileHash>
+			<FileHash>bacadcb5410c80b72554b7b6dc0483a0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\armored_car_sdkfz_222\armored_car_sdkfz_222_mp.xml</FileName>
@@ -435,7 +435,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_squad_mp.xml</FileName>
-			<FileHash>acf764f80133d016f0f8a51cbcf8a27c</FileHash>
+			<FileHash>d1c538c059209aa0f069421636286ad2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\vehicles\halftrack_squad\sdkfz_251_halftrack_squad_mp.xml</FileName>
@@ -558,10 +558,6 @@
 			<FileHash>4a70917b88963ef1d6c5e527aeb4f084</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\small_arms\pgren_recon_g43.xml</FileName>
-			<FileHash>a6c002acc81e1a17e2640b702261760b</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
 			<FileHash>5710e3125c9dd9da18177403cab545d9</FileHash>
 		</BurnInfo>
@@ -583,11 +579,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_panzergren_package.xml</FileName>
-			<FileHash>33558f10dd2676dfe8037eb1e170f6ba</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_stormtrooper_package.xml</FileName>
-			<FileHash>899ec5c734c5ce51182b4c2d8281eecd</FileHash>
+			<FileHash>41dcabf04e85f8612ae2b19572aedf70</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
@@ -642,6 +634,10 @@
 			<FileHash>872636ae7f44bb76e72f5af7772deaca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\single_fire\rifle\jaeger_panzergren_g43_rifle_mp.xml</FileName>
+			<FileHash>84ae533e2905bfc8a415c93f0588aa21</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_critical_shot_mp.xml</FileName>
 			<FileHash>e511d08fb5b97b3dbf627acd85866d8b</FileHash>
 		</BurnInfo>
@@ -664,10 +660,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp.xml</FileName>
 			<FileHash>0aec0315b07810a1bc96f26227c953fa</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\german\small_arms\single_fire\rifle\pgren_recon_g43.xml</FileName>
-			<FileHash>7f6eebb5a6460ea6e5e15bc9e7ca0994</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
