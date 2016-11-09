@@ -273,7 +273,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
