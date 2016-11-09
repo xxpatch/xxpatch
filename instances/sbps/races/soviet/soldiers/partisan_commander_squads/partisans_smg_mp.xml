@@ -156,7 +156,7 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
 			<bool name="can_pick_up" value="True" />
-			<float name="num_slots" value="2" />
+			<float name="num_slots" value="1" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
@@ -420,11 +420,6 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
 			<list name="actions">
-				<template_reference name="action" value="action\slot_item_add">
-					<instance_reference name="slot_item" value="slot_item\soviet\small_arms\ppsh41_assault_package_dummy_item_mp" />
-					<bool name="permanent" value="True" />
-					<uniqueid name="id" value="1073742676" />
-				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
