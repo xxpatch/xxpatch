@@ -635,7 +635,7 @@
 								<float name="z" value="0.7" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp" />
+							<instance_reference name="weapon" value="weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
