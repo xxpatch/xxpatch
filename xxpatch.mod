@@ -39,10 +39,10 @@
 					<Dependencies />
 					<Description></Description>
 					<Hidden>false</Hidden>
-					<Name>XXPatch v1</Name>
+					<Name>Movember patch of balans v1</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>9cdcf92e-0511-4ce5-baac-b4b7a120b84c</Guid>
