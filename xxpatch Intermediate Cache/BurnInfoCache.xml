@@ -243,7 +243,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
-			<FileHash>696c7a0d755135bb975e04404f4267df</FileHash>
+			<FileHash>529bdda0fae41d61842b03c3517f78fb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
@@ -824,10 +824,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
 			<FileHash>4923c63b2caa738676e04e892d389493</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\valentine_75mm_mp.xml</FileName>
-			<FileHash>5dd152c4b941cda4c1f4b07710125120</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\explosive_weapons\heavy_artillery\sexton_spg_25_pounder_creeping_mp.xml</FileName>
