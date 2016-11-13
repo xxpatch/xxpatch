@@ -1,9 +1,9 @@
-<instance description="7.92 mm Besa Machine Gun" template="weapon">
+<instance description="" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.48" />
-			<float name="far" value="0.46" />
-			<float name="mid" value="0.47" />
+			<float name="near" value="0.7" />
+			<float name="far" value="0.35" />
+			<float name="mid" value="0.55" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
@@ -13,7 +13,7 @@
 			<float name="post_firing_aim_time" value="1" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.5" />
+				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
 			<group name="aim_time_multiplier">
@@ -23,14 +23,14 @@
 			</group>
 		</group>
 		<group name="anim_table">
-			<string name="cooldown_time_name" value="" />
-			<string name="state_name" value="turret_mg42_01_state" />
-			<string name="track_horizontal" value="" />
-			<string name="track_horizontal_speed" value="" />
-			<string name="track_vertical" value="" />
+			<string name="cooldown_time_name" value="pintle_mg42_cooldowntime" />
+			<string name="state_name" value="pintle_mg42_state" />
+			<string name="track_horizontal" value="pintle_mg42_horiz" />
+			<string name="track_horizontal_speed" value="pintle_mg42_horiz_peed" />
+			<string name="track_vertical" value="pintle_mg42_vertical" />
 			<string name="track_vertical_speed" value="" />
 			<string name="variety_name" value="" />
-			<string name="visibility_name" value="" />
+			<string name="visibility_name" value="pintle_mg42_visibility" />
 			<string name="target_range_name" value="" />
 		</group>
 		<group name="area_effect">
@@ -97,7 +97,7 @@
 			<float name="combat_slot_offset" value="0" />
 			<bool name="enable_auto_target_search" value="True" />
 			<bool name="fire_at_building_combat_slot" value="False" />
-			<float name="ground_hit_rate" value="0.75" />
+			<float name="ground_hit_rate" value="1" />
 			<bool name="ignore_shot_blocking" value="False" />
 			<bool name="non_moving_setup" value="False" />
 			<bool name="point_blank" value="True" />
@@ -123,8 +123,8 @@
 		<group name="burst">
 			<bool name="can_burst" value="True" />
 			<group name="duration">
-				<float name="max" value="2.25" />
-				<float name="min" value="2.25" />
+				<float name="max" value="1.5" />
+				<float name="min" value="1" />
 			</group>
 			<group name="incremental_target_table">
 				<float name="accuracy_multiplier" value="1.12" />
@@ -135,12 +135,12 @@
 				</group>
 			</group>
 			<group name="rate_of_fire">
-				<float name="max" value="10" />
-				<float name="min" value="10" />
+				<float name="max" value="8" />
+				<float name="min" value="8" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="near" value="0.75" />
-				<float name="far" value="1.5" />
+				<float name="far" value="2" />
 				<float name="mid" value="1" />
 			</group>
 			<group name="rate_of_fire_multiplier">
@@ -152,11 +152,11 @@
 		</group>
 		<group name="cooldown">
 			<group name="duration">
-				<float name="max" value="3" />
-				<float name="min" value="2" />
+				<float name="max" value="1.75" />
+				<float name="min" value="1.25" />
 			</group>
 			<group name="duration_multiplier">
-				<float name="near" value="0.5" />
+				<float name="near" value="0.75" />
 				<float name="far" value="1.5" />
 				<float name="mid" value="1" />
 			</group>
@@ -272,8 +272,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="5" />
-			<float name="min" value="5" />
+			<float name="max" value="4" />
+			<float name="min" value="4" />
 			<list name="on_penetrated_actions">
 			</list>
 			<list name="post_damage_actions">
@@ -296,12 +296,12 @@
 			</list>
 		</group>
 		<float name="flinch_radius" value="0" />
-		<string name="fx_action_target_name" value="turret_hmg_target" />
+		<string name="fx_action_target_name" value="pintle_mg42_target" />
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />
 		<float name="fx_delay_in_building" value="0" />
 		<string name="fx_munition_name" value="hmg" />
-		<string name="fx_tracer_name" value="fx_hmg_turret_tracer" />
+		<string name="fx_tracer_name" value="pintle_mg42_tracer" />
 		<float name="fx_tracer_speed" value="120" />
 		<bool name="fx_use_building_panel_normal" value="True" />
 		<locstring name="help_text" value="0" />
@@ -314,7 +314,7 @@
 			<float name="moving_end_time" value="0" />
 			<float name="moving_start_time" value="0" />
 		</group>
-		<string name="name" value="Besa Coaxial MG (Churchill Mk VII)" />
+		<string name="name" value="MG34 Coaxial (Luchs)" />
 		<group name="offhand">
 			<float name="offhand_end_time" value="0" />
 			<float name="offhand_start_time" value="0" />
@@ -364,7 +364,7 @@
 			</list>
 		</group>
 		<group name="scatter">
-			<float name="angle_scatter" value="8" />
+			<float name="angle_scatter" value="10" />
 			<bool name="burst_pattern_enable" value="True" />
 			<float name="delay_bracket_change_chance" value="0.3" />
 			<float name="distance_bracket_count_air" value="5" />
@@ -415,14 +415,14 @@
 			<float name="duration" value="0" />
 		</group>
 		<group name="tracking">
-			<float name="fire_cone_angle" value="5" />
+			<float name="fire_cone_angle" value="10" />
 			<group name="normal">
 				<float name="max_down" value="-90" />
-				<float name="max_left" value="0" />
-				<float name="max_right" value="0" />
-				<float name="max_up" value="15" />
-				<float name="speed_horizontal" value="120" />
-				<float name="speed_vertical" value="60" />
+				<float name="max_left" value="-180" />
+				<float name="max_right" value="180" />
+				<float name="max_up" value="10" />
+				<float name="speed_horizontal" value="110" />
+				<float name="speed_vertical" value="100" />
 			</group>
 			<float name="pivot_end_time" value="0" />
 			<bool name="pivot_only" value="False" />
@@ -447,5 +447,5 @@
 		<list name="target_type_table">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="91957" />
+	<uniqueid name="pbgid" value="2900" />
 </instance>
