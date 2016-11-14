@@ -216,7 +216,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>

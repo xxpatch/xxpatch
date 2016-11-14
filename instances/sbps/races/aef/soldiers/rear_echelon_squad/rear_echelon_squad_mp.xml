@@ -201,7 +201,7 @@
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\items\minesweeper_upgrade_mp" />
 				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\riflemen_flamethrower" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\riflemen_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">

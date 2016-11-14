@@ -178,6 +178,11 @@
 			<float name="pickup_radius" value="1" />
 			<list name="on_pickup_actions">
 				<template_reference name="action" value="action\slot_item_add" comment="This dummy slot item is used to show the proper symbol underneath the weapon rack. There is an action on the dummy slot item that removes itself from the squad">
+					<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_icon_dummy" />
+					<bool name="permanent" value="False" />
+					<uniqueid name="id" value="1073744522" />
+				</template_reference>
+				<template_reference name="action" value="action\slot_item_add" comment="This dummy slot item is used to show the proper symbol underneath the weapon rack. There is an action on the dummy slot item that removes itself from the squad">
 					<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_governor" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					<bool name="permanent" value="False" />
 					<uniqueid name="id" value="1073743439" />
