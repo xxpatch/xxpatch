@@ -831,16 +831,6 @@
 										</list>
 										<uniqueid name="id" value="1073741857" />
 									</template_reference>
-									<template_reference name="action" value="action\slot_item_add">
-										<instance_reference name="slot_item" value="slot_item\british\small_arms\tommy_scoped_rifle_item_mp" />
-										<bool name="permanent" value="True" />
-										<uniqueid name="id" value="1073741858" />
-									</template_reference>
-									<template_reference name="action" value="action\slot_item_add">
-										<instance_reference name="slot_item" value="slot_item\british\small_arms\tommy_scoped_rifle_item_mp" />
-										<bool name="permanent" value="True" />
-										<uniqueid name="id" value="1073741859" />
-									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 									<template_reference name="action" value="action\apply_modifiers_action">
@@ -862,7 +852,7 @@
 												<string name="modifier_id" value="" />
 												<string name="target_type_name" value="hardpoint_01" />
 												<enum name="usage_type" value="multiplication" />
-												<float name="value" value="1.2" />
+												<float name="value" value="1.25" />
 												<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 											</template_reference>
 										</list>
