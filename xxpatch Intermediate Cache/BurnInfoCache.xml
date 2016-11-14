@@ -54,6 +54,10 @@
 			<FileHash>815ebba7178d42a3c19a16415ac84e59</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\universal_carrier_drop_piat.xml</FileName>
+			<FileHash>b1286fc93ecfab02260ee97e47a7136c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\glider_commandos_only.xml</FileName>
 			<FileHash>0af4ace226f03ce9ad5b4c788e9c2853</FileHash>
 		</BurnInfo>
@@ -186,6 +190,10 @@
 			<FileHash>a12c409f9d0f0723662a0eb867390b91</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
+			<FileHash>465a03cefe6d64938cd3c76391b1fffc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\kwk37_stugiii_stubby_mp.xml</FileName>
 			<FileHash>1619ee36cb7abfd438020e0610f9f6c3</FileHash>
 		</BurnInfo>
@@ -238,8 +246,16 @@
 			<FileHash>20a888781da26e8fb8395153e94d4688</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_piat_launcher_mp.xml</FileName>
+			<FileHash>02e83d37088b2843951393cd490529cb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_bren_lmg_mp.xml</FileName>
 			<FileHash>5e05d09088f742a3c44f836f7acfcb32</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_piat_launcher_mp.xml</FileName>
+			<FileHash>b2ce257848aaed3bb4f064898fda8c77</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\soldiers\commando\commando_mp.xml</FileName>
@@ -255,7 +271,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
-			<FileHash>dd716c20c152b2375d5b5f3de6888acc</FileHash>
+			<FileHash>84c8f69a94958752e59b8f7453c67ecc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
@@ -872,6 +888,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp.xml</FileName>
 			<FileHash>bc873a477854e9a6fe5e2ef2958f5061</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\piat_launcher_mp.xml</FileName>
+			<FileHash>805e78b3ef0dd50d6f3ef1835391c5c4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_75mm_ap_mp.xml</FileName>
