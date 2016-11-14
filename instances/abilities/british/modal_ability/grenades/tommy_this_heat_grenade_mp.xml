@@ -18,10 +18,10 @@
 							<bool name="retrigger" value="True" />
 							<string name="state_machine_name" value="rifle_lee_enfield_visible" />
 							<string name="undo_action_state_name" value="on" />
-							<uniqueid name="id" value="1073744529" />
+							<uniqueid name="id" value="1073744567" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744530" />
+					<uniqueid name="id" value="1073744568" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -38,7 +38,7 @@
 							<enum name="unit_type" value="vehicle" />
 						</template_reference>
 					</group>
-					<uniqueid name="id" value="1073744531" />
+					<uniqueid name="id" value="1073744569" />
 					<bool name="target_override_direction_times_max_range" value="False" />
 				</template_reference>
 				<template_reference name="action" value="action\delay">
@@ -53,10 +53,10 @@
 							<float name="event_param_end" value="-1" />
 							<enum name="event_type" value="grenade" />
 							<bool name="event_send_to_target_player" value="False" />
-							<uniqueid name="id" value="1073744532" />
+							<uniqueid name="id" value="1073744570" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744533" />
+					<uniqueid name="id" value="1073744571" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -127,7 +127,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11038228" />
 			<locstring name="help_text" value="11096468" />
-			<string name="hotkey_name" value="N" />
+			<string name="hotkey_name" value="E" />
 			<icon name="icon_name" value="Icons_abilities_ability_british_heat_grenade" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
@@ -163,14 +163,6 @@
 					</template_reference>
 				</list>
 			</template_reference>
-			<template_reference name="required" value="requirements\required_player_upgrade">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11084866" />
-				<bool name="is_present" value="True" />
-				<float name="max_completed" value="100" />
-				<float name="min_completed" value="1" />
-				<instance_reference name="upgrade_name" value="upgrade\british\research\tommy_mills_bomb_mp" />
-			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
 		<int name="ui_position" value="33" />
@@ -205,5 +197,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="95731" />
+	<uniqueid name="pbgid" value="1073741828" />
 </instance>

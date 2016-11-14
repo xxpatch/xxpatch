@@ -66,8 +66,12 @@
 			<FileHash>e5797fdd4c6dd2029056e908eca6a73f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_heat_grenade_vanilla_mp.xml</FileName>
-			<FileHash>a44267ded1c033334f71e05c1bd31eac</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_section_heat_grenade_mp.xml</FileName>
+			<FileHash>b4c6f5ddfea9107875c489d7bf92698a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_this_heat_grenade_mp.xml</FileName>
+			<FileHash>3d9dc7d4d7d18cbb95d40af15dbf17a3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\commander_ability\reinforce_the_front.xml</FileName>
@@ -527,11 +531,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
-			<FileHash>332545539881e27ad7da387d8db65c42</FileHash>
+			<FileHash>c1a0cfa582bc4077199a97ca7c22367e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
-			<FileHash>e503cf41d8db63b6bbf839419f0e0ba5</FileHash>
+			<FileHash>4c00bc6c099d7ba8b5d1f0adc32cbaa8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
