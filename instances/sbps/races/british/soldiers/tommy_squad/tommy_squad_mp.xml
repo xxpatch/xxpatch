@@ -518,7 +518,7 @@
 				<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_order_officer_mp" />
 				<instance_reference name="ability" value="abilities\british\always_on_ability\tommy_cover_combat_bonus" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\grenades\tommy_gammon_bomb_heavy_mp" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\grenades\tommy_section_heat_grenade_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\grenades\tommy_heat_grenade_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>

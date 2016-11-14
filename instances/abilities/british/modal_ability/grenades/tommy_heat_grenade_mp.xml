@@ -18,10 +18,10 @@
 							<bool name="retrigger" value="True" />
 							<string name="state_machine_name" value="rifle_lee_enfield_visible" />
 							<string name="undo_action_state_name" value="on" />
-							<uniqueid name="id" value="1073744567" />
+							<uniqueid name="id" value="1073744586" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744568" />
+					<uniqueid name="id" value="1073744587" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -38,7 +38,7 @@
 							<enum name="unit_type" value="vehicle" />
 						</template_reference>
 					</group>
-					<uniqueid name="id" value="1073744569" />
+					<uniqueid name="id" value="1073744588" />
 					<bool name="target_override_direction_times_max_range" value="False" />
 				</template_reference>
 				<template_reference name="action" value="action\delay">
@@ -53,10 +53,10 @@
 							<float name="event_param_end" value="-1" />
 							<enum name="event_type" value="grenade" />
 							<bool name="event_send_to_target_player" value="False" />
-							<uniqueid name="id" value="1073744570" />
+							<uniqueid name="id" value="1073744589" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744571" />
+					<uniqueid name="id" value="1073744590" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -163,6 +163,29 @@
 					</template_reference>
 				</list>
 			</template_reference>
+			<template_reference name="required" value="requirements\required_any_in_list">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="31" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<list name="requirements">
+					<template_reference name="requirement" value="requirements\required_player_upgrade">
+						<enum name="reason" value="usage" />
+						<locstring name="ui_name" value="0" />
+						<bool name="is_present" value="True" />
+						<float name="max_completed" value="100" />
+						<float name="min_completed" value="1" />
+						<instance_reference name="upgrade_name" value="upgrade\british\research\tommy_mills_bomb_mp" />
+					</template_reference>
+					<template_reference name="requirement" value="requirements\required_slot_item">
+						<enum name="reason" value="usage" />
+						<locstring name="ui_name" value="0" />
+						<bool name="check_item_on_entity" value="False" />
+						<bool name="display_requirement" value="True" />
+						<float name="max_owned" value="10" />
+						<float name="min_owned" value="1" />
+						<instance_reference name="slot_item" value="slot_item\british\heat_nade_token" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					</template_reference>
+				</list>
+			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
 		<int name="ui_position" value="33" />
@@ -197,5 +220,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="1073741828" />
+	<uniqueid name="pbgid" value="95731" />
 </instance>

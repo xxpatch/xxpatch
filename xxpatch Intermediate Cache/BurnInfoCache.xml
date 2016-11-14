@@ -70,12 +70,8 @@
 			<FileHash>e5797fdd4c6dd2029056e908eca6a73f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_section_heat_grenade_mp.xml</FileName>
-			<FileHash>b4c6f5ddfea9107875c489d7bf92698a</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_this_heat_grenade_mp.xml</FileName>
-			<FileHash>3d9dc7d4d7d18cbb95d40af15dbf17a3</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_heat_grenade_mp.xml</FileName>
+			<FileHash>97a930b67af73cd1739d3dc2362dc296</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\commander_ability\reinforce_the_front.xml</FileName>
@@ -475,7 +471,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.xml</FileName>
-			<FileHash>ab016f7861378f97b157781a7a6be883</FileHash>
+			<FileHash>d51ac03bf1616664e91b9024a71ca411</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.xml</FileName>
@@ -547,11 +543,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_mp.xml</FileName>
-			<FileHash>c1a0cfa582bc4077199a97ca7c22367e</FileHash>
+			<FileHash>40d8f34c4b0b68881b670a18176fc1ea</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\tommy_squad\tommy_squad_tank_hunter_mp.xml</FileName>
-			<FileHash>4c00bc6c099d7ba8b5d1f0adc32cbaa8</FileHash>
+			<FileHash>01becec4e4a418c9608fcbd3c93c3b0e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
@@ -730,6 +726,10 @@
 			<FileHash>e03f3acf5543b9a0c89607729ac94046</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\heat_nade_token.xml</FileName>
+			<FileHash>23b7f967475cd6266d1fd5a2561e9ff4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\small_arms\bren_lmg_governor.xml</FileName>
 			<FileHash>7d048be88ec6c879c0aa16e1508fe335</FileHash>
 		</BurnInfo>
@@ -847,7 +847,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.xml</FileName>
-			<FileHash>b7a2612d0961b6b672e1d7bf77d31986</FileHash>
+			<FileHash>b2f11e142c52f5bb41997ad776405dba</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.xml</FileName>
@@ -979,7 +979,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>30def4935c05484185722e9665fdb5c9</FileHash>
+			<FileHash>c0be3c34d4d15c32d0d9fac68ae614ff</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
