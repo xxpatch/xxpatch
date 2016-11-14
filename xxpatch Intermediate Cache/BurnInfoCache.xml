@@ -319,7 +319,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\puma\puma_east_german.xml</FileName>
-			<FileHash>101ea9014b79b8af95208ba12d6142a7</FileHash>
+			<FileHash>99a3beaad0eb716b0711ed0484aa263b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_commander_mp.xml</FileName>
@@ -831,11 +831,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_coaxial_mp.xml</FileName>
-			<FileHash>46b7856568e920f2041c2822fbcdd4b4</FileHash>
+			<FileHash>1547a010d3e400c22073d01d47971e85</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_hull_mp.xml</FileName>
-			<FileHash>3ef501a12b9e486f14eb2d9411c02de8</FileHash>
+			<FileHash>0d8f7a4ee9ecb65293f2fdbe2fafde8f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\puma_50mm_mp.xml</FileName>
@@ -858,8 +858,12 @@
 			<FileHash>6994b6bb6bc1cb66f5b5839bbe664e6f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\puma_mg42_mp.xml</FileName>
+			<FileHash>35c8b6b6c691d685a6b116972ef83ffc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.xml</FileName>
-			<FileHash>1f4eeb492c2e20f730f8925d01d11d67</FileHash>
+			<FileHash>07357e9847975f78f6fd8858630d367a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\eg_pioneer_mp40_smg_mp.xml</FileName>
@@ -879,7 +883,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp.xml</FileName>
-			<FileHash>1050787ccb43628c6d582483be043930</FileHash>
+			<FileHash>3ccbbeb1090768b1dc7fe06bddd56744</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_critical_shot_mp.xml</FileName>
@@ -915,7 +919,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp.xml</FileName>
-			<FileHash>5407549c53476e55346a48107ccb092f</FileHash>
+			<FileHash>6a7fab0a8fed3be2febc7352585cf9d6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\infantry_anti_tank_weapon\guard_troop_ptrs_41_mp.xml</FileName>
@@ -935,7 +939,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.xml</FileName>
-			<FileHash>bdb0b84c5fb56f8b827fb00c1ce9c2bc</FileHash>
+			<FileHash>4c7fa3113cd0d92a9de58b438f1c2037</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.xml</FileName>
@@ -968,6 +972,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\luchs_mg34_mounted_mp.xml</FileName>
 			<FileHash>780d5a8dfe2070745b82f5be3889da60</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\sdkfz_234_mg42_mp.xml</FileName>
+			<FileHash>2534348e104e0d6567c02cbc9530fd08</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>

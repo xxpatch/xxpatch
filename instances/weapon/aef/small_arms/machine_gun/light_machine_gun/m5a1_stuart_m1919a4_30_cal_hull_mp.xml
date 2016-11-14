@@ -1,9 +1,9 @@
 <instance description="Hull mounted 30 cal on m5a1 stuart" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.3" />
-			<float name="far" value="0.15" />
-			<float name="mid" value="0.2" />
+			<float name="near" value="0.4" />
+			<float name="far" value="0.1667" />
+			<float name="mid" value="0.3" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
@@ -127,7 +127,7 @@
 				<float name="min" value="1" />
 			</group>
 			<group name="incremental_target_table">
-				<float name="accuracy_multiplier" value="1.12" />
+				<float name="accuracy_multiplier" value="1" />
 				<group name="search_radius">
 					<float name="far" value="10" />
 					<float name="near" value="6" />
