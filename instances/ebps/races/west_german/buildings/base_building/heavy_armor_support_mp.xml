@@ -689,12 +689,6 @@
 									</template_reference>
 									<template_reference name="info" value="type_ability_target_type\not">
 										<group name="target_info">
-											<template_reference name="target_info" value="type_ability_target_type\is_moving">
-											</template_reference>
-										</group>
-									</template_reference>
-									<template_reference name="info" value="type_ability_target_type\not">
-										<group name="target_info">
 											<template_reference name="target_info" value="type_ability_target_type\is_retreating">
 											</template_reference>
 										</group>
@@ -746,12 +740,6 @@
 									<template_reference name="info" value="type_ability_target_type\not">
 										<group name="target_info">
 											<template_reference name="target_info" value="type_ability_target_type\is_in_combat">
-											</template_reference>
-										</group>
-									</template_reference>
-									<template_reference name="info" value="type_ability_target_type\not">
-										<group name="target_info">
-											<template_reference name="target_info" value="type_ability_target_type\is_moving">
 											</template_reference>
 										</group>
 									</template_reference>
@@ -813,12 +801,6 @@
 									</template_reference>
 									<template_reference name="info" value="type_ability_target_type\not">
 										<group name="target_info">
-											<template_reference name="target_info" value="type_ability_target_type\is_moving">
-											</template_reference>
-										</group>
-									</template_reference>
-									<template_reference name="info" value="type_ability_target_type\not">
-										<group name="target_info">
 											<template_reference name="target_info" value="type_ability_target_type\is_retreating">
 											</template_reference>
 										</group>
@@ -875,12 +857,6 @@
 									</template_reference>
 									<template_reference name="info" value="type_ability_target_type\not">
 										<group name="target_info">
-											<template_reference name="target_info" value="type_ability_target_type\is_moving">
-											</template_reference>
-										</group>
-									</template_reference>
-									<template_reference name="info" value="type_ability_target_type\not">
-										<group name="target_info">
 											<template_reference name="target_info" value="type_ability_target_type\is_retreating">
 											</template_reference>
 										</group>
@@ -932,12 +908,6 @@
 									<template_reference name="info" value="type_ability_target_type\not">
 										<group name="target_info">
 											<template_reference name="target_info" value="type_ability_target_type\is_in_combat">
-											</template_reference>
-										</group>
-									</template_reference>
-									<template_reference name="info" value="type_ability_target_type\not">
-										<group name="target_info">
-											<template_reference name="target_info" value="type_ability_target_type\is_moving">
 											</template_reference>
 										</group>
 									</template_reference>
