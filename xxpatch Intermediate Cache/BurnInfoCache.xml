@@ -75,7 +75,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>e34a73271063b13795647120c969a007</FileHash>
+			<FileHash>dcb660e58ab356c1a924f4387a5ef502</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\always_on_ability\brit_sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
@@ -115,7 +115,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\toggle_ability\brit_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>ca598ace7bc63dd9a67ace978f0e8d5d</FileHash>
+			<FileHash>7c1bce31b08adc79d83093548b9d1a58</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\always_on_ability\axis_sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
@@ -239,7 +239,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>79a202853ccfdd5277a6350a94cdb9dd</FileHash>
+			<FileHash>c916ac4992779a90481a844c734b03e4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp.xml</FileName>
@@ -283,11 +283,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
-			<FileHash>e56017afa19be0663610064e80d6a4bf</FileHash>
+			<FileHash>4111aae402d63983ea9b063a2de227d0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>2838010897a63c76561ce38499db9f48</FileHash>
+			<FileHash>aa40bc9d1cd63eb1e7321a7073cff1bf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\critical\vehicle_abandon.xml</FileName>

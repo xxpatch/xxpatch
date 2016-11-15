@@ -119,28 +119,226 @@
 				</template_reference>
 			</list>
 			<list name="start_target_actions">
-				<template_reference name="action" value="action\change_target_action">
-					<list name="actions">
-						<template_reference name="action" value="action\override_weapon_target_prereq_action">
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_unit_type">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<enum name="unit_type" value="vehicle" />
-									<template_reference name="qualify_option" value="options\none">
-									</template_reference>
-									<bool name="search_load_out" value="False" />
-									<bool name="owned_by_player_only" value="True" />
-								</template_reference>
-							</list>
-							<instance_reference name="weapon_to_override" value="" />
-							<uniqueid name="id" value="1073744146" />
-							<bool name="auto_attack_only" value="True" />
-							<bool name="persist_on_weapon_change" value="True" />
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<enum name="change_target_type" value="entities" />
-					<uniqueid name="id" value="1073744147" />
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\anti_tank_gun\pak40_75mm_wg_mp" />
+					<uniqueid name="id" value="1073744822" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\axis\ballistic_weapon\anti_tank_gun\pak43_88mm_atg_mp" />
+					<uniqueid name="id" value="1073744823" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\jagdpanzer_iv_pak_42_75mm_mp" />
+					<uniqueid name="id" value="1073744824" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\jagdtiger_pak_44_128mm_gun_mp" />
+					<uniqueid name="id" value="1073744825" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\jagdtiger_pak_44_128mm_piercing_gun_mp" />
+					<uniqueid name="id" value="1073744826" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\tiger_kwk43_88mm_mp" />
+					<uniqueid name="id" value="1073744827" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\tiger_kwk43_88mm_spearhead_mp" />
+					<uniqueid name="id" value="1073744828" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\panther_kwk42_75mm_mp" />
+					<uniqueid name="id" value="1073744829" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\panther_kwk42_75mm_vet_mp" />
+					<uniqueid name="id" value="1073744830" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\panzer_iv_kwk40_75mm_mp" />
+					<uniqueid name="id" value="1073744831" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_kwk39_5cm_mp" />
+					<uniqueid name="id" value="1073744832" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp" />
+					<uniqueid name="id" value="1073744833" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
+				</template_reference>
+				<template_reference name="action" value="action\override_weapon_target_prereq_action">
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="True" />
+						</template_reference>
+					</list>
+					<instance_reference name="weapon_to_override" value="weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp" />
+					<uniqueid name="id" value="1073744834" />
+					<bool name="auto_attack_only" value="True" />
+					<bool name="persist_on_weapon_change" value="True" />
 				</template_reference>
 			</list>
 		</group>
@@ -222,7 +420,7 @@
 			<locstring name="screen_name_short" value="0" />
 		</group>
 		<locstring name="ui_usage_txt" value="0" />
-		<bool name="validate_actions" value="False" />
+		<bool name="validate_actions" value="True" />
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
