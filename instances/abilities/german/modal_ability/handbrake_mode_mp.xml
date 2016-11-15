@@ -12,14 +12,23 @@
 							<float name="duration" value="0" />
 							<bool name="permanent" value="False" />
 							<list name="modifiers">
-								<template_reference name="modifier" value="modifiers\move_enable_modifier">
+								<template_reference name="modifier" value="modifiers\speed_maximum_modifier">
 									<enum name="application_type" value="apply_to_entity" />
 									<bool name="exclusive" value="False" />
 									<string name="modifier_id" value="" />
 									<string name="target_type_name" value="" />
-									<enum name="usage_type" value="enable" />
-									<float name="value" value="-1" />
-									<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
+									<enum name="usage_type" value="multiplication" />
+									<float name="value" value="0" />
+									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
+								</template_reference>
+								<template_reference name="modifier" value="modifiers\rotation_speed_modifier">
+									<enum name="application_type" value="apply_to_entity" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="" />
+									<enum name="usage_type" value="multiplication" />
+									<float name="value" value="0" />
+									<instance_reference name="tooltip" value="modifier_tooltip\rotation_speed_modifier" />
 								</template_reference>
 							</list>
 							<uniqueid name="id" value="1073743652" />
