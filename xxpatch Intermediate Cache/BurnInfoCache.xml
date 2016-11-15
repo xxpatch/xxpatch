@@ -22,6 +22,14 @@
 			<FileHash>abda6547463128d7b9c1021e4a2117b5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery.xml</FileName>
+			<FileHash>aa2db52de4cbbd88d6e1c136c9820f76</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery_fake.xml</FileName>
+			<FileHash>7311086fb35f39ebc0c8f2b6393453c8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_heavy_he_short_delay_mortar_barrage_mp.xml</FileName>
 			<FileHash>8cd7f0ed7dc71da667ca96ca86c5e401</FileHash>
 		</BurnInfo>
@@ -32,6 +40,26 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.xml</FileName>
 			<FileHash>f10be832a2492b3a1a0cb3171a0e906d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\artillery_155mm.xml</FileName>
+			<FileHash>cc82496a07cc3c5140cdc9aefaba5937</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\support_artillery.xml</FileName>
+			<FileHash>0f21dc8474958ac731fcc1e0705ba071</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\support_artillery_decoy.xml</FileName>
+			<FileHash>bcec2ae6a559b62c09e9068a9ac20ebd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\time_on_target_artillery.xml</FileName>
+			<FileHash>474ffc2c88fb433a48b5d529e0e7bc16</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\usf_strafing_run.xml</FileName>
+			<FileHash>b1d64ac672564df22e2a8bc7beea46d2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.xml</FileName>
@@ -118,6 +146,30 @@
 			<FileHash>aed9398fbdda65b8d631a3267bab3468</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\railway_gun_artillery.xml</FileName>
+			<FileHash>80083eeba82be95c73f50245cd1465a9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_close_air_support.xml</FileName>
+			<FileHash>9edcb76c6a969cc8b666a85d45aaf7e7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_strafing_run.xml</FileName>
+			<FileHash>46d08f40b0a8d970f54d5b6e99f8d37b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\stuka_bombing_strike.xml</FileName>
+			<FileHash>20c8ea82cae98de119faa0cbe7197ce5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb.xml</FileName>
+			<FileHash>ee56975988b1c12e83f087092ed1f7de</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\stuka_incendiary_bombs.xml</FileName>
+			<FileHash>c9fe4d185c392498cc973aca3048d416</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\dispatch\stug_iii_e.xml</FileName>
 			<FileHash>f350f91c46cedfdae37da1608b286d2a</FileHash>
 		</BurnInfo>
@@ -136,6 +188,30 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\artillery\artillery_barrage_ability\su-76_barrage_ability_mp.xml</FileName>
 			<FileHash>514a114012c19fc1a1fde7f3c8eca257</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\fear_propaganda_artillery.xml</FileName>
+			<FileHash>84c41c90bb371c7d709724a9ce8ac033</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\fire_artillery.xml</FileName>
+			<FileHash>8ab400d91d2140dfd6c534c427d3b12c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\il-2_anti_tank_bomb_strike.xml</FileName>
+			<FileHash>b486089895a60c0b4e7bf353b7a28fde</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\il-2_precision_bomb_strike.xml</FileName>
+			<FileHash>4cee05b2f8b4392681082a59604a725c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack_advanced.xml</FileName>
+			<FileHash>dc76d130636a69b55b87b4ca2cc27d0d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\il-2_support.xml</FileName>
+			<FileHash>e6e708dd3bb4e9e642aea580830464cd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp.xml</FileName>
@@ -196,6 +272,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\accessory_weapons\volks_panzerfaust_mp.xml</FileName>
 			<FileHash>fd6bc387ce41c2787e1d3f765275a68b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\commander_ability\howitzer_105mm_offmap_barrage.xml</FileName>
+			<FileHash>2efd7e57bdef649f8f4826d9c97fe5c7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\commander_ability\rocket_barrage.xml</FileName>
+			<FileHash>ffac19f1b9d2b4bbc5419134e7315f3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
@@ -451,7 +535,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
-			<FileHash>f25a5ea6031beda6abc87ce1174d88f4</FileHash>
+			<FileHash>08d1910fc569838d8f09fa07bd2ab6b8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_combat_group_squad_mp.xml</FileName>
@@ -471,7 +555,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_recon_mp.xml</FileName>
-			<FileHash>8b578bae166128d6577cf1f5ed532d76</FileHash>
+			<FileHash>cec6e1229dc6fb4f39bebb8ca84af1cf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\ranger_squad\ranger_squad_commander_mp.xml</FileName>

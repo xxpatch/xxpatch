@@ -631,8 +631,8 @@
 				<instance_reference name="ability" value="abilities\aef\modal_ability\major_quick_recon_run" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\major_quick_recon_run_improved" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery_fake" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery_fake" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\officer_stop_retreat_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
