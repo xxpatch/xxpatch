@@ -78,6 +78,10 @@
 			<FileHash>e95afb15ff384cbf4a2567819aa8c731</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\officer_charge_mp.xml</FileName>
+			<FileHash>e6da60615b92aa8dfc4f074eb9ffa9e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\commander_ability\reinforce_the_front.xml</FileName>
 			<FileHash>c3e17a7b243c05676ffdecf2a1feb40d</FileHash>
 		</BurnInfo>
@@ -547,11 +551,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp.xml</FileName>
-			<FileHash>269a026eae9f237d5343f3c438a5b66a</FileHash>
+			<FileHash>60e1fddb91a86fc7adb8a6afc45be82a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\brit_officer_squad\forward_observation_squad_mp.xml</FileName>
-			<FileHash>60fe77fe034704c908c868c76e6a6153</FileHash>
+			<FileHash>26aba47ebc3a929f3fe5e50292326ff1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\commando_squad\commando_squad_mp.xml</FileName>

@@ -653,7 +653,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\british\timed_ability\officer_charge_mp" />
+				<instance_reference name="ability" value="abilities\british\timed_ability\officer_charge_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\officer_recon_sweep" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\grenades\tommy_gammon_bomb_medium_mp" />
 			</list>
