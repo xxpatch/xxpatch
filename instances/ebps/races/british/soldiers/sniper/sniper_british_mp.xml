@@ -3,7 +3,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="armies\common\base\commonhuman\commonhuman" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\german\soldiers\sniper\sniper" />
+			<file name="animator" value="armies\british\soldiers\sniper\sniper" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
@@ -16,12 +16,27 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
-				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-				<instance_reference name="ability" value="abilities\global\custom_commander\heal_in_cover" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\sniper_boys_anti_tank_critical_shot_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
 			<list name="actions">
+				<template_reference name="action" value="action\apply_modifiers_action">
+					<float name="duration" value="0" />
+					<bool name="permanent" value="False" />
+					<list name="modifiers">
+						<template_reference name="modifier" value="modifiers\ignore_snow_effects_modifier">
+							<enum name="application_type" value="apply_to_entity" />
+							<bool name="exclusive" value="False" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="" />
+							<enum name="usage_type" value="enable" />
+							<float name="value" value="1" />
+							<instance_reference name="tooltip" value="modifier_tooltip\ignore_snow_effects_modifier" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073744836" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\cost_ext">
@@ -134,7 +149,7 @@
 								<bool name="flame" value="False" />
 								<bool name="ballistic" value="False" />
 								<bool name="big_explosive" value="True" />
-								<bool name="small_explosive" value="False" />
+								<bool name="small_explosive" value="True" />
 							</enum_table>
 							<instance_reference name="critical" value="critical\soldier_killed_death_intensity_100" />
 							<enum_table name="applicable_hit_direction">
@@ -260,8 +275,8 @@
 				<enum name="unit_type00" value="infantry" />
 				<enum name="unit_type01" value="attrition_sniper" />
 				<enum name="unit_type02" value="snipers" />
-				<enum name="unit_type03" value="sniper_german" />
-				<enum name="unit_type04" value="german_infantry" />
+				<enum name="unit_type03" value="brit_sniper" />
+				<enum name="unit_type04" value="brit_infantry" />
 				<enum name="unit_type05" value="mp_unit" />
 				<enum name="unit_type06" value="" />
 				<enum name="unit_type07" value="" />
@@ -308,14 +323,14 @@
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_2">
-				<string name="code_1" value="sx" />
-				<string name="code_2" value="sn" />
-				<string name="code_3" value="in" />
+				<string name="code_1" value="sn" />
+				<string name="code_2" value="in" />
+				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_3">
-				<string name="code_1" value="snx" />
-				<string name="code_2" value="sni" />
-				<string name="code_3" value="inf" />
+				<string name="code_1" value="sni" />
+				<string name="code_2" value="inf" />
+				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_cover">
 				<string name="code_1" value="" />
@@ -344,7 +359,7 @@
 			<locstring name="help_text_world" value="0" />
 			<locstring name="extra_text_world" value="0" />
 			<enum name="map_rotation_type_override" value="no_override" />
-			<icon name="symbol_icon_name" value="Icons_symbols_unit_german_sniper_symbol" />
+			<icon name="symbol_icon_name" value="Icons_symbols_unit_british_sniper_symbol" />
 			<enum name="occlusion_state" value="can_be_occluded" />
 			<enum name="decorator_visibility" value="default" />
 			<string name="decorator_marker_name" value="Marker_FX_UI" />
@@ -396,7 +411,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp" />
+							<instance_reference name="weapon" value="weapon\british\ballistic_weapon\infantry_anti_tank_weapon\boys_at_rifle_sniper_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -417,7 +432,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -466,6 +481,22 @@
 				<float name="safety_value" value="0" />
 				<float name="speed_multiplier" value="1" />
 				<list name="actions">
+					<template_reference name="action" value="action\apply_modifiers_action">
+						<float name="duration" value="0" />
+						<bool name="permanent" value="False" />
+						<list name="modifiers">
+							<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
+								<enum name="application_type" value="apply_to_entity" />
+								<bool name="exclusive" value="False" />
+								<string name="modifier_id" value="" />
+								<string name="target_type_name" value="" />
+								<enum name="usage_type" value="multiplication" />
+								<float name="value" value="0.9" />
+								<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073744837" />
+					</template_reference>
 				</list>
 			</group>
 			<group name="tp_heavy">
@@ -482,7 +513,23 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743156" />
+						<uniqueid name="id" value="1073744838" />
+					</template_reference>
+					<template_reference name="action" value="action\apply_modifiers_action">
+						<float name="duration" value="0" />
+						<bool name="permanent" value="False" />
+						<list name="modifiers">
+							<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
+								<enum name="application_type" value="apply_to_entity" />
+								<bool name="exclusive" value="False" />
+								<string name="modifier_id" value="" />
+								<string name="target_type_name" value="" />
+								<enum name="usage_type" value="multiplication" />
+								<float name="value" value="0.9" />
+								<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073744839" />
 					</template_reference>
 				</list>
 			</group>
@@ -500,7 +547,23 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743157" />
+						<uniqueid name="id" value="1073744840" />
+					</template_reference>
+					<template_reference name="action" value="action\apply_modifiers_action">
+						<float name="duration" value="0" />
+						<bool name="permanent" value="False" />
+						<list name="modifiers">
+							<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
+								<enum name="application_type" value="apply_to_entity" />
+								<bool name="exclusive" value="False" />
+								<string name="modifier_id" value="" />
+								<string name="target_type_name" value="" />
+								<enum name="usage_type" value="multiplication" />
+								<float name="value" value="0.9" />
+								<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073744841" />
 					</template_reference>
 				</list>
 			</group>
@@ -518,7 +581,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743158" />
+						<uniqueid name="id" value="1073744842" />
 					</template_reference>
 				</list>
 			</group>
@@ -536,7 +599,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743159" />
+						<uniqueid name="id" value="1073744843" />
 					</template_reference>
 				</list>
 			</group>
@@ -554,7 +617,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743160" />
+						<uniqueid name="id" value="1073744844" />
 					</template_reference>
 				</list>
 			</group>
@@ -582,7 +645,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743161" />
+						<uniqueid name="id" value="1073744845" />
 					</template_reference>
 				</list>
 			</group>
@@ -634,7 +697,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="0" />
-				<float name="speed_multiplier" value="0.45" />
+				<float name="speed_multiplier" value="1" />
 			</group>
 			<group name="tp_zz_mud">
 				<list name="actions">
@@ -644,7 +707,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="0" />
-				<float name="speed_multiplier" value="0.7" />
+				<float name="speed_multiplier" value="1" />
 				<enum name="override_path_weight" value="" />
 			</group>
 			<group name="tp_zz_team_weapon_heavy">
@@ -702,7 +765,7 @@
 							<float name="deceleration_multiplier" value="0.3" />
 							<float name="pathfinding_size_x" value="0" />
 							<float name="pathfinding_size_y" value="0" />
-							<uniqueid name="id" value="1073743162" />
+							<uniqueid name="id" value="1073744846" />
 						</template_reference>
 						<template_reference name="action" value="action\apply_modifiers_action">
 							<float name="duration" value="1" />
@@ -718,10 +781,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743163" />
+							<uniqueid name="id" value="1073744847" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743164" />
+					<uniqueid name="id" value="1073744848" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -755,5 +818,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1541" />
+	<uniqueid name="pbgid" value="17809" />
 </instance>
