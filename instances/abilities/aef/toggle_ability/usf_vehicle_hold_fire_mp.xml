@@ -246,7 +246,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="" />
+					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_75mm_he_shell_mp" />
 					<uniqueid name="id" value="1073744183" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />
