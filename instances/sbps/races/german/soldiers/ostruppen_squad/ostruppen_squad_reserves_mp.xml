@@ -426,7 +426,7 @@
 						<group name="action_choice">
 							<list name="actions">
 								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\german\small_arms\grenadier_mg42_lmg_mp" />
+									<instance_reference name="slot_item" value="slot_item\german\small_arms\grenadier_mg42_lmg_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 									<bool name="permanent" value="True" />
 									<uniqueid name="id" value="1073742530" />
 								</template_reference>

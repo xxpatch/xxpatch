@@ -43,14 +43,9 @@
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" />
+				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073744618" />
-			</template_reference>
-			<template_reference name="action" value="action\upgrade_remove">
-				<bool name="apply_to_entities_in_squad" value="False" />
-				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_flamethrower_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<uniqueid name="id" value="1073744619" />
 			</template_reference>
 		</list>
 		<list name="requirements">
@@ -123,7 +118,7 @@
 						<bool name="display_requirement" value="False" />
 						<float name="max_owned" value="0" />
 						<float name="min_owned" value="0" />
-						<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" />
+						<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					</template_reference>
 				</list>
 			</template_reference>

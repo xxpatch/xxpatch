@@ -88,7 +88,7 @@
 				<uniqueid name="id" value="1073742923" />
 			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" />
+				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073742924" />
 			</template_reference>
