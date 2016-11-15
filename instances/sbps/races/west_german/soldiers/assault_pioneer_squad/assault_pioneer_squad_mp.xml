@@ -409,7 +409,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\west_german\items\assault_pioneer_repair_upgrade" />
-				<instance_reference name="upgrade" value="upgrade\west_german\items\volks_flamethrower_mp" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\volks_flamethrower_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="upgrade" value="upgrade\west_german\items\assault_pioneer_combat_upgrade" />
 			</list>
 		</template_reference>
