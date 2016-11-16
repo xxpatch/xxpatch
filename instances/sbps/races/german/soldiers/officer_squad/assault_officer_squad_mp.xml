@@ -161,12 +161,12 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_mp" />
-				</group>
-				<group name="loadout_data">
 					<float name="num" value="3" />
 					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_grenadiers_bodyguard_mp" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
