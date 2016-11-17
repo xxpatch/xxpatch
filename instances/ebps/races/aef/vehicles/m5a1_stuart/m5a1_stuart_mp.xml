@@ -16,7 +16,7 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\m5_stuart_shell_shock" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\m5_stuart_shell_shock" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\m5_stuart_damage_engine" />
 				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
