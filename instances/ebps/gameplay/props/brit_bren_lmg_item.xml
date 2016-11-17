@@ -57,35 +57,14 @@
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
 					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_not">
+						<template_reference name="required" value="requirements\required_unit_type">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_unit_type">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<enum name="unit_type" value="engineer" />
-									<template_reference name="qualify_option" value="options\none">
-									</template_reference>
-									<bool name="search_load_out" value="False" />
-									<bool name="owned_by_player_only" value="True" />
-								</template_reference>
-							</list>
-						</template_reference>
-						<template_reference name="required" value="requirements\required_not">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_unit_type">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<enum name="unit_type" value="brit_commando" />
-									<template_reference name="qualify_option" value="options\none">
-									</template_reference>
-									<bool name="search_load_out" value="True" />
-									<bool name="owned_by_player_only" value="True" />
-								</template_reference>
-							</list>
+							<enum name="unit_type" value="brit_tommy" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="True" />
+							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
 					<list name="action_table">
@@ -118,14 +97,35 @@
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
 					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_unit_type">
+						<template_reference name="required" value="requirements\required_not">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<enum name="unit_type" value="engineer" />
-							<template_reference name="qualify_option" value="options\none">
-							</template_reference>
-							<bool name="search_load_out" value="False" />
-							<bool name="owned_by_player_only" value="True" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_unit_type">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<enum name="unit_type" value="brit_tommy" />
+									<template_reference name="qualify_option" value="options\none">
+									</template_reference>
+									<bool name="search_load_out" value="True" />
+									<bool name="owned_by_player_only" value="True" />
+								</template_reference>
+							</list>
+						</template_reference>
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_unit_type">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<enum name="unit_type" value="brit_commando" />
+									<template_reference name="qualify_option" value="options\none">
+									</template_reference>
+									<bool name="search_load_out" value="True" />
+									<bool name="owned_by_player_only" value="True" />
+								</template_reference>
+							</list>
 						</template_reference>
 					</list>
 					<list name="action_table">
