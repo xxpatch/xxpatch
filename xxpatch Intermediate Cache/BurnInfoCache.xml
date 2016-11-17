@@ -319,7 +319,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
-			<FileHash>36e50094790167ec6aa2a5b05b9c3a97</FileHash>
+			<FileHash>3a3c0c1796dbf18efc80f386cd6371ff</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\soldiers\paratrooper\paratrooper_mp.xml</FileName>
@@ -875,7 +875,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\small_arms\m1919a6_lmg_governor.xml</FileName>
-			<FileHash>20a95f648e7241db1a746133b0d5a458</FileHash>
+			<FileHash>82c464c23bce0f9b60ffa511026ba1fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\heat_nade_token.xml</FileName>
@@ -940,6 +940,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\lieutenant_bar_upgrade_mp.xml</FileName>
 			<FileHash>4ba8621c7732a91d9f5af2f26567db0c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.xml</FileName>
+			<FileHash>8ad050c2e348e55c97c8c34f4532dfa6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\riflemen_flamethrower.xml</FileName>

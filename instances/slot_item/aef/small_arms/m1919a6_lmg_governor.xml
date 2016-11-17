@@ -104,22 +104,98 @@
 								<enum name="reason" value="usage" />
 								<locstring name="ui_name" value="34" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 								<list name="requirement_table">
-									<template_reference name="required" value="requirements\required_not">
+									<template_reference name="required" value="requirements\required_any_in_list">
 										<enum name="reason" value="usage" />
 										<locstring name="ui_name" value="0" />
-										<list name="requirement_table">
-											<template_reference name="required" value="requirements\required_slot_item_size">
+										<list name="requirements">
+											<template_reference name="requirement" value="requirements\required_all_in_list">
 												<enum name="reason" value="usage" />
 												<locstring name="ui_name" value="0" />
-												<float name="required_free_slot_size" value="3" />
+												<list name="requirements">
+													<template_reference name="requirement" value="requirements\required_not">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<list name="requirement_table">
+															<template_reference name="required" value="requirements\required_slot_item_size">
+																<enum name="reason" value="usage" />
+																<locstring name="ui_name" value="0" />
+																<float name="required_free_slot_size" value="3" />
+															</template_reference>
+														</list>
+													</template_reference>
+													<template_reference name="requirement" value="requirements\required_number_of_squad_members">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<enum name="comparison" value="equal_to" />
+														<float name="number_of_members" value="1" />
+													</template_reference>
+												</list>
+											</template_reference>
+											<template_reference name="requirement" value="requirements\required_all_in_list">
+												<enum name="reason" value="usage" />
+												<locstring name="ui_name" value="0" />
+												<list name="requirements">
+													<template_reference name="requirement" value="requirements\required_not">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<list name="requirement_table">
+															<template_reference name="required" value="requirements\required_slot_item_size">
+																<enum name="reason" value="usage" />
+																<locstring name="ui_name" value="0" />
+																<float name="required_free_slot_size" value="3" />
+															</template_reference>
+														</list>
+													</template_reference>
+													<template_reference name="requirement" value="requirements\required_number_of_squad_members">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<enum name="comparison" value="less_than_or_equal_to" />
+														<float name="number_of_members" value="2" />
+													</template_reference>
+													<template_reference name="requirement" value="requirements\required_slot_item">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<bool name="check_item_on_entity" value="False" />
+														<bool name="display_requirement" value="True" />
+														<float name="max_owned" value="1" />
+														<float name="min_owned" value="1" />
+														<instance_reference name="slot_item" value="slot_item\minesweeper\minesweeper" />
+													</template_reference>
+												</list>
+											</template_reference>
+											<template_reference name="requirement" value="requirements\required_all_in_list">
+												<enum name="reason" value="usage" />
+												<locstring name="ui_name" value="0" />
+												<list name="requirements">
+													<template_reference name="requirement" value="requirements\required_not">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<list name="requirement_table">
+															<template_reference name="required" value="requirements\required_slot_item_size">
+																<enum name="reason" value="usage" />
+																<locstring name="ui_name" value="0" />
+																<float name="required_free_slot_size" value="3" />
+															</template_reference>
+														</list>
+													</template_reference>
+													<template_reference name="requirement" value="requirements\required_number_of_squad_members">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<enum name="comparison" value="less_than_or_equal_to" />
+														<float name="number_of_members" value="3" />
+													</template_reference>
+													<template_reference name="requirement" value="requirements\required_slot_item">
+														<enum name="reason" value="usage" />
+														<locstring name="ui_name" value="0" />
+														<bool name="check_item_on_entity" value="False" />
+														<bool name="display_requirement" value="True" />
+														<float name="max_owned" value="1" />
+														<float name="min_owned" value="1" />
+														<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1c_pathfinder_garand" />
+													</template_reference>
+												</list>
 											</template_reference>
 										</list>
-									</template_reference>
-									<template_reference name="required" value="requirements\required_number_of_squad_members">
-										<enum name="reason" value="usage" />
-										<locstring name="ui_name" value="0" />
-										<enum name="comparison" value="equal_to" />
-										<float name="number_of_members" value="1" />
 									</template_reference>
 								</list>
 							</template_reference>
