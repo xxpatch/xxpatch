@@ -367,7 +367,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.xml</FileName>
-			<FileHash>23ec333f8331585c84322e74714186a5</FileHash>
+			<FileHash>873b5b1e392fdb26d173528db519c0e7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_piat_launcher_mp.xml</FileName>
@@ -375,7 +375,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_bren_lmg_mp.xml</FileName>
-			<FileHash>f0e0c3757712f5f59e44aed6db405a2c</FileHash>
+			<FileHash>02f6a7794900da0e08787bbf2744aeb1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_piat_launcher_mp.xml</FileName>
@@ -943,11 +943,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.xml</FileName>
-			<FileHash>8ad050c2e348e55c97c8c34f4532dfa6</FileHash>
+			<FileHash>24dac21ce7b07ee7774b80b0967ca7dd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\riflemen_flamethrower.xml</FileName>
 			<FileHash>8586bc810c6a457627c3ed6b009e2a2b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\bren_lmg_governor_upgrade_mp.xml</FileName>
+			<FileHash>ce8f932ed78ab66ae72717d780fe8a22</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\sapper_flamethrower.xml</FileName>
