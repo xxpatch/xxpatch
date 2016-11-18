@@ -73,6 +73,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\commander_ability\rocket_barrage.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\luchs_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\battle_plans\armor_plans\tiger_prowl_jagdpanzer_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\critical\vehicle_abandon.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\critical\vehicle_aec_temp_immobility.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\gameplay\territory_fuel_point_mp.rgd
@@ -220,10 +221,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\howitzer_105mm_le_fh18_artillery\okw_howitzer_105mm_le_fh18_artillery_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\flame_weapon\assault_engineer_flamethrower.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m1919a6_lmg_governor.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\british\heat_nade_token.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\british\flame_weapon\tommy_flamethrower.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\british\small_arms\bren_lmg_governor.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\ballistic_weapon\stug_e_critical_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\explosive_weapon\grenade\axis_assault_grenadier_squad_grenade.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\flame_weapon\pioneer_flamethrower_mp.rgd
@@ -289,6 +288,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\grenade\guard_troop_rgd_33_sleeved_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\jagdpanzer_iv_pak_42_75mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_aimed_shot_mp.rgd
