@@ -485,7 +485,7 @@
 		<locstring name="ui_name" value="0" />
 		<enum name="weapon_type" value="ballistic" />
 		<instance_reference name="ui_range" value="" />
-		<instance_reference name="ui_setfacing" value="" />
+		<instance_reference name="ui_setfacing" value="ui_setfacing\weapon_default" />
 		<group name="penetration">
 			<float name="mid" value="30" />
 			<float name="far" value="30" />

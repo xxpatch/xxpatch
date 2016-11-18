@@ -122,6 +122,10 @@
 			<FileHash>b0189b3dd736237326feeb8ba8daad37</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\handbrake_mode_no_move_mp.xml</FileName>
+			<FileHash>c0ae6e4f6bbc69c5033294806002770e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\infantry_medkits_mp.xml</FileName>
 			<FileHash>68322f963398bb64be42bfd581af6c9a</FileHash>
 		</BurnInfo>
@@ -519,11 +523,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
-			<FileHash>040ccc2e06636bfcc5f3a2f11d8ba0d7</FileHash>
+			<FileHash>6cc28812934767ed4ca195de234b4655</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp.xml</FileName>
-			<FileHash>ab7b1b90517a54955d41eb18625e85b4</FileHash>
+			<FileHash>8aee6eeb8fad872a0cdb8c74de289312</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
@@ -1211,11 +1215,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38.xml</FileName>
-			<FileHash>33e3db7b02c7089f216c5ca3a3330139</FileHash>
+			<FileHash>2a21089119d6151749f8e74527a10a21</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet.xml</FileName>
-			<FileHash>e6102724b5c252963a10509a2db611b2</FileHash>
+			<FileHash>dc4c86f293d3d19938b599b784c9782b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\luchs_mg34_mounted_mp.xml</FileName>
