@@ -45,7 +45,7 @@
 				<float name="z" value="0" />
 			</group>
 			<enum name="type" value="accessory" />
-			<instance_reference name="weapon" value="weapon\axis\explosive_weapons\grenade\assault_grenadier_stielgranate_mp" />
+			<instance_reference name="weapon" value="weapon\axis\explosive_weapons\grenade\assault_grenadier_stielgranate_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 		</group>
 		<list name="on_add_actions">
 		</list>

@@ -271,12 +271,17 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_hull_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\anti_tank_gun\75mm_pak_40_ap_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\anti_tank_gun\75mm_pak_40_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerfaust_atw_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\brummbar_150mm_bunker_buster_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\puma_50mm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\puma_critical_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\assault_grenadier_squad_stielgranate_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\assault_grenadier_stielgranate_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\bk_2h_frangible_blinding_grenade.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\grenadier_kar_98k_rifle_grenade_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\panzer_grenadier_bundled_stielgranate_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\light_machine_gun\puma_mg42_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\sub_machine_gun\eg_pioneer_mp40_smg_mp.rgd
@@ -290,6 +295,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\infantry_anti_tank_weapon\piat_launcher_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\aec_75mm_ap_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\grenade\tommy_gammon_bomb_medium.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\grenade\anti_tank_grenade\heat_grenade.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\heavy_artillery\sexton_spg_25_pounder_creeping_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\mortar\brit_3_inch_mortar_2_barrage_light_he_mp.rgd
@@ -312,6 +318,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_kwk39_5cm_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\explosive_weapons\grenade\blendkorper_2h_smoke_grenade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\small_arms\machine_gun\light_machine_gun\luchs_mg34_mounted_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\small_arms\machine_gun\light_machine_gun\sdkfz_234_mg42_mp.rgd
 TOCEnd
