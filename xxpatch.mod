@@ -39,7 +39,7 @@
 					<Dependencies />
 					<Description></Description>
 					<Hidden>false</Hidden>
-					<Name>Movember patch of balans v1.1</Name>
+					<Name>Movember patch of balans v1.2</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>
