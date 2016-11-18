@@ -439,7 +439,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>31b81510fc89b5ea39f66a2fba4e99c1</FileHash>
+			<FileHash>8a6c8d1021fbec1889b89cc10b70552a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
@@ -546,12 +546,20 @@
 			<FileHash>c7017d7473862738873e1ff0491a238d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
+			<FileHash>5c8e4b0ff8316dd106edefba7080ed2d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
 			<FileHash>6cc28812934767ed4ca195de234b4655</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp.xml</FileName>
 			<FileHash>8aee6eeb8fad872a0cdb8c74de289312</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.xml</FileName>
+			<FileHash>e1ef55828b6b281830b458ec26c23ed0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
@@ -1235,15 +1243,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
-			<FileHash>00fd7670adcaf539f021f531b483b364</FileHash>
+			<FileHash>2b947e38cf42f1322879510d8465dd39</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\jagdpanzer_iv_pak_42_75mm_mp.xml</FileName>
-			<FileHash>83729ab1e83787cb34923ef294529479</FileHash>
+			<FileHash>57eaa0bd284fee620b4c1b7dc6014a0f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
-			<FileHash>f8158c5ba66617195f34e313a01a8da4</FileHash>
+			<FileHash>5d227890c04f1263e56811649f3bf0ad</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
