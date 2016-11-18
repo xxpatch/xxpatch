@@ -54,6 +54,13 @@
 								</template_reference>
 							</list>
 						</template_reference>
+						<template_reference name="required" value="requirements\required_entity_upgrade">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<bool name="is_present" value="True" />
+							<instance_reference name="upgrade_name" value="upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp" />
+							<bool name="include_queued" value="False" />
+						</template_reference>
 					</list>
 					<list name="action_table">
 						<template_reference name="action" value="action\apply_modifiers_action">
@@ -70,10 +77,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_suppression_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743884" />
+							<uniqueid name="id" value="1073745203" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743885" />
+					<uniqueid name="id" value="1073745204" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />

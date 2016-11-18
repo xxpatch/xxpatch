@@ -317,7 +317,7 @@
 											<uniqueid name="id" value="1073743876" />
 										</template_reference>
 									</list>
-									<int name="weight" value="17" />
+									<int name="weight" value="35" />
 								</group>
 								<group name="action_choice">
 									<list name="actions">
@@ -327,7 +327,7 @@
 											</template_reference>
 										</template_reference>
 									</list>
-									<int name="weight" value="9899" />
+									<int name="weight" value="165" />
 								</group>
 							</list>
 							<uniqueid name="id" value="1073743878" />

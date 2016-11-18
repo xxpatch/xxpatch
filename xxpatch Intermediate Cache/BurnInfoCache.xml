@@ -379,7 +379,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
-			<FileHash>345fae06a7ddebedfbf1e3f340b5380b</FileHash>
+			<FileHash>0b5d6ba187b9d58e19f1352a4313eb78</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
@@ -403,7 +403,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
-			<FileHash>b4501e14cd7829682418d9520d65ca5d</FileHash>
+			<FileHash>22b9c7ab4516fff941358e0fa2ffebf1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.xml</FileName>
@@ -527,11 +527,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
-			<FileHash>0f27d09ed6a2a87b5bcf2130c5729f0d</FileHash>
+			<FileHash>2bd00896ad0bd25a378fc2a5de48e2e6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
-			<FileHash>8d1f5d90abaa607ff7f4f43d9d7c0856</FileHash>
+			<FileHash>a4eb0b908c8a0a23be99c00e75d27786</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\t_70m\t_70m_mp.xml</FileName>
@@ -1059,7 +1059,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m20_utility_car_m2hb_50cal_mounted_mp.xml</FileName>
-			<FileHash>ff3ee8890d86c3d91495fed253891de5</FileHash>
+			<FileHash>fe507bcde6b2d4be165c52858539a563</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_coaxial_mp.xml</FileName>
@@ -1127,7 +1127,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.xml</FileName>
-			<FileHash>7e77bee596ac0a03167c231052bd1492</FileHash>
+			<FileHash>029f8c2e8a7841a887601b1488045ece</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\eg_pioneer_mp40_smg_mp.xml</FileName>
@@ -1227,7 +1227,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.xml</FileName>
-			<FileHash>4c7fa3113cd0d92a9de58b438f1c2037</FileHash>
+			<FileHash>02e945e3dd9c55396efe5023f4bb8d07</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.xml</FileName>
