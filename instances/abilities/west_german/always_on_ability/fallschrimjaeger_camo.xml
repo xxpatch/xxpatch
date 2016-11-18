@@ -6,17 +6,69 @@
 			<list name="end_target_actions">
 			</list>
 			<list name="start_self_actions">
-				<template_reference name="action" value="action\change_target_action">
-					<list name="actions">
-						<template_reference name="action" value="action\ui_unit_modifier_action">
-							<bool name="die_with_creator" value="False" />
-							<template_reference name="ui_info" value="tables\ui_info">
-								<locstring name="screen_name" value="11083837" />
-								<locstring name="help_text" value="11083838" />
-								<icon name="icon_name" value="Icons_abilities_ability_british_camouflaged_commando" />
-								<string name="hotkey_name" value="" />
-							</template_reference>
-							<uniqueid name="id" value="1073744343" />
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="False" />
+					<bool name="kill_action_on_failed_requirements" value="False" />
+					<bool name="no_retrigger" value="False" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_all_in_list">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirements">
+								<template_reference name="requirement" value="requirements\required_in_cover">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<group name="cover_type_table">
+										<enum name="cover_type_01" value="tp_heavy" />
+										<enum name="cover_type_02" value="tp_light" />
+										<enum name="cover_type_03" value="tp_garrison_halftrack" />
+										<enum name="cover_type_04" value="tp_zz_team_weapon_heavy" />
+										<enum name="cover_type_05" value="" />
+										<enum name="cover_type_06" value="" />
+									</group>
+								</template_reference>
+								<template_reference name="requirement" value="requirements\required_not">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<list name="requirement_table">
+										<template_reference name="required" value="requirements\required_in_state">
+											<enum name="reason" value="usage" />
+											<locstring name="ui_name" value="0" />
+											<bool name="garrisoned" value="False" />
+											<bool name="healed" value="False" />
+											<float name="in_combat_since" value="4" />
+											<bool name="injured" value="False" />
+											<bool name="leader" value="False" />
+											<bool name="not_moving" value="False" />
+											<bool name="not_retreating" value="False" />
+											<bool name="pinned" value="False" />
+											<bool name="suppressed" value="False" />
+											<bool name="camouflaged" value="False" />
+										</template_reference>
+									</list>
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\apply_modifiers_action">
+							<float name="duration" value="0" />
+							<bool name="permanent" value="False" />
+							<list name="modifiers">
+								<template_reference name="modifier" value="modifiers\camouflage_enable">
+									<enum name="application_type" value="apply_to_squad" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="" />
+									<enum name="usage_type" value="enable" />
+									<float name="value" value="1" />
+									<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073745081" />
 						</template_reference>
 						<template_reference name="action" value="action\requirement_action">
 							<bool name="check_self" value="False" />
@@ -31,11 +83,11 @@
 									<locstring name="ui_name" value="0" />
 									<list name="requirement_table">
 										<template_reference name="required" value="requirements\required_in_state">
-											<enum name="reason" value="usage_and_display" />
+											<enum name="reason" value="usage" />
 											<locstring name="ui_name" value="0" />
 											<bool name="garrisoned" value="False" />
 											<bool name="healed" value="False" />
-											<float name="in_combat_since" value="25" />
+											<float name="in_combat_since" value="4" />
 											<bool name="injured" value="False" />
 											<bool name="leader" value="False" />
 											<bool name="not_moving" value="False" />
@@ -46,32 +98,20 @@
 										</template_reference>
 									</list>
 								</template_reference>
-								<template_reference name="required" value="requirements\required_in_cover">
-									<enum name="reason" value="usage_and_display" />
-									<locstring name="ui_name" value="0" />
-									<group name="cover_type_table">
-										<enum name="cover_type_01" value="tp_heavy" />
-										<enum name="cover_type_02" value="tp_light" />
-										<enum name="cover_type_03" value="" />
-										<enum name="cover_type_04" value="" />
-										<enum name="cover_type_05" value="" />
-										<enum name="cover_type_06" value="" />
-									</group>
-								</template_reference>
 							</list>
 							<list name="action_table">
 								<template_reference name="action" value="action\ui_unit_modifier_action">
 									<bool name="die_with_creator" value="False" />
 									<template_reference name="ui_info" value="tables\ui_info">
-										<locstring name="screen_name" value="11097613" />
-										<locstring name="help_text" value="27" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-										<icon name="icon_name" value="Icons_abilities_ability_aef_first_strike" />
+										<locstring name="screen_name" value="11074387" />
+										<locstring name="help_text" value="11075040" />
+										<icon name="icon_name" value="Icons_abilities_ability_west_german_stealth" />
 										<string name="hotkey_name" value="" />
 									</template_reference>
-									<uniqueid name="id" value="1073744344" />
+									<uniqueid name="id" value="1073745082" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073744345" />
+							<uniqueid name="id" value="1073745083" />
 							<bool name="fire_and_forget_non_global" value="False" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
@@ -79,113 +119,7 @@
 							</template_reference>
 						</template_reference>
 					</list>
-					<enum name="change_target_type" value="self" />
-					<uniqueid name="id" value="1073744346" />
-				</template_reference>
-				<template_reference name="action" value="action\requirement_action">
-					<bool name="check_self" value="False" />
-					<bool name="global_fire_and_forget_on_success" value="False" />
-					<bool name="instant_requirement_check" value="False" />
-					<bool name="kill_action_on_failed_requirements" value="False" />
-					<bool name="no_retrigger" value="False" />
-					<bool name="validate_all_sub_actions" value="True" />
-					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_not">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_in_cover">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<group name="cover_type_table">
-										<enum name="cover_type_01" value="tp_heavy" />
-										<enum name="cover_type_02" value="tp_light" />
-										<enum name="cover_type_03" value="tp_zz_deep_snow" />
-										<enum name="cover_type_04" value="tp_garrison_halftrack" />
-										<enum name="cover_type_05" value="tp_zz_team_weapon_heavy" />
-										<enum name="cover_type_06" value="" />
-									</group>
-								</template_reference>
-							</list>
-						</template_reference>
-					</list>
-					<list name="action_table">
-						<template_reference name="action" value="action\delay">
-							<float name="delay" value="3" />
-							<float name="delay_min" value="0" />
-							<bool name="progress_bar" value="False" />
-							<bool name="randomize" value="False" />
-							<list name="delayed_actions">
-								<template_reference name="action" value="action\apply_modifiers_action">
-									<float name="duration" value="0" />
-									<bool name="permanent" value="False" />
-									<list name="modifiers">
-										<template_reference name="modifier" value="modifiers\camouflage_enable">
-											<enum name="application_type" value="apply_to_squad" />
-											<bool name="exclusive" value="False" />
-											<string name="modifier_id" value="" />
-											<string name="target_type_name" value="" />
-											<enum name="usage_type" value="enable" />
-											<float name="value" value="-1" />
-											<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
-										</template_reference>
-									</list>
-									<uniqueid name="id" value="1073744347" />
-								</template_reference>
-							</list>
-							<uniqueid name="id" value="1073744348" />
-							<bool name="can_prevent_refund" value="True" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073744349" />
-					<bool name="fire_and_forget_non_global" value="False" />
-					<template_reference name="ui_help_text" value="tables\help_text_phrase">
-						<int name="phrase_order" value="0" />
-						<locstring name="phrase" value="0" />
-					</template_reference>
-				</template_reference>
-				<template_reference name="action" value="action\requirement_action">
-					<bool name="check_self" value="False" />
-					<bool name="global_fire_and_forget_on_success" value="False" />
-					<bool name="instant_requirement_check" value="False" />
-					<bool name="kill_action_on_failed_requirements" value="False" />
-					<bool name="no_retrigger" value="False" />
-					<bool name="validate_all_sub_actions" value="True" />
-					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_in_state">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<bool name="garrisoned" value="False" />
-							<bool name="healed" value="False" />
-							<float name="in_combat_since" value="4" />
-							<bool name="injured" value="False" />
-							<bool name="leader" value="False" />
-							<bool name="not_moving" value="False" />
-							<bool name="not_retreating" value="False" />
-							<bool name="pinned" value="False" />
-							<bool name="suppressed" value="False" />
-							<bool name="camouflaged" value="False" />
-						</template_reference>
-					</list>
-					<list name="action_table">
-						<template_reference name="action" value="action\apply_modifiers_action">
-							<float name="duration" value="0" />
-							<bool name="permanent" value="False" />
-							<list name="modifiers">
-								<template_reference name="modifier" value="modifiers\camouflage_enable">
-									<enum name="application_type" value="apply_to_squad" />
-									<bool name="exclusive" value="False" />
-									<string name="modifier_id" value="" />
-									<string name="target_type_name" value="" />
-									<enum name="usage_type" value="enable" />
-									<float name="value" value="-1" />
-									<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
-								</template_reference>
-							</list>
-							<uniqueid name="id" value="1073745106" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073745105" />
+					<uniqueid name="id" value="1073745084" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -214,8 +148,8 @@
 		<bool name="disable_combat" value="False" />
 		<bool name="disable_when_active" value="False" />
 		<float name="duration_time" value="-1" />
-		<bool name="enable_in_building" value="True" />
-		<bool name="enable_in_vehicle" value="True" />
+		<bool name="enable_in_building" value="False" />
+		<bool name="enable_in_vehicle" value="False" />
 		<bool name="engage_combat" value="False" />
 		<float name="entity_busy_time" value="0" />
 		<float name="facing_angle" value="5" />
@@ -278,19 +212,10 @@
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
-			<template_reference name="required" value="requirements\required_in_state">
+			<template_reference name="required" value="requirements\required_squad_veterancy">
 				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="0" />
-				<bool name="garrisoned" value="False" />
-				<bool name="healed" value="False" />
-				<float name="in_combat_since" value="-1" />
-				<bool name="injured" value="False" />
-				<bool name="leader" value="False" />
-				<bool name="not_moving" value="False" />
-				<bool name="not_retreating" value="True" />
-				<bool name="pinned" value="False" />
-				<bool name="suppressed" value="False" />
-				<bool name="camouflaged" value="False" />
+				<locstring name="ui_name" value="11069475" />
+				<float name="veterancy_rank" value="2" />
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
@@ -326,5 +251,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="89143" />
+	<uniqueid name="pbgid" value="16022" />
 </instance>

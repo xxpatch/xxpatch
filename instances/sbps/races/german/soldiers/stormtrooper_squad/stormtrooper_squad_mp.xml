@@ -624,7 +624,7 @@
 				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
-				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
+				<instance_reference name="ability" value="abilities\german\always_on_ability\stormtrooper_in_cover_auto_camouflage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_assault_ambush_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_tank_detection_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" mod="9cdcf92e05114ce5baacb4b7a120b84c" />

@@ -497,9 +497,9 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\commander_ability\cmd_paratroopers_from_pathfinders" />
-				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_mp" />
+				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
-				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_improved_mp" />
+				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_improved_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\support_artillery" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\support_artillery_decoy" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
