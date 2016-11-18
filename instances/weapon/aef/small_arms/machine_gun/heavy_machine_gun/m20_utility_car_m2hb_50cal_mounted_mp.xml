@@ -1,9 +1,9 @@
 <instance description="50 cal mounted on the m20 utility car" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.375" />
-			<float name="far" value="0.2" />
-			<float name="mid" value="0.2875" />
+			<float name="near" value="0.45" />
+			<float name="far" value="0.25" />
+			<float name="mid" value="0.33" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
