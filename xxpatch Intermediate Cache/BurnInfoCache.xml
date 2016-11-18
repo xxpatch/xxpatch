@@ -571,7 +571,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\lieutenant_squad\lieutenant_squad_mp.xml</FileName>
-			<FileHash>6ddfaebc47656ed0beaf11c3a2cb306a</FileHash>
+			<FileHash>30ef5aedd74ea82e91f345c974c9db8d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
@@ -948,10 +948,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\assault_engineer_flamethrower.xml</FileName>
 			<FileHash>fd4021a0d2ab9ff290e6d37eeb6b35b8</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\lieutenant_bar_upgrade_mp.xml</FileName>
-			<FileHash>4ba8621c7732a91d9f5af2f26567db0c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.xml</FileName>
