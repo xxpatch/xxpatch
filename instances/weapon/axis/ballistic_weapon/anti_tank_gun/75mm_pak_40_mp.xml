@@ -311,10 +311,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073745049" />
+							<uniqueid name="id" value="1073745051" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745050" />
+					<uniqueid name="id" value="1073745052" />
 				</template_reference>
 			</list>
 		</group>
@@ -337,7 +337,7 @@
 			<float name="moving_end_time" value="0.75" />
 			<float name="moving_start_time" value="0.6" />
 		</group>
-		<string name="name" value="6 pounder AT" />
+		<string name="name" value="pak 40" />
 		<group name="offhand">
 			<float name="offhand_end_time" value="0" />
 			<float name="offhand_start_time" value="0" />
@@ -479,5 +479,5 @@
 			</group>
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="89226" />
+	<uniqueid name="pbgid" value="1" />
 </instance>
