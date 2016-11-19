@@ -1,4 +1,4 @@
-<instance description="Semi-automatic version of the AT rifle&#xA;Multiplayer Clone." template="weapon">
+<instance description="Boys AT Rifle" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
 			<float name="mid" value="0.575" />
@@ -30,7 +30,7 @@
 			<string name="track_vertical" value="Rifle_Tilt" />
 			<string name="track_vertical_speed" value="" />
 			<string name="variety_name" value="" />
-			<string name="visibility_name" value="rifle_ptrs41_visible" />
+			<string name="visibility_name" value="rifle_boys_at_visible" />
 			<string name="target_range_name" value="" />
 		</group>
 		<group name="area_effect">
@@ -93,7 +93,7 @@
 			<bool name="artillery_force_obey_los" value="False" />
 			<bool name="attack_team_weapon_user" value="True" />
 			<bool name="can_be_offhanded" value="True" />
-			<bool name="can_be_substituted" value="False" />
+			<bool name="can_be_substituted" value="True" />
 			<float name="combat_slot_offset" value="0" />
 			<bool name="enable_auto_target_search" value="True" />
 			<bool name="fire_at_building_combat_slot" value="False" />
@@ -115,7 +115,8 @@
 			<bool name="can_abort_winddown" value="False" />
 			<enum name="reaction_type" value="normal" />
 			<bool name="ignore_relations" value="False" />
-			<template_reference name="wants_prone_firing_option" value="options\none">
+			<template_reference name="wants_prone_firing_option" value="options\weapon\wants_prone_firing">
+				<float name="time_to_stay_prone_after_combat" value="10" />
 			</template_reference>
 			<enum name="attack_ground_type" value="not_allowed" />
 			<bool name="non_moving_setup_requires_facing" value="False" />
@@ -272,8 +273,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="20" />
-			<float name="min" value="20" />
+			<float name="max" value="27" />
+			<float name="min" value="27" />
 			<list name="on_penetrated_actions">
 			</list>
 			<list name="post_damage_actions">
@@ -297,15 +298,15 @@
 					</list>
 					<list name="action_table">
 						<template_reference name="action" value="action\damage">
-							<float name="damage" value="20" />
+							<float name="damage" value="13" />
 							<bool name="percentage" value="False" />
 							<bool name="set" value="False" />
 							<bool name="cause_criticals" value="False" />
 							<enum name="crit_weapon_type" value="ballistic" />
-							<uniqueid name="id" value="1073744485" />
+							<uniqueid name="id" value="1073745281" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744486" />
+					<uniqueid name="id" value="1073745282" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -335,7 +336,7 @@
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />
 		<float name="fx_delay_in_building" value="0" />
-		<string name="fx_munition_name" value="mg_phosphorus" />
+		<string name="fx_munition_name" value="sniper_antitank" />
 		<string name="fx_tracer_name" value="fx_ptrs41_tracer" />
 		<float name="fx_tracer_speed" value="0" />
 		<bool name="fx_use_building_panel_normal" value="True" />
@@ -349,7 +350,7 @@
 			<float name="moving_end_time" value="0" />
 			<float name="moving_start_time" value="0" />
 		</group>
-		<string name="name" value="AT Rifle" />
+		<string name="name" value="Boys AT Rifle" />
 		<group name="offhand">
 			<float name="offhand_end_time" value="0" />
 			<float name="offhand_start_time" value="0" />
@@ -482,5 +483,5 @@
 		<list name="target_type_table">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="185" />
+	<uniqueid name="pbgid" value="89179" />
 </instance>

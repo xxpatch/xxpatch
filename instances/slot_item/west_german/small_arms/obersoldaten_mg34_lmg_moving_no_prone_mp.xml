@@ -45,7 +45,7 @@
 				<float name="z" value="0" />
 			</group>
 			<enum name="type" value="squad" />
-			<instance_reference name="weapon" value="weapon\west_german\small_arms\machine_gun\light_machine_gun\obersoldaten_mg34_lmg_moving_no_prone_mp" />
+			<instance_reference name="weapon" value="weapon\west_german\small_arms\machine_gun\light_machine_gun\obersoldaten_mg34_lmg_moving_no_prone_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 		</group>
 		<list name="on_add_actions">
 		</list>

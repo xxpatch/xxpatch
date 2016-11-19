@@ -106,7 +106,7 @@
 			<bool name="share_parent_anim" value="False" />
 			<bool name="single_handed_weapon" value="False" />
 			<bool name="substitute_weapon" value="False" />
-			<bool name="support_weapon" value="True" />
+			<bool name="support_weapon" value="False" />
 			<bool name="surprises_idle" value="False" />
 			<bool name="piercing" value="False" />
 			<float name="reaction_radius" value="0.5" />

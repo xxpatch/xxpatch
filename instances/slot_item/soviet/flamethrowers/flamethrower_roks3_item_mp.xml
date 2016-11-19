@@ -45,7 +45,7 @@
 				<float name="z" value="0" />
 			</group>
 			<enum name="type" value="squad" />
-			<instance_reference name="weapon" value="weapon\soviet\flame_throwers\flamethrower_roks3_mp" />
+			<instance_reference name="weapon" value="weapon\soviet\flame_throwers\flamethrower_roks3_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 		</group>
 		<list name="on_add_actions">
 		</list>
