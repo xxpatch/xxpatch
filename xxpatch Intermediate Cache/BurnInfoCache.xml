@@ -251,7 +251,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
-			<FileHash>d3beab3d004b7976696876ee500e340c</FileHash>
+			<FileHash>45a3a41265a2ec9e1aef916479c61893</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\always_on_ability\fallschrimjaeger_camo.xml</FileName>
@@ -311,15 +311,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\rakten_camouflage_mp.xml</FileName>
-			<FileHash>7ca078a99b6c1f0155152939ea649fa4</FileHash>
+			<FileHash>58e52009a2e074309f9c21449fbe9f4c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\battle_plans\armor_plans\tiger_prowl_jagdpanzer_mp.xml</FileName>
-			<FileHash>e66c64bc058b7af30e29c19edc899e94</FileHash>
+			<FileHash>435d8e7689542ab025bc7d134cf6aaeb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\battle_plans\armor_plans\tiger_prowl_mp.xml</FileName>
-			<FileHash>9e644df0a068c1a15ff3509e6682afb0</FileHash>
+			<FileHash>4c43ce6828f200e6d9499a6513614dcf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\critical\vehicle_abandon.xml</FileName>
@@ -522,10 +522,6 @@
 			<FileHash>6b1020fb5306cd1af0c9342009c13dfb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
-			<FileHash>cdad3a3ee9be96436362e83cb1873078</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
 			<FileHash>040ccc2e06636bfcc5f3a2f11d8ba0d7</FileHash>
 		</BurnInfo>
@@ -535,7 +531,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.xml</FileName>
-			<FileHash>e1ef55828b6b281830b458ec26c23ed0</FileHash>
+			<FileHash>91808c9ad1c08dcc25e79b229aa53554</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
@@ -1275,7 +1271,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.xml</FileName>
-			<FileHash>2b947e38cf42f1322879510d8465dd39</FileHash>
+			<FileHash>e424ee06e5f4a88aa59f02484e04001a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_54_atw_mp.xml</FileName>
@@ -1283,7 +1279,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\jagdpanzer_iv_pak_42_75mm_mp.xml</FileName>
-			<FileHash>57eaa0bd284fee620b4c1b7dc6014a0f</FileHash>
+			<FileHash>190650cdf6430f0aa4bb3a052095b015</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
