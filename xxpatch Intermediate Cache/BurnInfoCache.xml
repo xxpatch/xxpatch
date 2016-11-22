@@ -347,7 +347,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\props\brit_bren_lmg_item.xml</FileName>
-			<FileHash>5392310d2646879c78268ba4f3e1b9ba</FileHash>
+			<FileHash>86a9d5f8b1d58bc1fcdfbcdb323ee2d4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
@@ -406,16 +406,8 @@
 			<FileHash>451c86e64cfad9e86a0012fd25a5c440</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.xml</FileName>
-			<FileHash>e22fd676323b6312c956e5fb70c4afd4</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_piat_launcher_mp.xml</FileName>
 			<FileHash>02e83d37088b2843951393cd490529cb</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_bren_lmg_mp.xml</FileName>
-			<FileHash>b517962e61895dd8d701a39bee6aae6f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_piat_launcher_mp.xml</FileName>
@@ -1250,10 +1242,6 @@
 			<FileHash>6a7fab0a8fed3be2febc7352585cf9d6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\tommy_bren_light_machine_gun_mp.xml</FileName>
-			<FileHash>04aaa4e361ea3d8eefb9a1b71606bfd8</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\anti_tank_gun\53k_45mm_m1937_at_gun_mp.xml</FileName>
 			<FileHash>a01c58954b7513272041d511aeec94aa</FileHash>
 		</BurnInfo>
@@ -1363,7 +1351,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
-			<FileHash>6e61b8375fd3bf623e3940ea7870d4e3</FileHash>
+			<FileHash>79803111eb5a9ab097407f003cc27795</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />
