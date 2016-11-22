@@ -729,11 +729,11 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742043" />
+										<uniqueid name="id" value="1073745319" />
 									</template_reference>
 									<template_reference name="action" value="action\scar_function_call">
 										<string name="function_name" value="XP1_Vet_Level1" />
-										<uniqueid name="id" value="1073742044" />
+										<uniqueid name="id" value="1073745320" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -763,11 +763,11 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742045" />
+										<uniqueid name="id" value="1073745321" />
 									</template_reference>
 									<template_reference name="action" value="action\scar_function_call">
 										<string name="function_name" value="XP1_Vet_Level2" />
-										<uniqueid name="id" value="1073742046" />
+										<uniqueid name="id" value="1073745322" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -783,7 +783,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\construction_rate" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742047" />
+										<uniqueid name="id" value="1073745323" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -809,7 +809,7 @@
 												<string name="modifier_id" value="" />
 												<string name="target_type_name" value="" />
 												<enum name="usage_type" value="multiplication" />
-												<float name="value" value="0.769" />
+												<float name="value" value="0.5" />
 												<instance_reference name="tooltip" value="modifier_tooltip\squad_cost_manpower_modifier" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
@@ -822,13 +822,13 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742048" />
+										<uniqueid name="id" value="1073745324" />
 									</template_reference>
 									<template_reference name="action" value="action\upgrade_add">
 										<bool name="apply_to_entities_in_squad" value="False" />
 										<bool name="trigger_publish_event" value="False" />
 										<instance_reference name="upgrade" value="upgrade\max_vet" />
-										<uniqueid name="id" value="1073742049" />
+										<uniqueid name="id" value="1073745325" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -844,7 +844,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742050" />
+										<uniqueid name="id" value="1073745326" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
