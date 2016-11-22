@@ -158,10 +158,6 @@
 			<FileHash>aed9398fbdda65b8d631a3267bab3468</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\officer_smoke_artillery.xml</FileName>
-			<FileHash>fde7106937d6a890049c85f190fb3675</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\railway_gun_artillery.xml</FileName>
 			<FileHash>80083eeba82be95c73f50245cd1465a9</FileHash>
 		</BurnInfo>
@@ -458,10 +454,6 @@
 			<FileHash>ff3b3656ca3fa3b8b8785442caa0c1b0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\officer\assault_officer_grenadiers_bodyguard_mp.xml</FileName>
-			<FileHash>173b4ecfb3b4f14c3ff4a56eaf38a12d</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp.xml</FileName>
 			<FileHash>e0546b5af79588dda42eb5cd2f614560</FileHash>
 		</BurnInfo>
@@ -751,7 +743,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\officer_squad\assault_officer_squad_mp.xml</FileName>
-			<FileHash>8675751b765958d1284dec04b4f86205</FileHash>
+			<FileHash>9e765eca951a25aa2b4d257d0b4d5476</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\officer_squad\officer_squad_mp.xml</FileName>

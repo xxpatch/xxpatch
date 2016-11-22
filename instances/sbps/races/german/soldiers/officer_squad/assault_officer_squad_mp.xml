@@ -161,12 +161,12 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_grenadiers_bodyguard_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				</group>
-				<group name="loadout_data">
 					<float name="num" value="1" />
 					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_mp" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="3" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\officer\assault_officer_grenadiers_bodyguard_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -597,8 +597,8 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<bool name="can_receive_shared_veterancy" value="True" />
-						<float name="max_persistent_squads" value="3" />
+						<bool name="can_receive_shared_veterancy" value="False" />
+						<float name="max_persistent_squads" value="0" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
 								<float name="experience_value" value="480" />
@@ -624,11 +624,11 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742483" />
+										<uniqueid name="id" value="1073745327" />
 									</template_reference>
 									<template_reference name="action" value="action\scar_function_call">
 										<string name="function_name" value="XP1_Vet_Level1" />
-										<uniqueid name="id" value="1073742484" />
+										<uniqueid name="id" value="1073745328" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -652,7 +652,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\commander_ability\officer_smoke_artillery" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\commander_ability\officer_smoke_artillery" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.4" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -676,7 +676,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742485" />
+										<uniqueid name="id" value="1073745329" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -692,11 +692,11 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742486" />
+										<uniqueid name="id" value="1073745330" />
 									</template_reference>
 									<template_reference name="action" value="action\scar_function_call">
 										<string name="function_name" value="XP1_Vet_Level2" />
-										<uniqueid name="id" value="1073742487" />
+										<uniqueid name="id" value="1073745331" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -716,7 +716,7 @@
 										<bool name="apply_to_entities_in_squad" value="False" />
 										<bool name="trigger_publish_event" value="False" />
 										<instance_reference name="upgrade" value="upgrade\max_vet" />
-										<uniqueid name="id" value="1073742488" />
+										<uniqueid name="id" value="1073745332" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -732,11 +732,11 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742489" />
+										<uniqueid name="id" value="1073745333" />
 									</template_reference>
 									<template_reference name="action" value="action\scar_function_call">
 										<string name="function_name" value="XP1_Vet_Level3" />
-										<uniqueid name="id" value="1073742490" />
+										<uniqueid name="id" value="1073745334" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -754,18 +754,18 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073742491" />
+										<uniqueid name="id" value="1073745335" />
 									</template_reference>
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
+						<enum name="shared_veterancy_type" value="no_sharing" />
 					</group>
 				</group>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="3" />
+			<float name="personnel_pop" value="2" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_type_ext">
 			<list name="squad_type_list">
