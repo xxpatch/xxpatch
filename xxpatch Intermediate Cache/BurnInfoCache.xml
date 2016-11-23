@@ -194,6 +194,10 @@
 			<FileHash>2d910deedd53594955fcb7a245fdf07e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\always_on_ability\sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
+			<FileHash>457f49019a5132d0dea5d790f8effd35</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\always_on_ability\sniper_team_in_cover_auto_camouflage_mp.xml</FileName>
 			<FileHash>c47bc35610c0443ca93e233bc56a5cc8</FileHash>
 		</BurnInfo>
@@ -799,11 +803,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\partisan_commander_squads\partisans_panzerschreck_mp.xml</FileName>
-			<FileHash>d1445f497103bf0305cdc5b3ddaede68</FileHash>
+			<FileHash>17a4599a18d50b156f8702f3f9d12b63</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\partisan_commander_squads\partisans_smg_mp.xml</FileName>
-			<FileHash>a03232b8ebd329cd648ffd832458f320</FileHash>
+			<FileHash>1d62deb18967d181589e225a5b954f21</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\sniper_team\sniper_team_mp.xml</FileName>
@@ -1251,7 +1255,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\guard_troop_rgd_33_sleeved_mp.xml</FileName>
-			<FileHash>d19bf1c5f5f516620b74bff100485df7</FileHash>
+			<FileHash>8d5e7c4e562e6c1ded8cb1d0a01f48a3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\anti_tank_grenade\rpg_43_anti_tank_grenade_mp.xml</FileName>
+			<FileHash>c929a66b1c29809afb42f7e65e15cfc3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\light_artillery\zis3_at_gun_he_shots_mp.xml</FileName>
@@ -1260,6 +1268,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\flame_throwers\flamethrower_roks3_mp.xml</FileName>
 			<FileHash>5ef1e1b3a94fea1ea810cba7ec39b70d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\flame_throwers\grenade\molotov_cocktail_weapon_mp.xml</FileName>
+			<FileHash>027b1d070918a57ed0e2e3c8552ea47f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.xml</FileName>
@@ -1339,7 +1351,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
-			<FileHash>79803111eb5a9ab097407f003cc27795</FileHash>
+			<FileHash>f195a2cdcd136ec2691416d81d6b0568</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />
