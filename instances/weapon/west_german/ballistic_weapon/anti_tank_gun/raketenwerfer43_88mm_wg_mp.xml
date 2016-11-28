@@ -2,19 +2,19 @@
 	<group name="weapon_bag">
 		<group name="accuracy">
 			<float name="near" value="0.06" />
-			<float name="far" value="0.04" />
+			<float name="far" value="0.0433333" />
 			<float name="mid" value="0.05" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
-				<float name="max" value="0.25" />
-				<float name="min" value="0.125" />
+				<float name="max" value="0.375" />
+				<float name="min" value="0.25" />
 			</group>
 			<float name="post_firing_aim_time" value="2" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.375" />
-				<float name="min" value="0.25" />
+				<float name="max" value="0.125" />
+				<float name="min" value="0.125" />
 			</group>
 			<group name="aim_time_multiplier">
 				<float name="near" value="1" />
@@ -382,7 +382,7 @@
 			<group name="distance">
 				<float name="near" value="0" />
 				<float name="far" value="50" />
-				<float name="mid" value="25" />
+				<float name="mid" value="30" />
 			</group>
 		</group>
 		<group name="reload">
@@ -420,7 +420,7 @@
 			<float name="tilt_scatter_chance" value="0" />
 		</group>
 		<group name="setup">
-			<float name="duration" value="0.75" />
+			<float name="duration" value="0.375" />
 			<bool name="has_instant_setup" value="False" />
 			<bool name="can_interrupt_setup" value="False" />
 			<float name="attach_duration" value="0.733" />
