@@ -90,6 +90,10 @@
 			<FileHash>55c00150fa9657f2cfbf795a256492c3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\universal_carrier_drop_lmg.xml</FileName>
+			<FileHash>eb57f01141b3809896f48c4181e2bef1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\universal_carrier_drop_piat.xml</FileName>
 			<FileHash>b1286fc93ecfab02260ee97e47a7136c</FileHash>
 		</BurnInfo>
@@ -443,7 +447,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
-			<FileHash>0141bcb6e375a59fd2f44a2f30bbe2c7</FileHash>
+			<FileHash>6e3f4cf3844df0251aa9172413ef1a87</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
@@ -922,6 +926,10 @@
 			<FileHash>21e78140b875a9af27def9364e6cc762</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\small_arms\vickers_k_light_machine_gun_mp.xml</FileName>
+			<FileHash>1c8c232b312185641a541a670eca5062</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\ballistic_weapon\stug_e_critical_shot_mp.xml</FileName>
 			<FileHash>eb066c548c468e99af396ae733dad672</FileHash>
 		</BurnInfo>
@@ -1240,6 +1248,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp.xml</FileName>
 			<FileHash>6a7fab0a8fed3be2febc7352585cf9d6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\m3_drop_vickers_k_machine_gun_mp.xml</FileName>
+			<FileHash>cd131cc37bf3ce516099a2c4cc0ffbc7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\tommy_bren_light_machine_gun_mp.xml</FileName>
