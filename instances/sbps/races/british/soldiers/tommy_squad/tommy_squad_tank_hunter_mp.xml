@@ -883,7 +883,7 @@
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="3" />
+			<float name="personnel_pop" value="2" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="95730" />
