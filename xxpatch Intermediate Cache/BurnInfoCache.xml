@@ -406,8 +406,16 @@
 			<FileHash>451c86e64cfad9e86a0012fd25a5c440</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.xml</FileName>
+			<FileHash>b9519ae34c22a3df204c36903d6afdba</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_piat_launcher_mp.xml</FileName>
 			<FileHash>02e83d37088b2843951393cd490529cb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_bren_lmg_mp.xml</FileName>
+			<FileHash>251ac808d8e572ccb1bd68c40d25a7cf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_weapon_rack_piat_launcher_mp.xml</FileName>
@@ -1347,7 +1355,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>b7c1fae1b22fc8c0a62f0b53391c331a</FileHash>
+			<FileHash>24fbadb12b41f8734d54cf877c0b0572</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
