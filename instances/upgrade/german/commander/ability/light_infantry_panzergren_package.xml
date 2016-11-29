@@ -91,18 +91,6 @@
 				<float name="min_completed" value="1" />
 				<instance_reference name="upgrade_name" value="upgrade\german\commander\passive\jaeger_light_infantry" />
 			</template_reference>
-			<template_reference name="required" value="requirements\required_squad_upgrade">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="0" />
-				<bool name="include_queued" value="True" />
-				<bool name="is_present" value="False" />
-				<instance_reference name="upgrade_name" value="upgrade\german\commander\ability\light_infantry_panzergren_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_slot_item_size">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="0" />
-				<float name="required_free_slot_size" value="2" />
-			</template_reference>
 			<template_reference name="required" value="requirements\required_any_in_list">
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="8" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
@@ -126,6 +114,13 @@
 						<bool name="owned_by_player_only" value="True" />
 					</template_reference>
 				</list>
+			</template_reference>
+			<template_reference name="required" value="requirements\required_squad_upgrade">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="0" />
+				<bool name="include_queued" value="True" />
+				<bool name="is_present" value="False" />
+				<instance_reference name="upgrade_name" value="upgrade\german\commander\ability\light_infantry_panzergren_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</template_reference>
 		</list>
 		<int name="ui_position" value="8" />
