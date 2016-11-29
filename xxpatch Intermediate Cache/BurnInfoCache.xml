@@ -358,6 +358,10 @@
 			<FileHash>1619ee36cb7abfd438020e0610f9f6c3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\soviet_45mm_t70_shell_mp.xml</FileName>
+			<FileHash>13dda599fb4f55a1cd035820c144d047</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
 			<FileHash>2676469115bf9b2100b4b702e528a69f</FileHash>
 		</BurnInfo>
@@ -1119,7 +1123,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.xml</FileName>
-			<FileHash>dedf247dc98df82447e377e739f50adf</FileHash>
+			<FileHash>8f03c70f4a661859e7ba2a74f9778c3e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.xml</FileName>
@@ -1263,7 +1267,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
-			<FileHash>ff41a740b258f2aa44b02a651ad3c431</FileHash>
+			<FileHash>1f7ebb7d0765cdf5d1073484b76b7428</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\guard_troop_rgd_33_sleeved_mp.xml</FileName>
@@ -1307,11 +1311,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
-			<FileHash>5d227890c04f1263e56811649f3bf0ad</FileHash>
+			<FileHash>ad1e3d1e32fd691523303a0138cd539a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
-			<FileHash>825727121166dd7648abad8463f4b8f7</FileHash>
+			<FileHash>49632d258ddefdd413b2826e8f8393ed</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_aimed_shot_mp.xml</FileName>

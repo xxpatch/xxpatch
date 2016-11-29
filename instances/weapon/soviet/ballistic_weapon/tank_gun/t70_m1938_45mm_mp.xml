@@ -47,7 +47,7 @@
 			</group>
 			<group name="damage">
 				<float name="far" value="0.15" />
-				<float name="near" value="0.65" />
+				<float name="near" value="0.8" />
 				<float name="mid" value="0.35" />
 			</group>
 			<group name="damage_friendly">
@@ -335,7 +335,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\soviet_45mm_t70_mp" />
+			<instance_reference name="projectile" value="ebps\projectile\soviet_45mm_t70_shell_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 		</group>
 		<group name="range">
 			<float name="max" value="40" />
