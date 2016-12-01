@@ -83,7 +83,7 @@
 				<float name="mid" value="1" />
 				<float name="far" value="1" />
 			</group>
-			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_he_shell" />
+			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_he_shell_extreme" />
 			<enum name="aoe_origin_and_direction" value="hit_position_and_direction" />
 			<int name="damage_max_members_per_squad" value="-1" />
 		</group>
@@ -176,7 +176,7 @@
 			</group>
 			<group name="tp_garrison_cover">
 				<float name="accuracy_multiplier" value="0.4" />
-				<float name="damage_multiplier" value="0.25" />
+				<float name="damage_multiplier" value="0.5" />
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="0" />
 			</group>
@@ -364,12 +364,12 @@
 			</list>
 		</group>
 		<group name="scatter">
-			<float name="angle_scatter" value="6" />
+			<float name="angle_scatter" value="5.5" />
 			<bool name="burst_pattern_enable" value="False" />
 			<float name="delay_bracket_change_chance" value="0" />
 			<float name="distance_bracket_count_air" value="0" />
 			<float name="distance_bracket_count_ground" value="1" />
-			<float name="distance_scatter_max" value="4.2" />
+			<float name="distance_scatter_max" value="3" />
 			<float name="distance_scatter_obj_hit_min" value="10" />
 			<float name="distance_scatter_offset" value="0" />
 			<float name="distance_scatter_ratio" value="1" />
