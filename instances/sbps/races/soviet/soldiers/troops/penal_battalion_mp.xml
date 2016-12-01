@@ -468,7 +468,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\penal_oorah_mp" />
+				<instance_reference name="ability" value="abilities\soviet\timed_ability\penal_oorah_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\to_the_last_man_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
