@@ -803,7 +803,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
-			<FileHash>258f684df4798eee7c640652ad814cae</FileHash>
+			<FileHash>c1dbcf482c09bd40044eef7a1aab3c01</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\mortar_squad\hm-120_38_mortar_squad_mp.xml</FileName>
@@ -835,7 +835,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>57d06abbcf61346b9cb89626fc6f66e5</FileHash>
+			<FileHash>a56ad9eb9c6629ce00bc9cc1e2b37c30</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -1014,12 +1014,20 @@
 			<FileHash>5647f5ab981fe78555a3ac1ee24a280e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\conscript_ptrs_package.xml</FileName>
+			<FileHash>46d2679d1b236fb2146eef44588a2ac7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\engineer_flamethrower_mp.xml</FileName>
 			<FileHash>287749df99fbf8589f5e46a66e65cb3c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
 			<FileHash>abf3f4bba31a1665287cf73469701f0d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package.xml</FileName>
+			<FileHash>752fa0ff8a39112b918272779fcb47a1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\volks_flamethrower_mp.xml</FileName>
@@ -1311,11 +1319,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
-			<FileHash>687ff20e665b96c52847845766c86154</FileHash>
+			<FileHash>f56bd9a21b940302bd3dddf23da92ac3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
-			<FileHash>4a14d63526d9a15d47c3a2df02f6a5db</FileHash>
+			<FileHash>f6b9e7fd6f8c8b0596a87093f656558d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_aimed_shot_mp.xml</FileName>

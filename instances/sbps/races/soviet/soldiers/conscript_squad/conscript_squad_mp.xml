@@ -204,7 +204,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\soviet\commander\passive\conscript_assault_package_ingame" />
-				<instance_reference name="upgrade" value="upgrade\soviet\items\conscript_ptrs_package" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\conscript_ptrs_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
