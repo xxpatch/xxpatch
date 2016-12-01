@@ -942,6 +942,10 @@
 			<FileHash>de2472267aeee72ef4647d4d14f2797a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_mp.xml</FileName>
+			<FileHash>c053d737dac6d530887a8581fc7c5de7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp.xml</FileName>
 			<FileHash>01e23757c3203e177336d9a2c2b2b4b4</FileHash>
 		</BurnInfo>
@@ -1027,7 +1031,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package.xml</FileName>
-			<FileHash>752fa0ff8a39112b918272779fcb47a1</FileHash>
+			<FileHash>c848fbde6d3e33bbf1461eb3a5ac5c61</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\volks_flamethrower_mp.xml</FileName>
@@ -1272,6 +1276,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\infantry_anti_tank_weapon\guard_troop_ptrs_41_mp.xml</FileName>
 			<FileHash>f53d5465a082adf2f093607233db4c5c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\infantry_anti_tank_weapon\penal_ptrs_41_mp.xml</FileName>
+			<FileHash>bb4417276188fb818b1562ee9d01c5f3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
