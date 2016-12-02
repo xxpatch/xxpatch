@@ -98,8 +98,8 @@
 			<FileHash>0af4ace226f03ce9ad5b4c788e9c2853</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane.xml</FileName>
-			<FileHash>f4701da93b9194d91cf4a846f361bf02</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle.xml</FileName>
+			<FileHash>dba2f9dad23ee3d5da9941b2e4124cc2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\dispatch_ability\glider_headquarters.xml</FileName>
@@ -447,7 +447,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>8a6c8d1021fbec1889b89cc10b70552a</FileHash>
+			<FileHash>265de4b1bdb925046771c8082142bc9b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
@@ -455,11 +455,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
-			<FileHash>0141bcb6e375a59fd2f44a2f30bbe2c7</FileHash>
+			<FileHash>32e612995e12ef7f41fac798e74a7406</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>f05f7395edf5c5bec2cfdc3a2dc10c2f</FileHash>
+			<FileHash>511f4848d5865fdc61d61ba6d1642224</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
