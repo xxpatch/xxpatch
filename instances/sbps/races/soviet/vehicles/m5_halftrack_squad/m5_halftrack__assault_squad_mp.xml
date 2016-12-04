@@ -497,7 +497,7 @@
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
 							<bool name="is_present" value="True" />
-							<instance_reference name="upgrade_name" value="upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp" />
+							<instance_reference name="upgrade_name" value="upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<bool name="include_queued" value="False" />
 						</template_reference>
 					</list>
