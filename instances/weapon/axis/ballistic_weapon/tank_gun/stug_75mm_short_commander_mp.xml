@@ -43,7 +43,7 @@
 				<float name="angle_left" value="0" />
 				<float name="angle_right" value="0" />
 				<enum name="area_type" value="circle" />
-				<float name="radius" value="3.5" />
+				<float name="radius" value="4" />
 			</group>
 			<group name="damage">
 				<float name="far" value="0.15" />
@@ -56,9 +56,9 @@
 				<float name="mid" value="0.075" />
 			</group>
 			<group name="distance">
-				<float name="far" value="2.25" />
-				<float name="near" value="1" />
-				<float name="mid" value="1.5" />
+				<float name="far" value="3" />
+				<float name="near" value="1.5" />
+				<float name="mid" value="2.5" />
 			</group>
 			<bool name="has_friendly_fire" value="True" />
 			<bool name="can_harm_shooter" value="False" />
@@ -83,7 +83,7 @@
 				<float name="mid" value="1" />
 				<float name="far" value="1" />
 			</group>
-			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_he_shell_extreme" />
+			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_no_change" />
 			<enum name="aoe_origin_and_direction" value="hit_position_and_direction" />
 			<int name="damage_max_members_per_squad" value="-1" />
 		</group>
@@ -348,8 +348,8 @@
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="4.8" />
-				<float name="min" value="4.8" />
+				<float name="max" value="6" />
+				<float name="min" value="6" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />
@@ -372,7 +372,7 @@
 			<float name="distance_scatter_max" value="3" />
 			<float name="distance_scatter_obj_hit_min" value="10" />
 			<float name="distance_scatter_offset" value="0" />
-			<float name="distance_scatter_ratio" value="1" />
+			<float name="distance_scatter_ratio" value="0.075" />
 			<float name="fow_angle_multiplier" value="1.25" />
 			<float name="fow_distance_multiplier" value="1.25" />
 			<float name="max_tilt_angle" value="0" />
