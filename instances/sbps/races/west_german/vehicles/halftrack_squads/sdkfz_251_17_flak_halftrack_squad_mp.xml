@@ -692,14 +692,43 @@
 																		<float name="z" value="0" />
 																	</group>
 																	<enum name="type" value="default" />
-																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_dummy_vet2" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 																</group>
 																<uniqueid name="id" value="1073743458" />
 															</template_reference>
 															<template_reference name="action" value="action\change_weapon">
 																<float name="hardpoint" value="1" />
-																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_dummy_vet2" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 																<uniqueid name="id" value="1073743459" />
+															</template_reference>
+															<template_reference name="action" value="action\remove_weapon">
+																<bool name="fire_and_forget" value="False" />
+																<float name="hardpoint" value="2" />
+																<uniqueid name="id" value="1073745537" />
+															</template_reference>
+															<template_reference name="action" value="action\add_weapon">
+																<float name="hardpoint" value="2" />
+																<group name="weapon">
+																	<group name="heading">
+																		<float name="x" value="0" />
+																		<float name="y" value="0" />
+																		<float name="z" value="1" />
+																	</group>
+																	<float name="length" value="0" />
+																	<group name="origin">
+																		<float name="x" value="0" />
+																		<float name="y" value="2" />
+																		<float name="z" value="0" />
+																	</group>
+																	<enum name="type" value="default" />
+																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																</group>
+																<uniqueid name="id" value="1073745538" />
+															</template_reference>
+															<template_reference name="action" value="action\change_weapon">
+																<float name="hardpoint" value="2" />
+																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																<uniqueid name="id" value="1073745539" />
 															</template_reference>
 														</list>
 														<uniqueid name="id" value="1073743460" />
@@ -721,7 +750,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="1.25" />
 														<instance_reference name="tooltip" value="modifier_tooltip\horizontal_speed_weapon_modifier" />
@@ -773,7 +802,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="1.3" />
 														<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
@@ -782,7 +811,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="0.75" />
 														<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
@@ -939,14 +968,43 @@
 																		<float name="z" value="0" />
 																	</group>
 																	<enum name="type" value="default" />
-																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_dummy_vet2" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 																</group>
 																<uniqueid name="id" value="1073743471" />
 															</template_reference>
 															<template_reference name="action" value="action\change_weapon">
 																<float name="hardpoint" value="1" />
-																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_dummy_vet2" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 																<uniqueid name="id" value="1073743472" />
+															</template_reference>
+															<template_reference name="action" value="action\remove_weapon">
+																<bool name="fire_and_forget" value="False" />
+																<float name="hardpoint" value="2" />
+																<uniqueid name="id" value="1073745540" />
+															</template_reference>
+															<template_reference name="action" value="action\add_weapon">
+																<float name="hardpoint" value="2" />
+																<group name="weapon">
+																	<group name="heading">
+																		<float name="x" value="0" />
+																		<float name="y" value="0" />
+																		<float name="z" value="1" />
+																	</group>
+																	<float name="length" value="0" />
+																	<group name="origin">
+																		<float name="x" value="0" />
+																		<float name="y" value="2" />
+																		<float name="z" value="0" />
+																	</group>
+																	<enum name="type" value="default" />
+																	<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																</group>
+																<uniqueid name="id" value="1073745541" />
+															</template_reference>
+															<template_reference name="action" value="action\change_weapon">
+																<float name="hardpoint" value="2" />
+																<instance_reference name="weapon" value="weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38_vet" />
+																<uniqueid name="id" value="1073745542" />
 															</template_reference>
 														</list>
 														<uniqueid name="id" value="1073743473" />
@@ -968,7 +1026,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="1.25" />
 														<instance_reference name="tooltip" value="modifier_tooltip\horizontal_speed_weapon_modifier" />
@@ -1004,7 +1062,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="1.3" />
 														<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
@@ -1013,7 +1071,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="0.75" />
 														<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
@@ -1065,7 +1123,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="multiplication" />
 														<float name="value" value="1.15" />
 														<instance_reference name="tooltip" value="modifier_tooltip\weapon_penetration_modifier" />
@@ -1074,7 +1132,7 @@
 														<enum name="application_type" value="apply_to_weapon" />
 														<bool name="exclusive" value="False" />
 														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="hardpoint_01" />
+														<string name="target_type_name" value="hardpoint_02" />
 														<enum name="usage_type" value="addition" />
 														<float name="value" value="5" />
 														<instance_reference name="tooltip" value="modifier_tooltip\range_weapon_modifier" />
