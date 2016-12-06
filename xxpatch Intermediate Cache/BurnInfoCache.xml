@@ -370,6 +370,10 @@
 			<FileHash>08a701fb3430f5818f44f709ed4b55d8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\panzerfaust_mp.xml</FileName>
+			<FileHash>819ec29441b9d75f00817294d9cb9c09</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\soviet_45mm_t70_shell_mp.xml</FileName>
 			<FileHash>13dda599fb4f55a1cd035820c144d047</FileHash>
 		</BurnInfo>
@@ -1135,7 +1139,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerfaust_atw_mp.xml</FileName>
-			<FileHash>1b2f134a03badff36fa086ff4f3f2af9</FileHash>
+			<FileHash>c01512a3bfec9174623d89123a596ebc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp.xml</FileName>
