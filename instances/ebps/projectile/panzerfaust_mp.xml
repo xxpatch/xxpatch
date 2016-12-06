@@ -179,12 +179,12 @@
 				<float name="non_collide_end_angle" value="89" />
 			</group>
 			<float name="building_hit_fx_delay" value="0" />
-			<bool name="collision_building_wall_panel_ignore" value="False" />
+			<bool name="collision_building_wall_panel_ignore" value="True" />
 			<group name="collision_type">
 				<template_reference name="collision_type" value="type_projectile_collision\tp_homing_inf">
 				</template_reference>
 			</group>
-			<float name="deathtimer" value="2.5" />
+			<float name="deathtimer" value="0" />
 			<float name="delay_detonate_time" value="0" />
 			<bool name="delay_detonate_ui_enabled" value="False" />
 			<string name="launcher_marker" value="marker_panzerfaust_end" />
@@ -192,7 +192,7 @@
 			<float name="rotation_speed" value="10000" />
 			<bool name="spawn_collision_fx" value="False" />
 			<float name="speed" value="55" />
-			<bool name="collision_land_ignore" value="False" />
+			<bool name="collision_land_ignore" value="True" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1402" />
