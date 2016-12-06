@@ -399,7 +399,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
-			<FileHash>92dce51c13e189c33932a52ca7f4e821</FileHash>
+			<FileHash>e811f6c4f3eeedfa648e9267008a4363</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
@@ -683,7 +683,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m15a1_aa_halftrack_squad_mp.xml</FileName>
-			<FileHash>50eb4f485c1338e08c7a0eb468e173a4</FileHash>
+			<FileHash>a6b536529ed69f66fa7a84a38fb292b2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
@@ -1079,7 +1079,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\ballistic_weapon\tank_gun\m15a1_halftrack_37mm_mp.xml</FileName>
-			<FileHash>03c37e28cd8cfada805a29d7b44882aa</FileHash>
+			<FileHash>e1987a4fc296d6d09e3b6308fb3e1399</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\ballistic_weapon\tank_gun\m5a1_stuart_m6_37mm_mp.xml</FileName>
@@ -1104,6 +1104,18 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\flame_throwers\assault_engineer_flamethrower.xml</FileName>
 			<FileHash>a065c5c6e3598f3e43807c7a68a28712</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_left_mp.xml</FileName>
+			<FileHash>31a8aa661c7c3ba7767f5a0290bd9baf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_right_mp.xml</FileName>
+			<FileHash>e79c7d7bcf9f41b36e2d21e1019ac5e2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_dummy_mp.xml</FileName>
+			<FileHash>5b910d2f61ce92af23c15e26c185fdd1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m20_utility_car_m2hb_50cal_mounted_mp.xml</FileName>
