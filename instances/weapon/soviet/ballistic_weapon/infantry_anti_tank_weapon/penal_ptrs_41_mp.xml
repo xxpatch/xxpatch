@@ -1,9 +1,9 @@
 <instance description="Semi-automatic version of the AT rifle&#xA;Multiplayer Clone." template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="mid" value="0.2875" />
-			<float name="near" value="0.345" />
-			<float name="far" value="0.1265" />
+			<float name="mid" value="0.105" />
+			<float name="near" value="0.15" />
+			<float name="far" value="0.06" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
