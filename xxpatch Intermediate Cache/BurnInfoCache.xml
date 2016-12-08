@@ -250,6 +250,10 @@
 			<FileHash>1859901d51a3849ca296151bec324293</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp.xml</FileName>
+			<FileHash>1462d98b316a59772df331fa9de66fca</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\penal_oorah_mp.xml</FileName>
 			<FileHash>73df3c50aff2ffb01d2bda12cd49efb8</FileHash>
 		</BurnInfo>
@@ -372,6 +376,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\panzerfaust_mp.xml</FileName>
 			<FileHash>d96f6b53feb506766812d7e54ff24aae</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\satchel_charge_throw_at_mp.xml</FileName>
+			<FileHash>3508c678246b6c3ee689c96a8ba31b9b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\soviet_45mm_t70_shell_mp.xml</FileName>
@@ -851,7 +859,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>448cc72e851c8b6b7c6ab4de487b6aa4</FileHash>
+			<FileHash>c771cbcefb22a6dc93303745b91be7c8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -964,6 +972,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp.xml</FileName>
 			<FileHash>01e23757c3203e177336d9a2c2b2b4b4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_mp.xml</FileName>
+			<FileHash>9bfbb307774194588aefd8c24a9b990d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
@@ -1328,6 +1340,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\guard_troop_rgd_33_sleeved_mp.xml</FileName>
 			<FileHash>8d5e7c4e562e6c1ded8cb1d0a01f48a3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\penal_troop_satchel_charge_at_mp.xml</FileName>
+			<FileHash>c1f3512e3650ea82cf8d822bc00b187a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\anti_tank_grenade\rpg_43_anti_tank_grenade_mp.xml</FileName>
