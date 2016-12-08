@@ -71,7 +71,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.xml</FileName>
-			<FileHash>215428f32e04804e96250badee3e8cb5</FileHash>
+			<FileHash>4c96ca05b47cd8f403416a1a3673e40c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\auto_heal_disable_mp.xml</FileName>
@@ -347,11 +347,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\critical\vehicle_abandon.xml</FileName>
-			<FileHash>87786181ef275ee30df308089e14ee2f</FileHash>
+			<FileHash>8eacb43ddae85536b1187aa4a79fbf9c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\critical\vehicle_aec_temp_immobility.xml</FileName>
 			<FileHash>5559f2b08558f38516bbd0b2aff69ea6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\critical\vehicle_destroy_engine.xml</FileName>
+			<FileHash>bbf9998d3ad2defaee4f1671dbc80b90</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
@@ -1347,7 +1351,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\penal_troop_satchel_charge_at_mp.xml</FileName>
-			<FileHash>c303d0fedc0854a98bd3e658bdc15e13</FileHash>
+			<FileHash>3113c2d32614161b8d0f29c02f2aaca0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\anti_tank_grenade\rpg_43_anti_tank_grenade_mp.xml</FileName>

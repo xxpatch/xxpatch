@@ -159,7 +159,7 @@
 									<uniqueid name="id" value="1073743595" />
 									<template_reference name="optional_remove_behaviour" value="options\action\remove_critical_action\priority_or_random">
 										<list name="optional_critical_remove_priorities">
-											<instance_reference name="critical_to_remove" value="critical\vehicle_destroy_engine" />
+											<instance_reference name="critical_to_remove" value="critical\vehicle_destroy_engine" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 										</list>
 										<int name="remove_count" value="1" />
 									</template_reference>

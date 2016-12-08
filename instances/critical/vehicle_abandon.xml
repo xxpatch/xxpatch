@@ -64,7 +64,7 @@
 			</template_reference>
 			<template_reference name="action" value="action\trigger_critical_action">
 				<float name="remove_at_health" value="1" />
-				<instance_reference name="critical" value="critical\vehicle_destroy_engine" />
+				<instance_reference name="critical" value="critical\vehicle_destroy_engine" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<uniqueid name="id" value="1073744241" />
 			</template_reference>
 		</list>
