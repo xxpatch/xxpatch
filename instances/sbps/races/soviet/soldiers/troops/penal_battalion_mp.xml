@@ -386,15 +386,6 @@
 								<float name="value" value="0.67" />
 								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
 							</template_reference>
-							<template_reference name="modifier" value="modifiers\ability_max_range_modifier">
-								<enum name="application_type" value="apply_to_ability" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<instance_reference name="target_type_name" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_sticky_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="0.67" />
-								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
-							</template_reference>
 						</list>
 						<uniqueid name="id" value="1073742742" />
 					</template_reference>
@@ -489,7 +480,6 @@
 				<instance_reference name="ability" value="abilities\soviet\timed_ability\penal_oorah_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\to_the_last_man_mp" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_sticky_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
@@ -775,15 +765,6 @@
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
 												<instance_reference name="target_type_name" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-												<enum name="usage_type" value="multiplication" />
-												<float name="value" value="0.778" />
-												<instance_reference name="tooltip" value="modifier_tooltip\ability_cost_munition_multiplier" />
-											</template_reference>
-											<template_reference name="modifier" value="modifiers\ability_cost_munition_multiplier">
-												<enum name="application_type" value="apply_to_ability" />
-												<bool name="exclusive" value="False" />
-												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_sticky_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.778" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_cost_munition_multiplier" />
