@@ -39,11 +39,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.xml</FileName>
-			<FileHash>1d534c6077bb62a2522b4a3032176102</FileHash>
+			<FileHash>0ea37f2742f0a5dd280b83173b5c8d8c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.xml</FileName>
-			<FileHash>f10be832a2492b3a1a0cb3171a0e906d</FileHash>
+			<FileHash>bc3ce353d8664b66977a11db67efcb8d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\artillery_155mm.xml</FileName>
@@ -154,6 +154,10 @@
 			<FileHash>3ec44d5f71ca1227c51da2250aef8b84</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\assault_field_officer.xml</FileName>
+			<FileHash>178c1903b9489d66d22e4913770b8d12</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\jaeger_interrogation.xml</FileName>
 			<FileHash>aed9398fbdda65b8d631a3267bab3468</FileHash>
 		</BurnInfo>
@@ -260,6 +264,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\throw_away_hack_ui\cmd_guard_troops.xml</FileName>
 			<FileHash>1267a4623ee49d386e109a6c86052406</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-8_unlock_mp.xml</FileName>
+			<FileHash>25a28082df447b23fce96cd2f300a037</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
@@ -403,7 +411,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.xml</FileName>
-			<FileHash>4fd93dafb06bf21b9d34924ff9ae1e3c</FileHash>
+			<FileHash>ae75ec2fac61eb108f2acd500a7970a5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
@@ -691,7 +699,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.xml</FileName>
-			<FileHash>3a1094fe2339853e53ec91fa16f7825e</FileHash>
+			<FileHash>0264642d4ac062758047b91309d3c400</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m20_utility_car_squad\m20_utility_car_squad_mp.xml</FileName>
@@ -838,8 +846,12 @@
 			<FileHash>c1dbcf482c09bd40044eef7a1aab3c01</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp.xml</FileName>
+			<FileHash>6ab7668b37cd81b05f30031bc60eeadf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\mortar_squad\hm-120_38_mortar_squad_mp.xml</FileName>
-			<FileHash>ca16d47afce021fc9d54c53444fb66a6</FileHash>
+			<FileHash>4c7798b577d55973298b85d51295476f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\mortar_squad\pm-82_41_mortar_squad_mp.xml</FileName>
