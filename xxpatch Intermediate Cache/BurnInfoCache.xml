@@ -291,7 +291,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp.xml</FileName>
-			<FileHash>aebffab87997080ebb5451ae85c8bfa9</FileHash>
+			<FileHash>3f12223cefa044b91d8e6df39f3c8388</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\flak_halftrack_concealing_smoke_mp.xml</FileName>
@@ -404,6 +404,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\props\satchel_crit_applier.xml</FileName>
 			<FileHash>610e45152ae23a9697a3a07ca289b095</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\props\west_german_medical_supplies.xml</FileName>
+			<FileHash>5ae3ce520bed5039b8f47c8e081e0e84</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
