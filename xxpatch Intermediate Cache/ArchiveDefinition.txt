@@ -14,6 +14,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\artillery_155mm.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\artillery_smoke_barrage.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\support_artillery.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\support_artillery_decoy.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\time_on_target_artillery.rgd
