@@ -155,12 +155,14 @@
 					</template_reference>
 				</list>
 			</template_reference>
-			<template_reference name="required" value="requirements\required_squad_upgrade">
+			<template_reference name="required" value="requirements\required_slot_item">
 				<enum name="reason" value="usage_and_display" />
-				<locstring name="ui_name" value="0" />
-				<bool name="include_queued" value="False" />
-				<bool name="is_present" value="True" />
-				<instance_reference name="upgrade_name" value="upgrade\soviet\items\penal_ptrs_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<locstring name="ui_name" value="11074960" />
+				<bool name="check_item_on_entity" value="False" />
+				<bool name="display_requirement" value="True" />
+				<float name="max_owned" value="10" />
+				<float name="min_owned" value="1" />
+				<instance_reference name="slot_item" value="slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />

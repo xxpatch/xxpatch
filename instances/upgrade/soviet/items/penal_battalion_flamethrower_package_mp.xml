@@ -57,6 +57,11 @@
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073745930" />
 			</template_reference>
+			<template_reference name="action" value="action\slot_item_add">
+				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\penal_package_dummy_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<bool name="permanent" value="True" />
+				<uniqueid name="id" value="1073745943" />
+			</template_reference>
 		</list>
 		<list name="requirements">
 			<template_reference name="required" value="requirements\required_in_territory">
@@ -69,17 +74,8 @@
 			</template_reference>
 			<template_reference name="required" value="requirements\required_slot_item_size">
 				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11074959" />
-				<float name="required_free_slot_size" value="1" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_slot_item">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11074960" />
-				<bool name="check_item_on_entity" value="False" />
-				<bool name="display_requirement" value="True" />
-				<float name="max_owned" value="0" />
-				<float name="min_owned" value="0" />
-				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\roks-2_flamethrower_item_mp" />
+				<locstring name="ui_name" value="58" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<float name="required_free_slot_size" value="2" />
 			</template_reference>
 			<template_reference name="required" value="requirements\required_player_upgrade">
 				<enum name="reason" value="usage" />
