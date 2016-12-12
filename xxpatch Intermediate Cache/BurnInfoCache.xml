@@ -915,7 +915,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\guards_troops_mp.xml</FileName>
-			<FileHash>d55dd3bc1cc9d5fd414a4ff7d47ebbfa</FileHash>
+			<FileHash>c4e8f0ba667786754d59d3fbcf3daabf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
@@ -1034,6 +1034,10 @@
 			<FileHash>de2472267aeee72ef4647d4d14f2797a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp.xml</FileName>
+			<FileHash>88b335a1cf339e617417c383093d5d5a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_mp.xml</FileName>
 			<FileHash>c053d737dac6d530887a8581fc7c5de7</FileHash>
 		</BurnInfo>
@@ -1052,6 +1056,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_mp.xml</FileName>
 			<FileHash>9bfbb307774194588aefd8c24a9b990d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\dp-28_light_machine_gun_package_mp.xml</FileName>
+			<FileHash>075d56af3197a3efa96f66a11589394d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
@@ -1131,11 +1139,27 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\conscript_ptrs_package.xml</FileName>
-			<FileHash>46d2679d1b236fb2146eef44588a2ac7</FileHash>
+			<FileHash>d878177ca44410472c58fc308f96f1d8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\engineer_flamethrower_mp.xml</FileName>
 			<FileHash>287749df99fbf8589f5e46a66e65cb3c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
+			<FileHash>87a77b3f2eac8e1beadde0a598df55e2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_mp.xml</FileName>
+			<FileHash>f880b98b8df406808be38ffd866fbf83</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_1_mp.xml</FileName>
+			<FileHash>d5d763c9efd77825c0f3c83586a31009</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_2_mp.xml</FileName>
+			<FileHash>2c366bc8631103ab2efe47e812214195</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
@@ -1531,7 +1555,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>906ec1be92b1dd144a357eb3f1b5d9f4</FileHash>
+			<FileHash>e4e8776b98f03acb7309544f9e1e1728</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
