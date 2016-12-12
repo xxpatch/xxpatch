@@ -586,6 +586,10 @@
 			<FileHash>8a0bb1247aa73311e34ba406e34674a3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp.xml</FileName>
+			<FileHash>5942d45e0a53cb38037c7642704a77ee</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
 			<FileHash>b5223b41c4e940f2fb084a9c2184fe49</FileHash>
 		</BurnInfo>
@@ -935,7 +939,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp.xml</FileName>
-			<FileHash>2afcfc21e3b4c5c3e462eb8f327dbac9</FileHash>
+			<FileHash>e5278c75b46ffeefec888ba0da0775f4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_squad_mp.xml</FileName>
@@ -963,7 +967,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\stormtrooper_squad\urban_assault_light_infantry.xml</FileName>
-			<FileHash>7531da258bef68bc05755cd365301216</FileHash>
+			<FileHash>b93eca4dd5356b23611ddea503737dce</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_squad_mp.xml</FileName>
