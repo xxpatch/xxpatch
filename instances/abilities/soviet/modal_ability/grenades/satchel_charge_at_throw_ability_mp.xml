@@ -119,7 +119,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="52" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<locstring name="help_text" value="54" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-			<string name="hotkey_name" value="D" />
+			<string name="hotkey_name" value="E" />
 			<icon name="icon_name" value="Icons_commander_cmdr_soviet_at_bombing_run" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
