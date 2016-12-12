@@ -163,34 +163,14 @@
 				</group>
 			</group>
 			<list name="on_detonate_actions">
-				<template_reference name="action" value="action\spawn_entity">
-					<float name="duration" value="0" />
-					<instance_reference name="entity_blueprint" value="ebps\props\satchel_crit_applier" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-					<bool name="permanent" value="True" />
-					<bool name="player_owned" value="False" />
-					<group name="target_info">
-						<template_reference name="target_info" value="type_ability_target_type\all">
-						</template_reference>
-					</group>
-					<uniqueid name="id" value="1073745637" />
-					<template_reference name="spawn_attached_option" value="options\none">
-					</template_reference>
-					<list name="spawned_entity_actions">
-					</list>
-					<group name="offset">
-						<float name="x" value="0" />
-						<float name="y" value="0" />
-						<float name="z" value="0" />
-					</group>
-				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\projectile_ext">
 			<float name="acceleration" value="10" />
 			<group name="artillery">
 				<bool name="can_counter_barrage" value="False" />
-				<bool name="is_artillery" value="True" />
-				<bool name="is_target_only" value="False" />
+				<bool name="is_artillery" value="False" />
+				<bool name="is_target_only" value="True" />
 				<float name="speed_distance_multiplier" value="0.1" />
 				<float name="speed_increment" value="0.5" />
 				<enum name="firing_angle_type" value="low_angle" />
@@ -201,15 +181,15 @@
 			<float name="building_hit_fx_delay" value="0" />
 			<bool name="collision_building_wall_panel_ignore" value="True" />
 			<group name="collision_type">
-				<template_reference name="collision_type" value="type_projectile_collision\tp_artillery">
+				<template_reference name="collision_type" value="type_projectile_collision\tp_homing">
 				</template_reference>
 			</group>
-			<float name="deathtimer" value="4" />
+			<float name="deathtimer" value="0" />
 			<float name="delay_detonate_time" value="3.3" />
 			<bool name="delay_detonate_ui_enabled" value="True" />
 			<string name="launcher_marker" value="Marker_Grenade" />
 			<float name="life_time_while_alive" value="0" />
-			<float name="rotation_speed" value="0" />
+			<float name="rotation_speed" value="1000" />
 			<bool name="spawn_collision_fx" value="True" />
 			<float name="speed" value="9" />
 			<bool name="collision_land_ignore" value="False" />
