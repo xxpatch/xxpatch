@@ -1,4 +1,4 @@
-<instance description="add armor&#xA;Multiplayer Clone." template="upgrade">
+<instance description="" template="upgrade">
 	<group name="upgrade_bag">
 		<bool name="enable_in_hold" value="True" />
 		<float name="global_max_limit" value="0" />
@@ -11,8 +11,8 @@
 			<string name="code_3" value="" />
 		</group>
 		<group name="speech_code_3">
-			<string name="code_1" value="pps" />
-			<string name="code_2" value="" />
+			<string name="code_1" value="flt" />
+			<string name="code_2" value="sft" />
 			<string name="code_3" value="" />
 		</group>
 		<group name="time_cost">
@@ -21,7 +21,7 @@
 				<float name="command" value="0" />
 				<float name="fuel" value="0" />
 				<float name="manpower" value="0" />
-				<float name="munition" value="90" />
+				<float name="munition" value="60" />
 				<float name="popcap" value="0" />
 			</group>
 			<float name="time_seconds" value="20" />
@@ -35,67 +35,27 @@
 			<string name="hotkey_name" value="F" />
 			<icon name="icon_name" value="Icons_upgrades_icon_upgrade_soviet_flamethrower" />
 			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="4" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			<locstring name="screen_name" value="11008971" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="screen_name_short" value="0" />
 			<enum name="ui_style" value="default" />
 		</group>
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
-			<template_reference name="action" value="action\remove_weapon">
-				<bool name="fire_and_forget" value="False" />
-				<float name="hardpoint" value="1" />
-				<uniqueid name="id" value="1073742920" />
-			</template_reference>
-			<template_reference name="action" value="action\add_weapon">
-				<float name="hardpoint" value="1" />
-				<group name="weapon">
-					<group name="heading">
-						<float name="x" value="0" />
-						<float name="y" value="0" />
-						<float name="z" value="1" />
-					</group>
-					<float name="length" value="0" />
-					<group name="origin">
-						<float name="x" value="0" />
-						<float name="y" value="0.5" />
-						<float name="z" value="0" />
-					</group>
-					<enum name="type" value="default" />
-					<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\sub_machine_gun\conscript_ppsh-41_sub_machine_gun_mp" />
-				</group>
-				<uniqueid name="id" value="1073742921" />
-			</template_reference>
-			<template_reference name="action" value="action\change_weapon">
-				<float name="hardpoint" value="1" />
-				<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\sub_machine_gun\conscript_ppsh-41_sub_machine_gun_mp" />
-				<uniqueid name="id" value="1073742922" />
-			</template_reference>
-			<template_reference name="action" value="action\apply_modifiers_action">
-				<float name="duration" value="0" />
-				<bool name="permanent" value="False" />
-				<list name="modifiers">
-					<template_reference name="modifier" value="modifiers\target_priority_squad_modifier">
-						<enum name="application_type" value="apply_to_squad" />
-						<bool name="exclusive" value="False" />
-						<string name="modifier_id" value="" />
-						<string name="target_type_name" value="" />
-						<enum name="usage_type" value="addition" />
-						<float name="value" value="15" />
-						<instance_reference name="tooltip" value="modifier_tooltip\target_priority_squad_modifier" />
-					</template_reference>
-				</list>
-				<uniqueid name="id" value="1073742923" />
+			<template_reference name="action" value="action\slot_item_add">
+				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\roks-2_flamethrower_item_no_drop_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<bool name="permanent" value="True" />
+				<uniqueid name="id" value="1073745927" />
 			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\ppsh41_assault_package_mp" />
 				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073742924" />
+				<uniqueid name="id" value="1073745929" />
 			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\penal_package_dummy_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\ppsh41_assault_package_mp" />
 				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073742925" />
+				<uniqueid name="id" value="1073745930" />
 			</template_reference>
 		</list>
 		<list name="requirements">
@@ -109,8 +69,25 @@
 			</template_reference>
 			<template_reference name="required" value="requirements\required_slot_item_size">
 				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="2" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<float name="required_free_slot_size" value="2" />
+				<locstring name="ui_name" value="11074959" />
+				<float name="required_free_slot_size" value="1" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_slot_item">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="11074960" />
+				<bool name="check_item_on_entity" value="False" />
+				<bool name="display_requirement" value="True" />
+				<float name="max_owned" value="0" />
+				<float name="min_owned" value="0" />
+				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\roks-2_flamethrower_item_mp" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_player_upgrade">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="11045278" />
+				<bool name="is_present" value="True" />
+				<float name="max_completed" value="100" />
+				<float name="min_completed" value="1" />
+				<instance_reference name="upgrade_name" value="upgrade\soviet\research\hq_molotov_grenade_mp" />
 			</template_reference>
 		</list>
 		<icon name="ui_kicker_icon_name" value="Icons_weapons_weapon_flamethrower" />
@@ -124,5 +101,5 @@
 		<list name="on_begin_actions">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="1073741823" />
+	<uniqueid name="pbgid" value="397" />
 </instance>

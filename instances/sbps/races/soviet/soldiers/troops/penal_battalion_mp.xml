@@ -181,6 +181,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_ptrs_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -442,7 +443,7 @@
 						<template_reference name="action" value="action\upgrade_add">
 							<bool name="apply_to_entities_in_squad" value="False" />
 							<bool name="trigger_publish_event" value="False" />
-							<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" />
+							<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<uniqueid name="id" value="1073742743" />
 						</template_reference>
 					</list>
@@ -477,9 +478,9 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\penal_oorah_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\to_the_last_man_mp" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\penal_molotov_cocktail_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
@@ -647,7 +648,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="1080" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11047129" />
+								<locstring name="screen_name" value="56" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
