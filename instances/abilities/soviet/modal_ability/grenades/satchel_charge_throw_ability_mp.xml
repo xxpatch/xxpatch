@@ -1,4 +1,4 @@
-<instance description="" template="abilities">
+<instance description="pinning grenade on the penal battalion" template="abilities">
 	<group name="ability_bag">
 		<group name="action_list">
 			<list name="end_self_actions">
@@ -9,7 +9,7 @@
 			</list>
 			<list name="start_target_actions">
 				<template_reference name="action" value="action\use_accessory_weapon">
-					<instance_reference name="accessory_weapon_item" value="slot_item\soviet\grenades\conscript_molotov_mp" />
+					<instance_reference name="accessory_weapon_item" value="slot_item\soviet\grenades\penal_troop_satchel_charge_item_mp" />
 					<instance_reference name="decrement_accessory_item" value="" />
 					<bool name="entity_target_only" value="False" />
 					<bool name="force_squad_to_target" value="False" />
@@ -19,11 +19,11 @@
 						<template_reference name="target_info" value="type_ability_target_type\all">
 						</template_reference>
 					</group>
-					<uniqueid name="id" value="1073745924" />
+					<uniqueid name="id" value="1073745933" />
 					<bool name="target_override_direction_times_max_range" value="False" />
 				</template_reference>
 				<template_reference name="action" value="action\delay">
-					<float name="delay" value="3.6" />
+					<float name="delay" value="2.5" />
 					<float name="delay_min" value="0" />
 					<bool name="progress_bar" value="False" />
 					<bool name="randomize" value="False" />
@@ -34,10 +34,10 @@
 							<float name="event_param_end" value="-1" />
 							<enum name="event_type" value="grenade" />
 							<bool name="event_send_to_target_player" value="False" />
-							<uniqueid name="id" value="1073745925" />
+							<uniqueid name="id" value="1073745934" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745926" />
+					<uniqueid name="id" value="1073745935" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -52,7 +52,7 @@
 			<float name="command" value="0" />
 			<float name="fuel" value="0" />
 			<float name="manpower" value="0" />
-			<float name="munition" value="15" />
+			<float name="munition" value="45" />
 			<float name="popcap" value="0" />
 		</group>
 		<string name="cursor_ghost_blueprint" value="" />
@@ -73,23 +73,23 @@
 		<float name="initial_delay_time" value="0" />
 		<bool name="initial_recharge" value="False" />
 		<bool name="is_default_action" value="False" />
-		<bool name="move_back" value="False" />
-		<float name="move_back_distance" value="10" />
-		<float name="range" value="20" />
+		<bool name="move_back" value="True" />
+		<float name="move_back_distance" value="0" />
+		<float name="range" value="10" />
 		<bool name="range_ignore" value="False" />
 		<float name="recharge_time" value="30" />
 		<bool name="refundable" value="True" />
 		<bool name="require_no_shot_block" value="False" />
-		<enum name="shared_timer" value="squad_ability_2" />
+		<enum name="shared_timer" value="squad_ability_1" />
 		<bool name="shared_timer_player_wide" value="False" />
 		<group name="speech_code_2">
-			<string name="code_1" value="ml" />
-			<string name="code_2" value="gd" />
+			<string name="code_1" value="" />
+			<string name="code_2" value="" />
 			<string name="code_3" value="" />
 		</group>
 		<group name="speech_code_3">
-			<string name="code_1" value="mol" />
-			<string name="code_2" value="gnd" />
+			<string name="code_1" value="tsc" />
+			<string name="code_2" value="" />
 			<string name="code_3" value="" />
 		</group>
 		<enum name="squad_caster" value="one_entity" />
@@ -106,39 +106,24 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11038231" />
-			<locstring name="help_text" value="11006747" />
-			<string name="hotkey_name" value="V" />
-			<icon name="icon_name" value="Icons_abilities_ability_soviet_molotov_cocktail" />
+			<locstring name="extra_text" value="11035150" />
+			<locstring name="help_text" value="11035149" />
+			<string name="hotkey_name" value="E" />
+			<icon name="icon_name" value="Icons_abilities_ability_soviet_satchel_charge" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11006607" />
+			<locstring name="screen_name" value="11035148" />
 			<icon name="icon_alternate_name" value="" />
-			<locstring name="brief_text" value="11039247" />
+			<locstring name="brief_text" value="0" />
 			<locstring name="help_text_alternate" value="0" />
 			<locstring name="screen_name_alternate" value="0" />
 			<locstring name="screen_name_short" value="0" />
 		</group>
-		<locstring name="ui_usage_txt" value="11042786" />
+		<locstring name="ui_usage_txt" value="0" />
 		<bool name="validate_actions" value="True" />
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
-			<template_reference name="required" value="requirements\required_squad_upgrade">
-				<enum name="reason" value="usage_and_display" />
-				<locstring name="ui_name" value="11045279" />
-				<bool name="include_queued" value="False" />
-				<bool name="is_present" value="True" />
-				<instance_reference name="upgrade_name" value="upgrade\soviet\items\base_conscript_molotov_unlock_mp" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_player_upgrade">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11045278" />
-				<bool name="is_present" value="True" />
-				<float name="max_completed" value="100" />
-				<float name="min_completed" value="1" />
-				<instance_reference name="upgrade_name" value="upgrade\soviet\research\hq_molotov_grenade_mp" />
-			</template_reference>
 			<template_reference name="required" value="requirements\required_not">
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="11050319" />
@@ -159,15 +144,28 @@
 					</template_reference>
 				</list>
 			</template_reference>
+			<template_reference name="required" value="requirements\required_not">
+				<enum name="reason" value="usage_and_display" />
+				<locstring name="ui_name" value="0" />
+				<list name="requirement_table">
+					<template_reference name="required" value="requirements\required_squad_upgrade">
+						<enum name="reason" value="usage" />
+						<locstring name="ui_name" value="0" />
+						<bool name="include_queued" value="False" />
+						<bool name="is_present" value="True" />
+						<instance_reference name="upgrade_name" value="upgrade\soviet\items\penal_ptrs_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					</template_reference>
+				</list>
+			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
-		<int name="ui_position" value="32" />
+		<int name="ui_position" value="31" />
 		<bool name="ui_mini_map_capture" value="False" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />
 		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_grenade_negative" />
-		<float name="ui_reticule_radius_min" value="4" />
-		<float name="ui_reticule_radius_max" value="4" />
+		<float name="ui_reticule_radius_min" value="6" />
+		<float name="ui_reticule_radius_max" value="6" />
 		<enum name="pending_ability_out_of_range_behaviour" value="chase" />
 		<enum name="ui_group" value="group_primary" />
 		<string name="ui_targetable_sm_key" value="" />
@@ -193,5 +191,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="1073741832" />
+	<uniqueid name="pbgid" value="302" />
 </instance>

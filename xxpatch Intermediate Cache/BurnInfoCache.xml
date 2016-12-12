@@ -255,7 +255,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\penal_molotov_cocktail_mp.xml</FileName>
-			<FileHash>378d1587f2212cab562dd6e50ab49ee5</FileHash>
+			<FileHash>38aad8c5e26af616288420292e1e6567</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\rgd_33_partisan_grenade_mp.xml</FileName>
@@ -263,7 +263,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp.xml</FileName>
-			<FileHash>afb46419074fefca6c373496457bcc33</FileHash>
+			<FileHash>329cd59bccd9778e046a814306b3e8cf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp.xml</FileName>
+			<FileHash>7eb21e161c5364bf5eca163f0c0a68aa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\penal_oorah_mp.xml</FileName>
@@ -915,7 +919,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>88e80a777003b94669651ee1a8104359</FileHash>
+			<FileHash>934d28e978ae05ab33e9bd2ebb8fd93e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -1135,7 +1139,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
-			<FileHash>350bbae6425dfc1f343c5926256c036d</FileHash>
+			<FileHash>b3a49d6a352a3a262733cbdfadaa12a0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_rejected_mp.xml</FileName>
