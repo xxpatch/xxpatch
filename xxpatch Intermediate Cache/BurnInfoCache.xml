@@ -1079,7 +1079,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\flamethrowers\roks-2_flamethrower_item_no_drop_mp.xml</FileName>
-			<FileHash>622d2646aa8e0c12d8f33f85b01dbe0b</FileHash>
+			<FileHash>992c2fd5f6958ab09faad4f2b7df4bf6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_mp.xml</FileName>
@@ -1496,6 +1496,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\flame_throwers\flamethrower_roks3_mp.xml</FileName>
 			<FileHash>5ef1e1b3a94fea1ea810cba7ec39b70d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\flame_throwers\roks2_backpack_flamethrower_mp.xml</FileName>
+			<FileHash>60d7a73aff2083223cfc5f259f9020bb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\flame_throwers\grenade\molotov_cocktail_weapon_mp.xml</FileName>
