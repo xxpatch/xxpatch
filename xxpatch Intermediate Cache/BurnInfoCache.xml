@@ -338,6 +338,10 @@
 			<FileHash>ffac19f1b9d2b4bbc5419134e7315f3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\base_building_retreat_point_mp.xml</FileName>
+			<FileHash>a963b50800d2359e41721c95682756ef</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
 			<FileHash>bd15693d8f6086a74d6f7ef3d598e3c5</FileHash>
 		</BurnInfo>
@@ -416,6 +420,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\props\west_german_medical_supplies.xml</FileName>
 			<FileHash>5ae3ce520bed5039b8f47c8e081e0e84</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp.xml</FileName>
+			<FileHash>1f4b7b57b26abbff7ceb3e7827a7a8f4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\retreat_point_decoration_mp.xml</FileName>
+			<FileHash>1f502135190c89a928882f8d679fe22e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
@@ -591,7 +603,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\base_building\heavy_armor_support_mp.xml</FileName>
-			<FileHash>8a0bb1247aa73311e34ba406e34674a3</FileHash>
+			<FileHash>bd701960fedf1ce25e80e82aab0e3a9a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp.xml</FileName>
