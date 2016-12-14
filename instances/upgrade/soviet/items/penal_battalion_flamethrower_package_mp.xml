@@ -42,20 +42,69 @@
 		</group>
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
+			<template_reference name="action" value="action\change_target_action">
+				<list name="actions">
+					<template_reference name="action" value="action\requirement_action">
+						<bool name="check_self" value="False" />
+						<bool name="global_fire_and_forget_on_success" value="False" />
+						<bool name="instant_requirement_check" value="True" />
+						<bool name="kill_action_on_failed_requirements" value="True" />
+						<bool name="no_retrigger" value="True" />
+						<bool name="validate_all_sub_actions" value="True" />
+						<list name="requirement_table">
+							<template_reference name="required" value="requirements\required_active_weapon">
+								<enum name="reason" value="usage" />
+								<locstring name="ui_name" value="0" />
+								<string name="hardpoint_name" value="hardpoint_01" />
+								<instance_reference name="weapon" value="weapon\soviet\small_arms\single_fire\rifle\penal_troops_svt_rifle_replaceable_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							</template_reference>
+						</list>
+						<list name="action_table">
+							<template_reference name="action" value="action\remove_weapon">
+								<bool name="fire_and_forget" value="False" />
+								<float name="hardpoint" value="1" />
+								<uniqueid name="id" value="1073746060" />
+							</template_reference>
+							<template_reference name="action" value="action\add_weapon">
+								<float name="hardpoint" value="1" />
+								<group name="weapon">
+									<group name="heading">
+										<float name="x" value="0" />
+										<float name="y" value="0" />
+										<float name="z" value="1" />
+									</group>
+									<float name="length" value="0" />
+									<group name="origin">
+										<float name="x" value="0" />
+										<float name="y" value="0.5" />
+										<float name="z" value="0" />
+									</group>
+									<enum name="type" value="default" />
+									<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\sub_machine_gun\conscript_ppsh-41_sub_machine_gun_mp" />
+								</group>
+								<uniqueid name="id" value="1073746061" />
+							</template_reference>
+							<template_reference name="action" value="action\change_weapon">
+								<float name="hardpoint" value="1" />
+								<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\sub_machine_gun\conscript_ppsh-41_sub_machine_gun_mp" />
+								<uniqueid name="id" value="1073746062" />
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073746063" />
+						<bool name="fire_and_forget_non_global" value="False" />
+						<template_reference name="ui_help_text" value="tables\help_text_phrase">
+							<int name="phrase_order" value="0" />
+							<locstring name="phrase" value="0" />
+						</template_reference>
+					</template_reference>
+				</list>
+				<enum name="change_target_type" value="entities" />
+				<uniqueid name="id" value="1073746058" />
+			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\roks-2_flamethrower_item_no_drop_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="slot_item" value="slot_item\soviet\flamethrowers\roks-2_flamethrower_item_mp" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073745927" />
-			</template_reference>
-			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\ppsh41_assault_package_mp" />
-				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073745929" />
-			</template_reference>
-			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\ppsh41_assault_package_mp" />
-				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073745930" />
 			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
 				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\penal_package_dummy_item_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
@@ -76,14 +125,6 @@
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="58" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<float name="required_free_slot_size" value="2" />
-			</template_reference>
-			<template_reference name="required" value="requirements\required_player_upgrade">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11045278" />
-				<bool name="is_present" value="True" />
-				<float name="max_completed" value="100" />
-				<float name="min_completed" value="1" />
-				<instance_reference name="upgrade_name" value="upgrade\soviet\research\hq_molotov_grenade_mp" />
 			</template_reference>
 		</list>
 		<icon name="ui_kicker_icon_name" value="Icons_weapons_weapon_flamethrower" />
