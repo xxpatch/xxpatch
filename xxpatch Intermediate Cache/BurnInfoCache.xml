@@ -222,6 +222,10 @@
 			<FileHash>c47bc35610c0443ca93e233bc56a5cc8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\merge_ability_mp.xml</FileName>
+			<FileHash>7f33ab0097907165c45dd50f14f84820</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\artillery\artillery_barrage_ability\su-76_barrage_ability_mp.xml</FileName>
 			<FileHash>f1ad9b30d98fe9270b231892d6f29c05</FileHash>
 		</BurnInfo>
@@ -903,11 +907,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\base_conscript_squad_mp.xml</FileName>
-			<FileHash>c2475459c6b4e5921d9c9563f90253f9</FileHash>
+			<FileHash>abeea04fcd72368950c5166f62179917</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
-			<FileHash>c1dbcf482c09bd40044eef7a1aab3c01</FileHash>
+			<FileHash>9cd3660e62ee98d4b8b8a5d7fa77c679</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp.xml</FileName>
