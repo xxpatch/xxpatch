@@ -18,6 +18,10 @@
 			<FileHash>a943dc9e927fc43ed9074f6b09695c82</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\m8_canister_shot.xml</FileName>
+			<FileHash>f04314bf2eb1bbf1fbfa21fa6caa50d9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\usf_medic_heal_mp.xml</FileName>
 			<FileHash>e2f50e967970939b748b22952dc88bc1</FileHash>
 		</BurnInfo>
@@ -70,6 +74,10 @@
 			<FileHash>b1d64ac672564df22e2a8bc7beea46d2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch.xml</FileName>
+			<FileHash>1b37a5f6fa207c20ac18c33be8b2aed5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.xml</FileName>
 			<FileHash>378d60ce0570620ef76991b7fbe9b54f</FileHash>
 		</BurnInfo>
@@ -83,7 +91,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
-			<FileHash>3459bd06e5308e62009f11bf14d3efe6</FileHash>
+			<FileHash>e8fa69b3807dca22ee0d376176226ab7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\always_on_ability\brit_sniper_delayed_cover_auto_camouflage_mp.xml</FileName>
@@ -488,6 +496,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.xml</FileName>
 			<FileHash>451c86e64cfad9e86a0012fd25a5c440</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
+			<FileHash>beb40a2c30fef699a11f885d07426a02</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.xml</FileName>
@@ -1246,6 +1258,14 @@
 			<FileHash>bc7c2ff5468cbcb954d9a0f1e23bee2a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\ballistic_weapon\tank_gun\m8_greyhound_m6_37mm_canister_shot_mp.xml</FileName>
+			<FileHash>9523448feaf7c838f3d072c999df99b0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\ballistic_weapon\tank_gun\m8_greyhound_m6_37mm_mp.xml</FileName>
+			<FileHash>21f975ec5c947d629455e445b2342f38</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_barrage_mp.xml</FileName>
 			<FileHash>899d78eb2eb95f92fe8036c63b160d46</FileHash>
 		</BurnInfo>
@@ -1595,7 +1615,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>e4e8776b98f03acb7309544f9e1e1728</FileHash>
+			<FileHash>31632e3dec2a7f03dc25a7d8e1e8dbe4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
