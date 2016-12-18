@@ -322,6 +322,18 @@
 					</list>
 					<uniqueid name="id" value="1073745151" />
 				</template_reference>
+				<template_reference name="action" value="action\timed_action">
+					<float name="duration" value="1" />
+					<bool name="fire_and_forget" value="True" />
+					<list name="subactions">
+						<template_reference name="action" value="action\slot_item_add">
+							<instance_reference name="slot_item" value="slot_item\german\assgren_nade_token" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<bool name="permanent" value="False" />
+							<uniqueid name="id" value="1073746116" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073746115" />
+				</template_reference>
 			</list>
 		</group>
 		<float name="flinch_radius" value="15" />

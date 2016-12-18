@@ -43,7 +43,7 @@
 			</list>
 		</group>
 		<enum name="activation" value="targeted" />
-		<bool name="can_interrupt" value="False" />
+		<bool name="can_interrupt" value="True" />
 		<bool name="can_target_in_fow" value="True" />
 		<float name="caster_close_in_distance" value="0" />
 		<bool name="casters_can_evacuate" value="False" />
@@ -182,6 +182,15 @@
 		<instance_reference name="cursor_ghost_ebp" value="" />
 		<bool name="can_cast_whilst_constructing" value="False" />
 		<list name="requirements_self_recharge">
+			<template_reference name="required" value="requirements\required_slot_item">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="0" />
+				<bool name="check_item_on_entity" value="False" />
+				<bool name="display_requirement" value="True" />
+				<float name="max_owned" value="0" />
+				<float name="min_owned" value="0" />
+				<instance_reference name="slot_item" value="slot_item\german\assgren_nade_token" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			</template_reference>
 		</list>
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
