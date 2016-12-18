@@ -90,6 +90,10 @@
 			<FileHash>ad286a201f84f80136f80d1737a10b7f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\officer_retreat_point_mp.xml</FileName>
+			<FileHash>a56cf55f36af0a3ff926ad194e89b982</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>e8fa69b3807dca22ee0d376176226ab7</FileHash>
 		</BurnInfo>
@@ -699,7 +703,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\major_squad\major_squad_mp.xml</FileName>
-			<FileHash>08d1910fc569838d8f09fa07bd2ab6b8</FileHash>
+			<FileHash>6c88b4465df45a472bef2fad6f3eb0b6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_combat_group_squad_mp.xml</FileName>

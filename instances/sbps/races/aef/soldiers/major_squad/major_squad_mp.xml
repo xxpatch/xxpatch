@@ -627,7 +627,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\officer_retreat_point_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\officer_retreat_point_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\major_quick_recon_run" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\major_quick_recon_run_improved" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />

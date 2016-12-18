@@ -24,6 +24,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\auto_heal_disable_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\officer_retreat_point_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\always_on_ability\brit_sniper_delayed_cover_auto_camouflage_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\always_on_ability\commando_infiltration_camouflage_mp.rgd
