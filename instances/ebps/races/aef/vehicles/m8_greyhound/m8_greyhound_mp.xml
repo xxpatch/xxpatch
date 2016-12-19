@@ -1069,7 +1069,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="False" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1099,7 +1099,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="False" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1139,7 +1139,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="False" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1189,7 +1189,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="False" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1224,14 +1224,14 @@
 								<string name="animator_bp_female" value="" />
 							</group>
 							<group name="role">
-								<string name="animator_bp" value="armies\soviet\soldiers\tank_crew_1\tank_crew_1" />
+								<string name="animator_bp" value="armies\british\soldiers\tommy\tommy" />
 								<string name="death_event_name" value="Death_crew" />
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="False" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
-								<string name="animator_bp_female" value="armies\soviet\soldiers\tank_crew_1\tank_crew_1" />
+								<string name="animator_bp_female" value="" />
 							</group>
 						</list>
 						<template_reference name="additional_crew_option" value="options\none">
@@ -1251,6 +1251,16 @@
 								<string name="sync_action_name" value="Attach_Driver" />
 								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_driver" />
+								<string name="animator_bp_female" value="" />
+							</group>
+							<group name="role">
+								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
+								<string name="death_event_name" value="Death_crew" />
+								<string name="desync_action_name" value="Detach_Skeleton" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="True" />
+								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
 							<group name="role">

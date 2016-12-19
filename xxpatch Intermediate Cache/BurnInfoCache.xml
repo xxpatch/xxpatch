@@ -503,7 +503,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
-			<FileHash>946e09cb3f122e1e1b2c89fb1e7f11b4</FileHash>
+			<FileHash>863d7be7ce868fc9e31b143d07d62f27</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.xml</FileName>
@@ -807,7 +807,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.xml</FileName>
-			<FileHash>1318fe57cdef936589a517d2afc18cae</FileHash>
+			<FileHash>2c16603e5b4baa30c1e8e7017d820c17</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
@@ -1063,7 +1063,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\small_arms\m2hb_turret_mounted_m8_mp.xml</FileName>
-			<FileHash>c9788f320b6d9982ac7315dbb3c26baf</FileHash>
+			<FileHash>c411a2d952d719cb4ac2f3d3523bfd85</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\heat_nade_token.xml</FileName>
@@ -1316,6 +1316,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m20_utility_car_m2hb_50cal_mounted_mp.xml</FileName>
 			<FileHash>fe507bcde6b2d4be165c52858539a563</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m8_greyhound_m2hb_50cal_mounted_mp.xml</FileName>
+			<FileHash>08aa0893ae613d887574070cb2991960</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_coaxial_mp.xml</FileName>
@@ -1640,10 +1644,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
 			<FileHash>f195a2cdcd136ec2691416d81d6b0568</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\data\art\armies\aef\vehicles\m8_greyhound\m20_utility_car.abp</FileName>
-			<FileHash>394a271543ecdc928bbd7bb21fe5955f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\data\art\armies\aef\vehicles\m8_greyhound\m8_greyhound.abp</FileName>
