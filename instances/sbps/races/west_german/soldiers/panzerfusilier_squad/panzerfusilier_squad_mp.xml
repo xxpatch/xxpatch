@@ -416,7 +416,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\west_german\items\panzerfusilier_g43" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\panzerfusilier_g43" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">

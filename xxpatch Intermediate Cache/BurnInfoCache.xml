@@ -727,11 +727,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\ranger_squad\ranger_squad_commander_mp.xml</FileName>
-			<FileHash>9c1f12949c4ed46554c908e86cd1e633</FileHash>
+			<FileHash>ba27447e6b813eb8cb483a19dd243af4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\ranger_squad\ranger_squad_mp.xml</FileName>
-			<FileHash>049dfb0cc9b40656681fc05972337cc0</FileHash>
+			<FileHash>cf34d0a747af8acd58b721e0eea4595d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp.xml</FileName>
@@ -1023,7 +1023,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\panzerfusilier_squad\panzerfusilier_squad_mp.xml</FileName>
-			<FileHash>ef2b0691d63cfb91478054f2cc701928</FileHash>
+			<FileHash>0ee6b94fbc3673b057e38a2b229a0bcf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\stormtrooper_squad\urban_assault_light_infantry.xml</FileName>
@@ -1244,6 +1244,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package_3.xml</FileName>
 			<FileHash>b427761d094d64d63a40332f5d9a309b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\panzerfusilier_g43.xml</FileName>
+			<FileHash>f0dfd03bcfa59da9a90dd906f6f4181b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\volks_flamethrower_mp.xml</FileName>
@@ -1639,7 +1643,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>31632e3dec2a7f03dc25a7d8e1e8dbe4</FileHash>
+			<FileHash>f23b47a32e69cb4de4d14fa3d2689693</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
