@@ -954,7 +954,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
@@ -996,7 +996,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
@@ -1016,7 +1016,8 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\m8_greyhound_side_skirts_mp" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\m8_greyhound_side_skirts_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\m8_top_gunner_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\obj_cover_ext">
@@ -1062,6 +1063,16 @@
 								<string name="abandon_event_name" value="abandon_gunner_h8m1_left" />
 								<string name="animator_bp_female" value="" />
 							</group>
+							<group name="role">
+								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
+								<string name="death_event_name" value="Death_crew" />
+								<string name="desync_action_name" value="Detach_Skeleton" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="False" />
+								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
+								<string name="animator_bp_female" value="" />
+							</group>
 						</list>
 						<template_reference name="additional_crew_option" value="options\none">
 						</template_reference>
@@ -1088,7 +1099,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="True" />
+								<bool name="sync_on_create" value="False" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1128,7 +1139,7 @@
 								<string name="desync_action_name" value="Detach_Skeleton" />
 								<string name="role_name" value="Gunner" />
 								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="True" />
+								<bool name="sync_on_create" value="False" />
 								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -1172,6 +1183,16 @@
 								<string name="abandon_event_name" value="abandon_gunner_h8m1_left" />
 								<string name="animator_bp_female" value="" />
 							</group>
+							<group name="role">
+								<string name="animator_bp" value="armies\aef\soldiers\vehicle_crew\vehicle_crew" />
+								<string name="death_event_name" value="Death_crew" />
+								<string name="desync_action_name" value="Detach_Skeleton" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="False" />
+								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
+								<string name="animator_bp_female" value="" />
+							</group>
 						</list>
 						<template_reference name="additional_crew_option" value="options\none">
 						</template_reference>
@@ -1201,6 +1222,16 @@
 								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_gunner_h8m1_left" />
 								<string name="animator_bp_female" value="" />
+							</group>
+							<group name="role">
+								<string name="animator_bp" value="armies\soviet\soldiers\tank_crew_1\tank_crew_1" />
+								<string name="death_event_name" value="Death_crew" />
+								<string name="desync_action_name" value="Detach_Skeleton" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="False" />
+								<string name="abandon_event_name" value="abandon_m2hb50cal_gunner" />
+								<string name="animator_bp_female" value="armies\soviet\soldiers\tank_crew_1\tank_crew_1" />
 							</group>
 						</list>
 						<template_reference name="additional_crew_option" value="options\none">

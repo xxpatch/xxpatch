@@ -203,6 +203,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_officer_squad\forward_observation_squad_mp.rgd
@@ -266,6 +267,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\howitzer_105mm_le_fh18_artillery\okw_howitzer_105mm_le_fh18_artillery_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\flame_weapon\assault_engineer_flamethrower.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m2hb_turret_mounted_m8_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\british\heat_nade_token.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\british\flame_weapon\tommy_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\assgren_nade_token.rgd
@@ -288,6 +290,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\ability_lock_out\paratroopers_all_landed.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\assault_engineer_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\m8_greyhound_side_skirts_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\riflemen_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\bren_lmg_governor_upgrade_all_mp.rgd
@@ -418,4 +421,18 @@ TOCStart name="info" alias="info" path="" relativeroot="info"
 		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info
+TOCEnd
+TOCStart name="data" alias="data" path="" relativeroot="data"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgt|ttf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(abp)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+		Override wildcard=".*\.(dds|mua|muax|rpb|sua|tga)$" minsize="-1" maxsize="-1" vt="none" ct=""
+		Override wildcard=".*\.(gfx)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct=""
+		Override wildcard=".*\.(ai|events|info|lua|options|scar|scenref|squadai)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+		Override wildcard=".*\.(scenariomarker|sgb|ter|sme|exclude|path)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct=""
+		Override wildcard=".*\.(smf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(bsc)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\data\art\armies\aef\vehicles\m8_greyhound\m20_utility_car.abp
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\data\art\armies\aef\vehicles\m8_greyhound\m8_greyhound.abp
 TOCEnd
