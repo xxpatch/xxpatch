@@ -130,7 +130,7 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="40" />
+					<float name="fuel" value="50" />
 					<float name="manpower" value="280" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
@@ -1017,7 +1017,7 @@
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\items\m8_greyhound_side_skirts_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\m8_top_gunner_mp" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\m8_top_gunner_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\obj_cover_ext">
