@@ -37,7 +37,7 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="20" />
+					<float name="fuel" value="15" />
 					<float name="manpower" value="240" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
@@ -689,7 +689,7 @@
 			<float name="high_path_look_ahead_max_dist" value="25" />
 			<bool name="orient_to_terrain" value="True" />
 			<instance_reference name="pass_type" value="pass_types\light_crusher" />
-			<float name="rotation_rate" value="30" />
+			<float name="rotation_rate" value="42" />
 			<float name="rotation_rate_crouch" value="870" />
 			<float name="rotation_rate_prone" value="225" />
 			<float name="rotation_rate_stand" value="870" />

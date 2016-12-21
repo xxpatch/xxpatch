@@ -20,6 +20,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\support_artillery_decoy.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\time_on_target_artillery.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\usf_strafing_run.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\dodge_wc51_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.rgd
@@ -55,6 +56,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\stuka_bombing_strike.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\stuka_incendiary_bombs.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\mechanized_assault_group.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\mechanized_grenadier_group.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\stug_iii_e.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\assault_grenadier_grenade.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.rgd
@@ -230,6 +233,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\panzer_grenadier_squad\urban_assault_panzer_grenadier_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\pioneer_squad\pioneer_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_squad_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\halftrack_squad\mechanized_250_halftrack_grenadiers_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\halftrack_squad\mechanized_250_halftrack_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\halftrack_squad\sdkfz_251_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\scout_car_sdkfz222\scoutcar_sdkfz222_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.rgd
@@ -248,6 +253,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\troops\shock_troops_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\m1931_203mm_b-4_howitzer_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\m1937_152mm_ml_20_artillery\m1937_152mm_ml_20_artillery_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\m3a1_scout_car_squad\m3a1_scout_car_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\m5_halftrack_squad\m5_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\m5_halftrack_squad\m5_halftrack__assault_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\t-70m\t-70m_mp.rgd
@@ -265,6 +271,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\team_weapons\mg34_heavy_machine_gun_squad\mg34_heavy_machine_gun_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\howitzer_105mm_le_fh18_artillery\okw_howitzer_105mm_le_fh18_artillery_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\flame_weapon\assault_engineer_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m2hb_turret_mounted_m8_mp.rgd
@@ -393,6 +400,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\flame_throwers\roks2_backpack_flamethrower_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\flame_throwers\grenade\molotov_cocktail_weapon_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\m5_halftrack_quad_50_cal_m2hb_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machine_gun\light_machine_gun\t70_coaxial_vehicle_turret_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\single_fire\rifle\mosin_nagant_sniper_rifle_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\single_fire\rifle\penal_troops_svt_rifle_replaceable_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\ballistic_weapon\anti_tank_gun\raketenwerfer43_88mm_wg_mp.rgd
