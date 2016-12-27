@@ -682,6 +682,10 @@
 			<FileHash>5942d45e0a53cb38037c7642704a77ee</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp.xml</FileName>
+			<FileHash>fc1c930d7dcd9f4eb494acd58a2b2cf8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\soldiers\fallschirmjager\fallschirmjager_mp.xml</FileName>
 			<FileHash>f82dc1327881cf98072e513f1799e9f2</FileHash>
 		</BurnInfo>
@@ -783,11 +787,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp.xml</FileName>
-			<FileHash>c1c1496ee3d00c2f3e5a47f230600847</FileHash>
+			<FileHash>db5c44123af25a970e2d35486f16fc8b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_veteran_mp.xml</FileName>
-			<FileHash>8a9f663933923c11f7b812ae5129de00</FileHash>
+			<FileHash>331f62e4a00626084c7853aed9af4fd9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\usf_medic_squad\usf_medic_squad_mp.xml</FileName>
@@ -1087,7 +1091,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_squad_mp.xml</FileName>
-			<FileHash>d74ebec4f67832c85b6e55626f359ca5</FileHash>
+			<FileHash>86a8ab929dde5ea63bd45d43df112d06</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp.xml</FileName>
