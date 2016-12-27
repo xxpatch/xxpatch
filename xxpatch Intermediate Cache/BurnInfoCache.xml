@@ -583,11 +583,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>265de4b1bdb925046771c8082142bc9b</FileHash>
+			<FileHash>501b2061d2f14851c6d3538c25a210f8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
-			<FileHash>0826086366a81d6918befa3d31fe033b</FileHash>
+			<FileHash>90e7d97fa5fc66467bc759d99ae3b796</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -595,7 +595,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>511f4848d5865fdc61d61ba6d1642224</FileHash>
+			<FileHash>a8156cc9d4a0b09dc4f5a3f2523aa0e4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
@@ -942,8 +942,36 @@
 			<FileHash>6dd632e3ae3c7f511f4f0265a55ade34</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp.xml</FileName>
+			<FileHash>e04bc9dc30abd09d5d81ceffac452ada</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\churchill_squad\churchill_avre_squad_mp.xml</FileName>
+			<FileHash>f8d0a16b7300dc416cd2cdae25886ed1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\churchill_squad\churchill_crocodile_mp.xml</FileName>
+			<FileHash>2a7d76a04c9278472f94a75beda49142</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\churchill_squad\churchill_default_squad_mp.xml</FileName>
+			<FileHash>e15496c8f8b3ad69dda1ef025f599476</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp.xml</FileName>
+			<FileHash>9d09a79e10c9920c8ed304e09b9ebb72</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\m3_halftrack_squad\m3_halftrack_squad__resupply_mp.xml</FileName>
 			<FileHash>38cfa9ec24c30b6a88806b37b8016ef4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp.xml</FileName>
+			<FileHash>86930298afe5c033c056ac5be61bddc1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
+			<FileHash>8d7f6b93a054ba9b23c832fcff8bbfcb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\grenadier_squad\assault_grenadier_squad_mp.xml</FileName>
