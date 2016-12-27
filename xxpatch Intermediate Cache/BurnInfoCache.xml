@@ -747,11 +747,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp.xml</FileName>
-			<FileHash>88e84c2d4cc46dbff23150b7e008d088</FileHash>
+			<FileHash>75936135168496e96af227d6d6015504</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_support_mp.xml</FileName>
-			<FileHash>d5087058417a455b71a87ed4c530e3bf</FileHash>
+			<FileHash>61b8a8bed2b98da5cfae60b098285e73</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp.xml</FileName>
@@ -1118,6 +1118,10 @@
 			<FileHash>c411a2d952d719cb4ac2f3d3523bfd85</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\small_arms\paratrooper_m1919a6_lmg_mp.xml</FileName>
+			<FileHash>3b900b8323904338cf0d1e751ad09905</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\british\heat_nade_token.xml</FileName>
 			<FileHash>23b7f967475cd6266d1fd5a2561e9ff4</FileHash>
 		</BurnInfo>
@@ -1203,7 +1207,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.xml</FileName>
-			<FileHash>966678e74f97f717f3174e4ca1eea490</FileHash>
+			<FileHash>dbdb52305be820c08438c35e74f51855</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m8_greyhound_side_skirts_mp.xml</FileName>
@@ -1212,6 +1216,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m8_top_gunner_mp.xml</FileName>
 			<FileHash>bf178d81882f19dca9d2363fb87e55f8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\paratrooper_m1919a6_lmg_1_mp.xml</FileName>
+			<FileHash>52d16ea65922584cadc592844b29ccfd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\paratrooper_m1919a6_lmg_mp.xml</FileName>
+			<FileHash>6bd7b1dd447e885f25d21fea56d93f03</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\riflemen_flamethrower.xml</FileName>
@@ -1715,7 +1727,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>f23b47a32e69cb4de4d14fa3d2689693</FileHash>
+			<FileHash>e00ec260b77d2717d8b6f73a5fbf0053</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
