@@ -892,7 +892,7 @@
 							<int name="ui_position" value="22" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_barbed_wire_fence_mp" />
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="11" />
 						</group>
 					</list>

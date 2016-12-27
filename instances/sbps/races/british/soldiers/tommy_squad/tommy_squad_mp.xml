@@ -695,7 +695,7 @@
 							<int name="ui_position" value="31" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\british\buildings\defensive_structures\brit_sandbag_fence" />
+							<instance_reference name="ebp" value="ebps\races\british\buildings\defensive_structures\brit_sandbag_fence" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="12" />
 						</group>
 					</list>

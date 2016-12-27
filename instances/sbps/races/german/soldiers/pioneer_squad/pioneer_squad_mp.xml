@@ -781,7 +781,7 @@
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
@@ -789,11 +789,11 @@
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="23" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\german_sandbag_fence" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\german_sandbag_fence" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="21" />
 						</group>
 					</list>
