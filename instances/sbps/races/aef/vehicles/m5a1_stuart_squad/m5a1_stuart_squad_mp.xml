@@ -48,7 +48,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
@@ -105,7 +105,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
@@ -162,7 +162,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
@@ -219,7 +219,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
@@ -276,7 +276,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
@@ -333,7 +333,7 @@
 							<string name="code_3" value="" />
 						</group>
 						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_aef_m5a1_stuart_s_portrait" />
-						<float name="minimap_texture_scale" value="1" />
+						<float name="minimap_texture_scale" value="0.8" />
 						<locstring name="brief_text" value="11051531" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
