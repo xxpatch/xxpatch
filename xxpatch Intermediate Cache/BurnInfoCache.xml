@@ -1250,12 +1250,32 @@
 			<FileHash>c6ccb95d7298e22bacbb5ee0db0498b2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\jagdtiger_td_squad\jagdtiger_td_squad_mp.xml</FileName>
+			<FileHash>0b9ba6a8864f27022a217a6110035d57</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\king_tiger_squad\king_tiger_squad_mp.xml</FileName>
+			<FileHash>fc035e47eb29b26d0a7e22e9cf884db8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp.xml</FileName>
-			<FileHash>035069aa45e70e98bbe1881b4443be33</FileHash>
+			<FileHash>0596da1681db8a83df38adfaf52799db</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\panther_squad\panther_ausf_g_squad_mp.xml</FileName>
+			<FileHash>4db1771392b4f3232ae00441020145ff</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\panther_squad\panther_commander_squad_mp.xml</FileName>
+			<FileHash>1d9aaf8a1824e5e34128eda2e0d829d5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.xml</FileName>
-			<FileHash>5bf4b752f8d6065568dd9c9e8f504535</FileHash>
+			<FileHash>97066eca76745b484d4dfea3a19410a4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\sturmtiger_squad\sturmtiger_squad_mp.xml</FileName>
+			<FileHash>a5980fc11de9b93d72b5aa1747b11952</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\flame_weapon\assault_engineer_flamethrower.xml</FileName>

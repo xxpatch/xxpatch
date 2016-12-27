@@ -13,7 +13,7 @@
 						<string name="hotkey_name" value="W" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
@@ -70,7 +70,7 @@
 						<string name="hotkey_name" value="E" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
@@ -127,7 +127,7 @@
 						<string name="hotkey_name" value="E" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
@@ -184,7 +184,7 @@
 						<string name="hotkey_name" value="E" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
@@ -241,7 +241,7 @@
 						<string name="hotkey_name" value="W" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
@@ -298,7 +298,7 @@
 						<string name="hotkey_name" value="W" />
 						<icon name="icon_name" value="Icons_vehicles_vehicle_west_german_kubelwagen" />
 						<bool name="minimap_team_only" value="False" />
-						<icon name="minimap_texture" value="Icons_minimap_unit_scout_car" />
+						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11051184" />
