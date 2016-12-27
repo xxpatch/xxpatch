@@ -61,6 +61,15 @@
 				<bool name="is_present" value="False" />
 				<instance_reference name="upgrade_name" value="upgrade\west_german\items\waffen_infrared_stg44" />
 			</template_reference>
+			<template_reference name="required" value="requirements\required_slot_item">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="11074942" />
+				<bool name="check_item_on_entity" value="False" />
+				<bool name="display_requirement" value="True" />
+				<float name="max_owned" value="0" />
+				<float name="min_owned" value="0" />
+				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp" />
+			</template_reference>
 		</list>
 		<icon name="ui_kicker_icon_name" value="Icons_weapons_weapon_lmg_mg34" />
 		<locstring name="ui_squad_name_override" value="0" />
