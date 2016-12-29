@@ -590,7 +590,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<bool name="can_receive_shared_veterancy" value="False" />
+						<bool name="can_receive_shared_veterancy" value="True" />
 						<float name="max_persistent_squads" value="3" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
@@ -728,7 +728,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\west_german" />
 					<group name="info">
-						<bool name="can_receive_shared_veterancy" value="False" />
+						<bool name="can_receive_shared_veterancy" value="True" />
 						<float name="max_persistent_squads" value="3" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
