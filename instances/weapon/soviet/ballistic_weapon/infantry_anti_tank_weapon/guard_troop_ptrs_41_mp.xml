@@ -42,7 +42,7 @@
 			<group name="area_info">
 				<float name="angle_left" value="0" />
 				<float name="angle_right" value="0" />
-				<enum name="area_type" value="circle" />
+				<enum name="area_type" value="point" />
 				<float name="radius" value="0" />
 			</group>
 			<group name="damage">
