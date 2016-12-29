@@ -531,7 +531,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_bulldozer_mp.xml</FileName>
-			<FileHash>768ed5355f552405b19411cb4f3d8acd</FileHash>
+			<FileHash>24ec2f0fa7e7f862f11179d3abef7b83</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5a1_stuart\m5a1_stuart_mp.xml</FileName>
@@ -863,51 +863,79 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp.xml</FileName>
-			<FileHash>d1ed07818738a7408b19616ca2255ef4</FileHash>
+			<FileHash>00a292f1dcd8e5de495282a39eac599c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_ambulance_squad_mp.xml</FileName>
-			<FileHash>efa4b74c10252e1072543811b2107268</FileHash>
+			<FileHash>93f12f937fcd86656c648aa44a98378b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m10_tank_destroyer_squad\m10_tank_destroyer_squad_mp.xml</FileName>
+			<FileHash>e3e4dc1243bb85ac41a7e67a3037125d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m20_utility_car_squad\m20_utility_car_squad_mp.xml</FileName>
-			<FileHash>a82c1a2f1c21176490ac529ed2c97a8e</FileHash>
+			<FileHash>4ec75c071dc8a09251ca4ba19ceb1581</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
-			<FileHash>db952641d5cdc442f4156d167548e2f6</FileHash>
+			<FileHash>b91199563be74076c5acdeab3266f49d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m36_tank_destroyer_squad\m36_tank_destroyer_squad_mp.xml</FileName>
+			<FileHash>796b8c645585ccda9664e01e9077898e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m15a1_aa_halftrack_squad_mp.xml</FileName>
-			<FileHash>a6b536529ed69f66fa7a84a38fb292b2</FileHash>
+			<FileHash>12e6f0432201f4a479a752a9c8fb85d3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m21_mortar_halftrack_squad_mp.xml</FileName>
+			<FileHash>a1bc99751df3b2213f328fb0fcb24586</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_assault_mp.xml</FileName>
-			<FileHash>2c21ea9d6c6d9b6fe606611a24c975db</FileHash>
+			<FileHash>7af6b44c0303410b5767f83bfbd6dd3a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m3_halftrack_squad\m3_halftrack_squad_mp.xml</FileName>
-			<FileHash>4f15d7feb1d10e46f4a3946d5b9dac1e</FileHash>
+			<FileHash>290bc7c523540f62370fafffa5c44270</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3e8_sherman_easy_8_squad_mp.xml</FileName>
-			<FileHash>cf87f5283f1534b51b3c8e0059d94e66</FileHash>
+			<FileHash>2d73df08a23e20320b3c3f65fa1fa587</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp.xml</FileName>
+			<FileHash>ff7e906e196ea4cef9e457b629ed9102</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_sherman_squad_mp.xml</FileName>
+			<FileHash>70c1b6f87cd0f78b41bee6d74425d0f4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp.xml</FileName>
-			<FileHash>cf303378f47081a97ecbb3d71a6a189a</FileHash>
+			<FileHash>29e88ca94b65a8cedeb01297e1a2007d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp.xml</FileName>
-			<FileHash>fddbd4f197539f6042f0acfca15513ca</FileHash>
+			<FileHash>f92d1f9f361e01efbe4c5be70446696b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m7b1_priest_squad\m7b1_priest_squad_mp.xml</FileName>
+			<FileHash>b8f5c4faffdd41a69ecfa0c3ad40391f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp.xml</FileName>
-			<FileHash>6371352ea8445e2ea6680d1d28bc3067</FileHash>
+			<FileHash>f348e6972d27b8ce4dc8230e80675899</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.xml</FileName>
-			<FileHash>5c2cd6df654a722c0efa358e0afbb6c9</FileHash>
+			<FileHash>71a2857a16f9a4a831781fc2a96d8178</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\t34_calliope_squad\t34_calliope_squad_mp.xml</FileName>
+			<FileHash>6dcdaa67edbd414d7ded673beee35498</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.xml</FileName>
