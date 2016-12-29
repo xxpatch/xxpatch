@@ -729,7 +729,7 @@
 					<instance_reference name="ext_key" value="racebps\west_german" />
 					<group name="info">
 						<bool name="can_receive_shared_veterancy" value="False" />
-						<float name="max_persistent_squads" value="0" />
+						<float name="max_persistent_squads" value="3" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
 								<float name="experience_value" value="530" />
@@ -982,7 +982,7 @@
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="no_sharing" />
+						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
 					</group>
 				</group>
 			</list>
