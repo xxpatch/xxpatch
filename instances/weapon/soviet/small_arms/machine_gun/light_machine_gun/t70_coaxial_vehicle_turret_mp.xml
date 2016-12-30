@@ -348,13 +348,13 @@
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="6" />
-				<float name="min" value="4" />
+				<float name="max" value="3" />
+				<float name="min" value="3" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />
-				<float name="near" value="0.5" />
-				<float name="mid" value="0.75" />
+				<float name="near" value="1" />
+				<float name="mid" value="1" />
 			</group>
 			<group name="frequency">
 				<float name="max" value="6" />
@@ -418,9 +418,9 @@
 			<float name="fire_cone_angle" value="10" />
 			<group name="normal">
 				<float name="max_down" value="-90" />
-				<float name="max_left" value="0" />
-				<float name="max_right" value="0" />
-				<float name="max_up" value="0" />
+				<float name="max_left" value="-10" />
+				<float name="max_right" value="10" />
+				<float name="max_up" value="10" />
 				<float name="speed_horizontal" value="120" />
 				<float name="speed_vertical" value="60" />
 			</group>
