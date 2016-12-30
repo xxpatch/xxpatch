@@ -616,7 +616,7 @@
 							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\light_machine_gun\m8_greyhound_m1919a4_30cal_coaxial_mp" />
 						</group>
 					</list>
-					<bool name="receives_attack_commands" value="False" />
+					<bool name="receives_attack_commands" value="True" />
 				</group>
 			</list>
 			<int name="sight_hardpoint" value="-1" />
