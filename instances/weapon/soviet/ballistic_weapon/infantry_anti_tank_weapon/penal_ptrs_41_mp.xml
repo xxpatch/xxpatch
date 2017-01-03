@@ -3,7 +3,7 @@
 		<group name="accuracy">
 			<float name="mid" value="0.06" />
 			<float name="near" value="0.1" />
-			<float name="far" value="0.05" />
+			<float name="far" value="0.0385" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
