@@ -651,7 +651,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\armored_car_sdkfz_222\armored_car_sdkfz_222_mp.xml</FileName>
-			<FileHash>b50e30012d1f5a807f7ecc2238be1540</FileHash>
+			<FileHash>603a74d44679e9040ac79b688dc00c48</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp.xml</FileName>
@@ -1492,6 +1492,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\items\pioneer_flamethrower_mp.xml</FileName>
 			<FileHash>5647f5ab981fe78555a3ac1ee24a280e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\items\sdkfz_222_20mm_gun_mp.xml</FileName>
+			<FileHash>ea4a4f972d6b4788e9e1a6dfe3700a74</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\intel_bulletins\at_gun\build_pak40_pak43_zis3.xml</FileName>

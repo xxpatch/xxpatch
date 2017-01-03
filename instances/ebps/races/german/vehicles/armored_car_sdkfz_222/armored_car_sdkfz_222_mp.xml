@@ -142,7 +142,7 @@
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="False" />
 					<bool name="trigger_publish_event" value="False" />
-					<instance_reference name="upgrade" value="upgrade\german\items\sdkfz_222_20mm_gun_mp" />
+					<instance_reference name="upgrade" value="upgrade\german\items\sdkfz_222_20mm_gun_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					<uniqueid name="id" value="1073743605" />
 				</template_reference>
 			</list>
