@@ -506,6 +506,10 @@
 			<FileHash>cab75b2cbd46ba6cb0970d33a3f5dab8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\soldiers\weapon_crew\at_team_weapon_crew_mp.xml</FileName>
+			<FileHash>a0cad7d3556b67da08eeeea2088ab835</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp.xml</FileName>
 			<FileHash>ae75ec2fac61eb108f2acd500a7970a5</FileHash>
 		</BurnInfo>
@@ -851,7 +855,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.xml</FileName>
-			<FileHash>ab69b7f7c720771941a249b12472d14a</FileHash>
+			<FileHash>0afd8fd24d215407f98d0266ca17a64e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\team_weapons\m1_75mm_pack_howitzer_squad\m1_75mm_pack_howitzer_squad_mp.xml</FileName>
