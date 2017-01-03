@@ -610,6 +610,10 @@
 			<FileHash>d0a9edb2c2783cb773707b5580780ff1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\teller_mine_mp.xml</FileName>
+			<FileHash>5793566faef516ac4f5ea06cbc5b4ce9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\bunker\bunker_mp.xml</FileName>
 			<FileHash>e4e0005b885a5b75cd27883c8eb16415</FileHash>
 		</BurnInfo>
@@ -1063,7 +1067,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\pioneer_squad\pioneer_squad_mp.xml</FileName>
-			<FileHash>d725eec5302f2ab65e4113c3b9a4f46f</FileHash>
+			<FileHash>63e3392a2bb67dccecb26bd3668d90de</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_squad_mp.xml</FileName>

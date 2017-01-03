@@ -785,7 +785,7 @@
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\teller_mine_mp" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\teller_mine_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
