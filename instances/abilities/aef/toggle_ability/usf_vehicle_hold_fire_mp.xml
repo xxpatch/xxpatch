@@ -297,7 +297,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\tank_gun\m8_greyhound_m6_37mm_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\tank_gun\m8_greyhound_m6_37mm_mp" />
 					<uniqueid name="id" value="1073746091" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />
