@@ -20,7 +20,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\support_artillery_decoy.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\time_on_target_artillery.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\usf_strafing_run.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\dodge_wc51_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\m5_quad_halftrack_dispatch.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\auto_heal_disable_mp.rgd
@@ -237,6 +236,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m7b1_priest_squad\m7b1_priest_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m8_greyhound_squad\m8_greyhound_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\t34_calliope_squad\t34_calliope_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_medic_squad\brit_medic_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\brit_officer_squad\air_support_officer_squad_mp.rgd
