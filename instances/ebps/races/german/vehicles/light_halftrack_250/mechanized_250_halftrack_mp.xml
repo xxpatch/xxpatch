@@ -94,8 +94,8 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="20" />
-					<float name="manpower" value="160" />
+					<float name="fuel" value="30" />
+					<float name="manpower" value="200" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
@@ -128,7 +128,7 @@
 			</list>
 			<float name="armor" value="11" />
 			<float name="rear_armor" value="5.5" />
-			<float name="target_size" value="17" />
+			<float name="target_size" value="20" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
 				<group name="critical_group">

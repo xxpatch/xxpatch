@@ -210,14 +210,6 @@
 			<FileHash>c9fe4d185c392498cc973aca3048d416</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\dispatch\mechanized_assault_group.xml</FileName>
-			<FileHash>7598e6a6b6b9ecd3523997bb4620898a</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\dispatch\mechanized_grenadier_group.xml</FileName>
-			<FileHash>ab7b2ac65ae8d6cf3db42b8d60db3a57</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\dispatch\stug_iii_e.xml</FileName>
 			<FileHash>6556666967e543eb1eba750fc7341acc</FileHash>
 		</BurnInfo>
@@ -647,11 +639,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_grenadier_mp.xml</FileName>
-			<FileHash>8bb17dcd418db0ba242608c213098c51</FileHash>
+			<FileHash>2a778ff54062e8ec6a7669f7c8fe768b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_mp.xml</FileName>
-			<FileHash>03f8df939e066e8d6d8e46e6acc6e58b</FileHash>
+			<FileHash>7b2ca9c7eaacf477a24c1ae78b686683</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\puma\puma_east_german.xml</FileName>
