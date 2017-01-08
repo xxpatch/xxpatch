@@ -1010,6 +1010,10 @@
 			<FileHash>38cfa9ec24c30b6a88806b37b8016ef4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\sexton_spg_squad_mp\sexton_spg_squad_mp.xml</FileName>
+			<FileHash>7a44bd2a7ec8136d7a6aa78d756c18de</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp.xml</FileName>
 			<FileHash>86930298afe5c033c056ac5be61bddc1</FileHash>
 		</BurnInfo>
@@ -1079,11 +1083,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\vehicles\halftrack_squad\mechanized_250_halftrack_grenadiers_mp.xml</FileName>
-			<FileHash>1e14215cd129dd2156070e0088c20be1</FileHash>
+			<FileHash>ed0c72971d4bfb4fa736cf071c786ba6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\vehicles\halftrack_squad\mechanized_250_halftrack_mp.xml</FileName>
-			<FileHash>79f2a538b28f704141b258450f0ced85</FileHash>
+			<FileHash>37395ab8d3b24367231a0701cf97caf9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\german\vehicles\halftrack_squad\sdkfz_251_halftrack_squad_mp.xml</FileName>
@@ -1220,6 +1224,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\vehicles\t_34_squad\t_34_85_squad_mp.xml</FileName>
 			<FileHash>ddb3ab48254e5cd8367b65636528b646</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\vehicles\zis_6_transport_truck\zis_6_transport_truck_mp.xml</FileName>
+			<FileHash>69c05c0c50b85653d991c31587fc0095</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp.xml</FileName>
