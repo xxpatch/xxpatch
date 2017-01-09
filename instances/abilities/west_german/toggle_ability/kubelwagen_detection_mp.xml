@@ -178,7 +178,7 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11073138" />
+			<locstring name="extra_text" value="84" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<locstring name="help_text" value="11055941" />
 			<string name="hotkey_name" value="D" />
 			<icon name="icon_name" value="Icons_abilities_ability_west_german_detection_off" />
