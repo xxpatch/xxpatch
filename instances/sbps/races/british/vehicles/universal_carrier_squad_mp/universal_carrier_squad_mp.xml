@@ -787,7 +787,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="2160" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11090558" />
+								<locstring name="screen_name" value="86" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -827,6 +827,40 @@
 												<float name="pathfinding_size_x" value="0" />
 												<float name="pathfinding_size_y" value="0" />
 												<uniqueid name="id" value="1073746521" />
+											</template_reference>
+											<template_reference name="action" value="action\apply_modifiers_action">
+												<float name="duration" value="0" />
+												<bool name="permanent" value="False" />
+												<list name="modifiers">
+													<template_reference name="modifier" value="modifiers\capture_revert_rate_squad_modifier">
+														<enum name="application_type" value="apply_to_squad" />
+														<bool name="exclusive" value="True" />
+														<string name="modifier_id" value="ukf_veh_revert_rate" />
+														<string name="target_type_name" value="" />
+														<enum name="usage_type" value="addition" />
+														<float name="value" value="1" />
+														<instance_reference name="tooltip" value="modifier_tooltip\capture_revert_rate_squad_modifier" />
+													</template_reference>
+													<template_reference name="modifier" value="modifiers\capture_rate_squad_modifier">
+														<enum name="application_type" value="apply_to_squad" />
+														<bool name="exclusive" value="True" />
+														<string name="modifier_id" value="ukf_veh_capture_rate" />
+														<string name="target_type_name" value="" />
+														<enum name="usage_type" value="addition" />
+														<float name="value" value="1" />
+														<instance_reference name="tooltip" value="modifier_tooltip\capture_rate_squad_modifier" />
+													</template_reference>
+													<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
+														<enum name="application_type" value="apply_to_squad" />
+														<bool name="exclusive" value="False" />
+														<string name="modifier_id" value="" />
+														<string name="target_type_name" value="" />
+														<enum name="usage_type" value="enable" />
+														<float name="value" value="1" />
+														<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
+													</template_reference>
+												</list>
+												<uniqueid name="id" value="1073747114" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />

@@ -126,6 +126,10 @@
 			<FileHash>e6da60615b92aa8dfc4f074eb9ffa9e5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\rapid_advance.xml</FileName>
+			<FileHash>b14bc980f450c76fb55bd85e64a9bb33</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\timed_ability\commander_ability\reinforce_the_front.xml</FileName>
 			<FileHash>c3e17a7b243c05676ffdecf2a1feb40d</FileHash>
 		</BurnInfo>
@@ -1015,7 +1019,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp.xml</FileName>
-			<FileHash>edbcfbf572c177e59a1df317321b482a</FileHash>
+			<FileHash>53a5c629ef5a9570403c801228924415</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
@@ -1935,7 +1939,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>535dc3ca5fa8f1eed2464613274b3c6d</FileHash>
+			<FileHash>d76ab6ab838a32e2c7bc6d408049e973</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
