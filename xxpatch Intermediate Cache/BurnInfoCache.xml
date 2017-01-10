@@ -587,7 +587,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>a8156cc9d4a0b09dc4f5a3f2523aa0e4</FileHash>
+			<FileHash>9a33d8a92e0777fdbabdb5ccc6ccfdd8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
@@ -1015,7 +1015,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp.xml</FileName>
-			<FileHash>55177a7db5b1aa55d4c2b00692ca0d2f</FileHash>
+			<FileHash>edbcfbf572c177e59a1df317321b482a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
@@ -1458,8 +1458,12 @@
 			<FileHash>4b1d6f6297f9c26f939f04e21e353b07</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp.xml</FileName>
+			<FileHash>9e4a101ba1985152121b78a70955dc24</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
-			<FileHash>058fc5d6a8e1cbb0b92e75f8c4dd7e14</FileHash>
+			<FileHash>f5043954b6886109641f52a97148070b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\research\company_anvil_mp.xml</FileName>

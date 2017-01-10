@@ -602,7 +602,7 @@
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
 							<bool name="is_present" value="False" />
-							<instance_reference name="upgrade_name" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" />
+							<instance_reference name="upgrade_name" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<bool name="include_queued" value="False" />
 						</template_reference>
 					</list>

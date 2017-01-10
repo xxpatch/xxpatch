@@ -43,7 +43,7 @@
 			<float name="death_seconds" value="1.8" />
 			<bool name="delete_when_dead" value="True" />
 			<bool name="force_attacker_memory" value="False" />
-			<float name="hitpoints" value="200" />
+			<float name="hitpoints" value="240" />
 			<bool name="is_invincible" value="False" />
 			<bool name="is_salvagable_wreck" value="False" />
 			<bool name="keep_wreck_ownership" value="False" />
@@ -123,8 +123,8 @@
 					<uniqueid name="id" value="1073743737" />
 				</template_reference>
 			</list>
-			<float name="armor" value="10" />
-			<float name="rear_armor" value="5" />
+			<float name="armor" value="8.333" />
+			<float name="rear_armor" value="4.167" />
 			<float name="target_size" value="15" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
@@ -1426,7 +1426,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" />
+				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_wasp_package_upgrade_mp" />
 			</list>
 		</template_reference>
