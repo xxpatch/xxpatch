@@ -672,7 +672,7 @@
 						<float name="max_persistent_squads" value="3" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
-								<float name="experience_value" value="720" />
+								<float name="experience_value" value="540" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
 								<locstring name="screen_name" value="11117786" />
 								<bool name="single_player_only" value="False" />
@@ -724,7 +724,7 @@
 								</list>
 							</group>
 							<group name="veterancy_rank">
-								<float name="experience_value" value="1440" />
+								<float name="experience_value" value="1080" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
 								<locstring name="screen_name" value="11090557" />
 								<bool name="single_player_only" value="False" />
@@ -853,7 +853,7 @@
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="tp_panzer_elite_infantry" />
+						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
 					</group>
 				</group>
 			</list>
