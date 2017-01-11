@@ -44,23 +44,6 @@
 			</Children>
 			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
-		<d2p1:anyType i:type="TableOfContents">
-			<Alias>Data</Alias>
-			<Children>
-				<d2p1:anyType i:type="Folder">
-					<Children>
-						<d2p1:anyType i:type="BurnFolder">
-							<BurnSettings />
-							<Hint>Default</Hint>
-							<RelativeName>data\art</RelativeName>
-						</d2p1:anyType>
-					</Children>
-					<IsExpanded>true</IsExpanded>
-					<Name>art</Name>
-				</d2p1:anyType>
-			</Children>
-			<IsExpanded>true</IsExpanded>
-		</d2p1:anyType>
 	</Children>
 	<Guid>9cdcf92e-0511-4ce5-baac-b4b7a120b84c</Guid>
 	<IsExpanded>false</IsExpanded>
