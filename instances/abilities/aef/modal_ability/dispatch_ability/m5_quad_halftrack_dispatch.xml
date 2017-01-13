@@ -16,10 +16,10 @@
 					<list name="entity_table">
 					</list>
 					<list name="squad_table">
-						<instance_reference name="squad" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="squad" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" />
 					</list>
 					<bool name="use_attack_move" value="False" />
-					<uniqueid name="id" value="1073743888" />
+					<uniqueid name="id" value="1073747142" />
 					<bool name="ignore_requirements" value="False" />
 				</template_reference>
 				<template_reference name="action" value="action\game_event_action">
@@ -28,7 +28,7 @@
 					<float name="event_param_end" value="-1" />
 					<enum name="event_type" value="flag_drop" />
 					<bool name="event_send_to_target_player" value="False" />
-					<uniqueid name="id" value="1073743889" />
+					<uniqueid name="id" value="1073747143" />
 				</template_reference>
 			</list>
 		</group>
@@ -41,7 +41,7 @@
 			<float name="action" value="0" />
 			<float name="command" value="0" />
 			<float name="fuel" value="30" />
-			<float name="manpower" value="300" />
+			<float name="manpower" value="350" />
 			<float name="munition" value="0" />
 			<float name="popcap" value="0" />
 		</group>
@@ -135,7 +135,7 @@
 				<locstring name="ui_name" value="11054766" />
 				<template_reference name="resource" value="tables\resource_table">
 					<float name="action" value="0" />
-					<float name="command" value="4" />
+					<float name="command" value="3" />
 					<float name="fuel" value="0" />
 					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
