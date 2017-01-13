@@ -8,19 +8,115 @@
 			<list name="start_self_actions">
 			</list>
 			<list name="start_target_actions">
-				<template_reference name="action" value="action\use_accessory_weapon">
-					<instance_reference name="accessory_weapon_item" value="slot_item\soviet\grenades\penal_troop_satchel_charge_item_mp" />
-					<instance_reference name="decrement_accessory_item" value="" />
-					<bool name="entity_target_only" value="False" />
-					<bool name="force_squad_to_target" value="False" />
-					<bool name="no_decrement" value="True" />
-					<float name="number_of_shots" value="1" />
-					<group name="target_info">
-						<template_reference name="target_info" value="type_ability_target_type\all">
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="False" />
+					<bool name="kill_action_on_failed_requirements" value="True" />
+					<bool name="no_retrigger" value="True" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="vehicle" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="True" />
+							<bool name="owned_by_player_only" value="False" />
 						</template_reference>
-					</group>
-					<uniqueid name="id" value="1073745933" />
-					<bool name="target_override_direction_times_max_range" value="False" />
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_ownership">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<enum name="ownership_type" value="ally" />
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\use_accessory_weapon">
+							<instance_reference name="accessory_weapon_item" value="slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="decrement_accessory_item" value="" />
+							<bool name="entity_target_only" value="False" />
+							<bool name="force_squad_to_target" value="False" />
+							<bool name="no_decrement" value="True" />
+							<float name="number_of_shots" value="1" />
+							<group name="target_info">
+								<template_reference name="target_info" value="type_ability_target_type\all">
+								</template_reference>
+							</group>
+							<uniqueid name="id" value="1073747136" />
+							<bool name="target_override_direction_times_max_range" value="False" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073747137" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
+				</template_reference>
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="False" />
+					<bool name="kill_action_on_failed_requirements" value="True" />
+					<bool name="no_retrigger" value="True" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_unit_type">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<enum name="unit_type" value="vehicle" />
+									<template_reference name="qualify_option" value="options\none">
+									</template_reference>
+									<bool name="search_load_out" value="True" />
+									<bool name="owned_by_player_only" value="False" />
+								</template_reference>
+								<template_reference name="required" value="requirements\required_not">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<list name="requirement_table">
+										<template_reference name="required" value="requirements\required_ownership">
+											<enum name="reason" value="usage" />
+											<locstring name="ui_name" value="0" />
+											<enum name="ownership_type" value="ally" />
+										</template_reference>
+									</list>
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\use_accessory_weapon">
+							<instance_reference name="accessory_weapon_item" value="slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_skillshot_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="decrement_accessory_item" value="" />
+							<bool name="entity_target_only" value="False" />
+							<bool name="force_squad_to_target" value="False" />
+							<bool name="no_decrement" value="True" />
+							<float name="number_of_shots" value="1" />
+							<group name="target_info">
+								<template_reference name="target_info" value="type_ability_target_type\all">
+								</template_reference>
+							</group>
+							<uniqueid name="id" value="1073747138" />
+							<bool name="target_override_direction_times_max_range" value="False" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073747139" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
 				</template_reference>
 				<template_reference name="action" value="action\delay">
 					<float name="delay" value="2.5" />
@@ -34,10 +130,10 @@
 							<float name="event_param_end" value="-1" />
 							<enum name="event_type" value="grenade" />
 							<bool name="event_send_to_target_player" value="False" />
-							<uniqueid name="id" value="1073745934" />
+							<uniqueid name="id" value="1073747140" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745935" />
+					<uniqueid name="id" value="1073747141" />
 					<bool name="can_prevent_refund" value="False" />
 				</template_reference>
 			</list>
@@ -93,9 +189,19 @@
 			<string name="code_3" value="" />
 		</group>
 		<enum name="squad_caster" value="one_entity" />
-		<enum name="target" value="tp_position" />
+		<enum name="target" value="tp_any" />
 		<group name="target_special_validation">
-			<template_reference name="target_special_validation" value="type_ability_target_type\all">
+			<template_reference name="target_special_validation" value="type_ability_target_type\has_any_in_list">
+				<list name="target_infos">
+					<template_reference name="info" value="type_ability_target_type\is_position">
+					</template_reference>
+					<template_reference name="info" value="type_ability_target_type\not">
+						<group name="target_info">
+							<template_reference name="target_info" value="type_ability_target_type\allied">
+							</template_reference>
+						</group>
+					</template_reference>
+				</list>
 			</template_reference>
 		</group>
 		<float name="toggled_recharge_time_off" value="0" />
@@ -106,8 +212,8 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11035150" />
-			<locstring name="help_text" value="11035149" />
+			<locstring name="extra_text" value="89" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			<locstring name="help_text" value="90" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<string name="hotkey_name" value="E" />
 			<icon name="icon_name" value="Icons_abilities_ability_soviet_satchel_charge" />
 			<string name="overlay_name" value="" />
@@ -120,7 +226,7 @@
 			<locstring name="screen_name_short" value="0" />
 		</group>
 		<locstring name="ui_usage_txt" value="0" />
-		<bool name="validate_actions" value="True" />
+		<bool name="validate_actions" value="False" />
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
@@ -143,15 +249,6 @@
 						<bool name="camouflaged" value="False" />
 					</template_reference>
 				</list>
-			</template_reference>
-			<template_reference name="required" value="requirements\required_slot_item">
-				<enum name="reason" value="usage_and_display" />
-				<locstring name="ui_name" value="11074960" />
-				<bool name="check_item_on_entity" value="False" />
-				<bool name="display_requirement" value="True" />
-				<float name="max_owned" value="0" />
-				<float name="min_owned" value="0" />
-				<instance_reference name="slot_item" value="slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
