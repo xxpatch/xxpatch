@@ -326,6 +326,10 @@
 			<FileHash>45a3a41265a2ec9e1aef916479c61893</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviets\modal_ability\engineer_demo_mp.xml</FileName>
+			<FileHash>adc54b0529a8d55357bb45617479d7ec</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\always_on_ability\fallschrimjaeger_camo.xml</FileName>
 			<FileHash>b1bcdae26a463d77f58f20314bad1238</FileHash>
 		</BurnInfo>
@@ -1131,7 +1135,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.xml</FileName>
-			<FileHash>9e49b41cc2076b8b935988d41f93035e</FileHash>
+			<FileHash>def0f37925fe1b375360eac030f063fc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\base_conscript_squad_mp.xml</FileName>
