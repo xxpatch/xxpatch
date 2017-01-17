@@ -611,7 +611,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>9a33d8a92e0777fdbabdb5ccc6ccfdd8</FileHash>
+			<FileHash>b50e847c3c6579b650e112fea6200d35</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
@@ -1039,7 +1039,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp.xml</FileName>
-			<FileHash>53a5c629ef5a9570403c801228924415</FileHash>
+			<FileHash>275cdaf841526ea2a95d253519a6aadd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
@@ -1482,14 +1482,6 @@
 			<FileHash>4b1d6f6297f9c26f939f04e21e353b07</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp.xml</FileName>
-			<FileHash>9e4a101ba1985152121b78a70955dc24</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\universal_carrier_wasp_package_upgrade_mp.xml</FileName>
-			<FileHash>f5043954b6886109641f52a97148070b</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\research\company_anvil_mp.xml</FileName>
 			<FileHash>d8305ab9b7280e6c437c01c651f62c36</FileHash>
 		</BurnInfo>
@@ -1800,10 +1792,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\flame_throwers\tommy_flamethrower.xml</FileName>
 			<FileHash>8de5e40ee5c57f3a8b3622cc049d2dde</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\flame_throwers\universal_carrier_ronson_flamethrower_system_mp.xml</FileName>
-			<FileHash>e54cfdc6a5197b5862654e990ba446af</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp.xml</FileName>

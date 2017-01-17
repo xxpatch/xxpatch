@@ -43,7 +43,7 @@
 			<float name="death_seconds" value="1.8" />
 			<bool name="delete_when_dead" value="True" />
 			<bool name="force_attacker_memory" value="False" />
-			<float name="hitpoints" value="240" />
+			<float name="hitpoints" value="200" />
 			<bool name="is_invincible" value="False" />
 			<bool name="is_salvagable_wreck" value="False" />
 			<bool name="keep_wreck_ownership" value="False" />
@@ -66,15 +66,15 @@
 					<float name="offset_scale_x" value="1.5" />
 					<float name="offset_scale_y" value="1.5" />
 					<float name="offset_scale_z" value="1.5" />
-					<uniqueid name="id" value="1073743731" />
+					<uniqueid name="id" value="1073747217" />
 				</template_reference>
 				<template_reference name="action" value="action\scar_function_call">
 					<string name="function_name" value="AE_Armor_Command_DeSpawn_LMG_Rack" />
-					<uniqueid name="id" value="1073743732" />
+					<uniqueid name="id" value="1073747218" />
 				</template_reference>
 				<template_reference name="action" value="action\scar_function_call">
 					<string name="function_name" value="AE_Armor_Command_DeSpawn_AT_Rack" />
-					<uniqueid name="id" value="1073743733" />
+					<uniqueid name="id" value="1073747219" />
 				</template_reference>
 				<template_reference name="action" value="action\timed_action">
 					<float name="duration" value="1" />
@@ -106,13 +106,13 @@
 										<template_reference name="action" value="action\upgrade_remove">
 											<bool name="apply_to_entities_in_squad" value="False" />
 											<instance_reference name="upgrade" value="upgrade\british\commander\passive\command_vehicle_active_player" />
-											<uniqueid name="id" value="1073743734" />
+											<uniqueid name="id" value="1073747220" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073743735" />
+									<uniqueid name="id" value="1073747221" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743736" />
+							<uniqueid name="id" value="1073747222" />
 							<bool name="fire_and_forget_non_global" value="False" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
@@ -120,11 +120,11 @@
 							</template_reference>
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743737" />
+					<uniqueid name="id" value="1073747223" />
 				</template_reference>
 			</list>
-			<float name="armor" value="8.333" />
-			<float name="rear_armor" value="4.167" />
+			<float name="armor" value="10" />
+			<float name="rear_armor" value="5" />
 			<float name="target_size" value="15" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
@@ -294,7 +294,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -1406,7 +1406,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\universal_carrier_squad_mp\universal_carrier_squad_mp" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
@@ -1426,7 +1426,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_vickers_k_package_upgrade_mp" />
 				<instance_reference name="upgrade" value="upgrade\british\items\universal_carrier_wasp_package_upgrade_mp" />
 			</list>
 		</template_reference>
