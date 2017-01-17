@@ -590,8 +590,8 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<bool name="can_receive_shared_veterancy" value="True" />
-						<float name="max_persistent_squads" value="3" />
+						<bool name="can_receive_shared_veterancy" value="False" />
+						<float name="max_persistent_squads" value="0" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
 								<float name="experience_value" value="530" />
@@ -617,7 +617,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746195" />
+										<uniqueid name="id" value="1073747175" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -658,18 +658,18 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746196" />
+												<uniqueid name="id" value="1073747176" />
 											</template_reference>
 											<template_reference name="action" value="action\change_move_data_action">
 												<float name="acceleration_multiplier" value="1.25" />
 												<float name="deceleration_multiplier" value="1.25" />
 												<float name="pathfinding_size_x" value="0" />
 												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073746197" />
+												<uniqueid name="id" value="1073747177" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746198" />
+										<uniqueid name="id" value="1073747178" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -685,7 +685,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746199" />
+										<uniqueid name="id" value="1073747179" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -715,21 +715,21 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746200" />
+										<uniqueid name="id" value="1073747180" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
+						<enum name="shared_veterancy_type" value="no_sharing" />
 					</group>
 				</group>
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\west_german" />
 					<group name="info">
-						<bool name="can_receive_shared_veterancy" value="True" />
-						<float name="max_persistent_squads" value="3" />
+						<bool name="can_receive_shared_veterancy" value="False" />
+						<float name="max_persistent_squads" value="0" />
 						<list name="veterancy_rank_info">
 							<group name="veterancy_rank">
 								<float name="experience_value" value="530" />
@@ -755,7 +755,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746201" />
+										<uniqueid name="id" value="1073747181" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -796,18 +796,18 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746202" />
+												<uniqueid name="id" value="1073747182" />
 											</template_reference>
 											<template_reference name="action" value="action\change_move_data_action">
 												<float name="acceleration_multiplier" value="1.25" />
 												<float name="deceleration_multiplier" value="1.25" />
 												<float name="pathfinding_size_x" value="0" />
 												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073746203" />
+												<uniqueid name="id" value="1073747183" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746204" />
+										<uniqueid name="id" value="1073747184" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -823,7 +823,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746205" />
+										<uniqueid name="id" value="1073747185" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -853,7 +853,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746206" />
+										<uniqueid name="id" value="1073747186" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -894,11 +894,11 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746207" />
+												<uniqueid name="id" value="1073747187" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746208" />
+										<uniqueid name="id" value="1073747188" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -914,7 +914,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746209" />
+										<uniqueid name="id" value="1073747189" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -955,11 +955,11 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\weapon_suppression_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746210" />
+												<uniqueid name="id" value="1073747190" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746211" />
+										<uniqueid name="id" value="1073747191" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -975,14 +975,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746212" />
+										<uniqueid name="id" value="1073747192" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
+						<enum name="shared_veterancy_type" value="no_sharing" />
 					</group>
 				</group>
 			</list>

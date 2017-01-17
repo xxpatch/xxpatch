@@ -91,14 +91,14 @@
 							<float name="value" value="20" />
 							<instance_reference name="tooltip" value="modifier_tooltip\detect_global_camouflage_radius" />
 						</template_reference>
-						<template_reference name="modifier" value="modifiers\move_enable_modifier">
+						<template_reference name="modifier" value="modifiers\speed_maximum_modifier">
 							<enum name="application_type" value="apply_to_entity" />
 							<bool name="exclusive" value="False" />
 							<string name="modifier_id" value="" />
 							<string name="target_type_name" value="" />
-							<enum name="usage_type" value="enable" />
-							<float name="value" value="-1" />
-							<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
+							<enum name="usage_type" value="multiplication" />
+							<float name="value" value="0.5" />
+							<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 						</template_reference>
 						<template_reference name="modifier" value="modifiers\extended_sight_enable">
 							<enum name="application_type" value="apply_to_entity" />
@@ -110,7 +110,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\extended_sight_enable" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073747030" />
+					<uniqueid name="id" value="1073747193" />
 				</template_reference>
 			</list>
 		</group>
@@ -170,15 +170,15 @@
 			<template_reference name="target_special_validation" value="type_ability_target_type\all">
 			</template_reference>
 		</group>
-		<float name="toggled_recharge_time_off" value="2" />
-		<float name="toggled_recharge_time_on" value="2" />
+		<float name="toggled_recharge_time_off" value="0" />
+		<float name="toggled_recharge_time_on" value="1" />
 		<group name="ui_cursor">
 			<string name="cursor_bad" value="modal_ability_cancel" />
 			<string name="cursor_good" value="modal_ability" />
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="84" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			<locstring name="extra_text" value="11073138" />
 			<locstring name="help_text" value="11055941" />
 			<string name="hotkey_name" value="D" />
 			<icon name="icon_name" value="Icons_abilities_ability_west_german_detection_off" />
