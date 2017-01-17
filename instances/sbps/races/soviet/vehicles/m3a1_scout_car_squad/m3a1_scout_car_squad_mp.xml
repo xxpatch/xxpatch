@@ -619,20 +619,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746174" />
-									</template_reference>
-									<template_reference name="action" value="action\change_target_action">
-										<list name="actions">
-											<template_reference name="action" value="action\change_move_data_action">
-												<float name="acceleration_multiplier" value="1.2" />
-												<float name="deceleration_multiplier" value="1.2" />
-												<float name="pathfinding_size_x" value="0" />
-												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073746187" />
-											</template_reference>
-										</list>
-										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746188" />
+										<uniqueid name="id" value="1073747238" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -673,11 +660,11 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746175" />
+												<uniqueid name="id" value="1073747239" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746176" />
+										<uniqueid name="id" value="1073747240" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -693,20 +680,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746177" />
-									</template_reference>
-									<template_reference name="action" value="action\change_target_action">
-										<list name="actions">
-											<template_reference name="action" value="action\change_move_data_action">
-												<float name="acceleration_multiplier" value="1.2" />
-												<float name="deceleration_multiplier" value="1.2" />
-												<float name="pathfinding_size_x" value="0" />
-												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073746184" />
-											</template_reference>
-										</list>
-										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746185" />
+										<uniqueid name="id" value="1073747241" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
@@ -715,7 +689,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="1840" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="72" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+								<locstring name="screen_name" value="11047183" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -755,34 +729,25 @@
 														<float name="value" value="1.2" />
 														<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 													</template_reference>
-													<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
-														<enum name="application_type" value="apply_to_entity" />
-														<bool name="exclusive" value="False" />
-														<string name="modifier_id" value="" />
-														<string name="target_type_name" value="" />
-														<enum name="usage_type" value="multiplication" />
-														<float name="value" value="0.7" />
-														<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
-													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746178" />
+												<uniqueid name="id" value="1073747242" />
 											</template_reference>
 											<template_reference name="action" value="action\change_move_data_action">
 												<float name="acceleration_multiplier" value="1.2" />
 												<float name="deceleration_multiplier" value="1.2" />
 												<float name="pathfinding_size_x" value="0" />
 												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073746179" />
+												<uniqueid name="id" value="1073747243" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746180" />
+										<uniqueid name="id" value="1073747244" />
 									</template_reference>
 									<template_reference name="action" value="action\upgrade_add">
 										<bool name="apply_to_entities_in_squad" value="False" />
 										<bool name="trigger_publish_event" value="False" />
 										<instance_reference name="upgrade" value="upgrade\max_vet" />
-										<uniqueid name="id" value="1073746181" />
+										<uniqueid name="id" value="1073747245" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -798,14 +763,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746182" />
+										<uniqueid name="id" value="1073747246" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
 								</list>
 							</group>
 						</list>
-						<enum name="shared_veterancy_type" value="tp_commonwealth_infantry" />
+						<enum name="shared_veterancy_type" value="tp_panzer_elite_infantry" />
 					</group>
 				</group>
 			</list>

@@ -95,7 +95,7 @@
 					<float name="action" value="0" />
 					<float name="command" value="0" />
 					<float name="fuel" value="30" />
-					<float name="manpower" value="250" />
+					<float name="manpower" value="270" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
@@ -323,7 +323,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -833,9 +833,9 @@
 								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
 								<string name="death_event_name" value="Death_crew" />
 								<string name="desync_action_name" value="Detach_Skeleton" />
-								<string name="role_name" value="gunner_quad" />
-								<string name="sync_action_name" value="attach_gunner_quad" />
-								<bool name="sync_on_create" value="False" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -843,9 +843,9 @@
 								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
 								<string name="death_event_name" value="Death_crew" />
 								<string name="desync_action_name" value="Detach_Skeleton" />
-								<string name="role_name" value="Gunner" />
-								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="True" />
+								<string name="role_name" value="gunner_quad" />
+								<string name="sync_action_name" value="attach_gunner_quad" />
+								<bool name="sync_on_create" value="False" />
 								<string name="abandon_event_name" value="abandon_quad50" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -913,9 +913,9 @@
 								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
 								<string name="death_event_name" value="Death_crew" />
 								<string name="desync_action_name" value="Detach_Skeleton" />
-								<string name="role_name" value="gunner_quad" />
-								<string name="sync_action_name" value="attach_gunner_quad" />
-								<bool name="sync_on_create" value="False" />
+								<string name="role_name" value="Gunner" />
+								<string name="sync_action_name" value="Attach_Pintle" />
+								<bool name="sync_on_create" value="True" />
 								<string name="abandon_event_name" value="abandon_gunner" />
 								<string name="animator_bp_female" value="" />
 							</group>
@@ -923,9 +923,9 @@
 								<string name="animator_bp" value="armies\german\soldiers\vehicle_crew\vehicle_crew" />
 								<string name="death_event_name" value="Death_crew" />
 								<string name="desync_action_name" value="Detach_Skeleton" />
-								<string name="role_name" value="Gunner" />
-								<string name="sync_action_name" value="Attach_Pintle" />
-								<bool name="sync_on_create" value="True" />
+								<string name="role_name" value="gunner_quad" />
+								<string name="sync_action_name" value="attach_gunner_quad" />
+								<bool name="sync_on_create" value="False" />
 								<string name="abandon_event_name" value="abandon_quad50" />
 								<string name="animator_bp_female" value="" />
 							</group>
