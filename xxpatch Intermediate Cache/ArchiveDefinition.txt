@@ -375,6 +375,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\german\items\grenadier_mg42_lmg_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\german\items\pioneer_flamethrower_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\german\items\sdkfz_222_20mm_gun_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\german\research\battle_phase_4_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\intel_bulletins\at_gun\build_pak40_pak43_zis3.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\conscript_ptrs_package.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\engineer_flamethrower_mp.rgd
@@ -429,6 +430,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\sub_machine_gun\eg_pioneer_mp40_smg_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\grenadier_kar_98k_rifle_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\rifle\jaeger_panzergren_g43_rifle_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\anti_tank_gun\brit_6_pounder_at_gun_mp.rgd

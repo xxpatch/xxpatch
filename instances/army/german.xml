@@ -419,7 +419,7 @@
 				<list name="player_upgrades">
 					<instance_reference name="player_upgrade" value="upgrade\german\research\battle_phase_2_mp" />
 					<instance_reference name="player_upgrade" value="upgrade\german\research\battle_phase_3_mp" />
-					<instance_reference name="player_upgrade" value="upgrade\german\research\battle_phase_4_mp" />
+					<instance_reference name="player_upgrade" value="upgrade\german\research\battle_phase_4_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</list>
 			</group>
 		</list>
