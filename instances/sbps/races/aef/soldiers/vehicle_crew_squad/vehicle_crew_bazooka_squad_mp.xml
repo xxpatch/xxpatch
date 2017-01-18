@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="4" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\vehicle_crew_troop\vehicle_crew_troop_mp" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\vehicle_crew_troop\vehicle_crew_bazooka_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -181,7 +181,6 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\items\vehicle_crew_thompson_sub_machine_gun_upgrade_mp" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\captain_bazooka_upgrade_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
