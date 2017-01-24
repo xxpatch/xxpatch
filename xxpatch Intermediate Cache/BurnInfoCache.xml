@@ -482,10 +482,6 @@
 			<FileHash>ec4d6d61b8bd74f4a0761ac9ab4c9c37</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\soviet_45mm_t70_shell_mp.xml</FileName>
-			<FileHash>13dda599fb4f55a1cd035820c144d047</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\props\west_german_medical_supplies.xml</FileName>
 			<FileHash>5ae3ce520bed5039b8f47c8e081e0e84</FileHash>
 		</BurnInfo>
@@ -1791,7 +1787,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
-			<FileHash>523ef39b2eed457256cc9564a619e997</FileHash>
+			<FileHash>8e598fe01752a06a5220f124e7c2de31</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\explosive_weapons\grenade\guard_troop_rgd_33_sleeved_mp.xml</FileName>
@@ -1851,11 +1847,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_mp.xml</FileName>
-			<FileHash>f56bd9a21b940302bd3dddf23da92ac3</FileHash>
+			<FileHash>fb5bba11439fa4d5ec341bca286eb5f8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
-			<FileHash>f6b9e7fd6f8c8b0596a87093f656558d</FileHash>
+			<FileHash>8ca94c7ee3db8efd36b65bd5fead629b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_251_17_flak_20mm_flak38.xml</FileName>
