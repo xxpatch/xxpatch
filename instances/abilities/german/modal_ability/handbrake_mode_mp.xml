@@ -135,7 +135,7 @@
 			</template_reference>
 		</group>
 		<float name="toggled_recharge_time_off" value="0" />
-		<float name="toggled_recharge_time_on" value="1" />
+		<float name="toggled_recharge_time_on" value="0.125" />
 		<group name="ui_cursor">
 			<string name="cursor_bad" value="modal_ability_cancel" />
 			<string name="cursor_good" value="modal_ability" />
