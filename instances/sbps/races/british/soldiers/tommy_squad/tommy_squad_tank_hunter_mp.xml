@@ -287,7 +287,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073741840" />
+						<uniqueid name="id" value="1073747265" />
 					</template_reference>
 					<template_reference name="action" value="action\delay">
 						<float name="delay" value="10" />
@@ -309,10 +309,10 @@
 										<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073741841" />
+								<uniqueid name="id" value="1073747266" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073741842" />
+						<uniqueid name="id" value="1073747267" />
 						<bool name="can_prevent_refund" value="True" />
 					</template_reference>
 					<template_reference name="action" value="action\animator_set_state">
@@ -321,7 +321,7 @@
 						<bool name="retrigger" value="False" />
 						<string name="state_machine_name" value="suppression" />
 						<string name="undo_action_state_name" value="normal" />
-						<uniqueid name="id" value="1073741843" />
+						<uniqueid name="id" value="1073747268" />
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
@@ -384,7 +384,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073741844" />
+						<uniqueid name="id" value="1073747269" />
 					</template_reference>
 				</list>
 			</group>
@@ -432,7 +432,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\extended_sight_enable" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741845" />
+					<uniqueid name="id" value="1073747270" />
 				</template_reference>
 				<template_reference name="action" value="action\ui_unit_modifier_action">
 					<bool name="die_with_creator" value="True" />
@@ -442,17 +442,17 @@
 						<icon name="icon_name" value="Icons_commander_cmdr_british_tank_hunters" />
 						<string name="hotkey_name" value="" />
 					</template_reference>
-					<uniqueid name="id" value="1073741846" />
+					<uniqueid name="id" value="1073747271" />
 				</template_reference>
 				<template_reference name="action" value="action\slot_item_add">
 					<instance_reference name="slot_item" value="slot_item\british\ballistic_weapon\infantry_at_weapon\boys_anti_tank_rifle_mp" />
 					<bool name="permanent" value="True" />
-					<uniqueid name="id" value="1073741847" />
+					<uniqueid name="id" value="1073747272" />
 				</template_reference>
 				<template_reference name="action" value="action\slot_item_add">
 					<instance_reference name="slot_item" value="slot_item\british\ballistic_weapon\infantry_at_weapon\boys_anti_tank_rifle_mp" />
 					<bool name="permanent" value="True" />
-					<uniqueid name="id" value="1073741848" />
+					<uniqueid name="id" value="1073747273" />
 				</template_reference>
 			</list>
 			<list name="squad_entity_actions">
@@ -527,10 +527,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741849" />
+							<uniqueid name="id" value="1073747274" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741850" />
+					<uniqueid name="id" value="1073747275" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -574,7 +574,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\suppression">
 					<float name="suppression" value="0" />
-					<uniqueid name="id" value="1073741851" />
+					<uniqueid name="id" value="1073747276" />
 					<float name="supressionrecovertime" value="0" />
 				</template_reference>
 			</list>
@@ -692,7 +692,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741852" />
+					<uniqueid name="id" value="1073747277" />
 				</template_reference>
 			</list>
 			<list name="construction_groups">
