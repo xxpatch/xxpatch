@@ -378,6 +378,10 @@
 			<FileHash>ffac19f1b9d2b4bbc5419134e7315f3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\timed_ability\luchs_suppression_mp.xml</FileName>
+			<FileHash>b38257f8693311dd7a9334a74676080d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\timed_ability\mg34_phosphorus_rounds_mp.xml</FileName>
 			<FileHash>15b9c2af89a4acd8e596f96d25b49451</FileHash>
 		</BurnInfo>
@@ -751,7 +755,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
-			<FileHash>6d2f4cf9faf01ece4f631ae9f1d266a6</FileHash>
+			<FileHash>7b908ce061a55365b2d07c46a7bf8fe5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\sws_halftrack\sws_halftrack_mp.xml</FileName>
@@ -1323,7 +1327,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.xml</FileName>
-			<FileHash>800ab97fca4c7fda1162357dde87b816</FileHash>
+			<FileHash>aba4cf5e276c2e21d611b6529591778f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\sturmtiger_squad\sturmtiger_squad_mp.xml</FileName>
@@ -1895,7 +1899,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>0d5d4078934e096996d5d2cd8d79634c</FileHash>
+			<FileHash>5c8116574c04de0403c056cab601f7c0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
