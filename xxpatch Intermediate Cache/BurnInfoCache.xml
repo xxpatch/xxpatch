@@ -110,6 +110,10 @@
 			<FileHash>b1286fc93ecfab02260ee97e47a7136c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\aec_defensive_smoke.xml</FileName>
+			<FileHash>3ae2216be0f6aa17f6fee048ec6091bc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\glider_commandos_only.xml</FileName>
 			<FileHash>0af4ace226f03ce9ad5b4c788e9c2853</FileHash>
 		</BurnInfo>
@@ -591,7 +595,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>501b2061d2f14851c6d3538c25a210f8</FileHash>
+			<FileHash>68bd7477d7a20aaa96f1fd0dfc7dee16</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
@@ -1739,11 +1743,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_75mm_ap_mp.xml</FileName>
-			<FileHash>437d1d0b8b9cd9e74e2f0dd6f6094289</FileHash>
+			<FileHash>9c160cbf8cc2efa2b7d562ae860b3ab4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
-			<FileHash>4923c63b2caa738676e04e892d389493</FileHash>
+			<FileHash>ce8b01bcc57a770afffd8dad22e33f93</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\explosive_weapons\grenade\tommy_gammon_bomb_medium.xml</FileName>
