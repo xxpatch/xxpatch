@@ -656,7 +656,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="1160" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11090787" />
+								<locstring name="screen_name" value="95" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
