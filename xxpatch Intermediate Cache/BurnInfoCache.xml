@@ -110,14 +110,6 @@
 			<FileHash>b1286fc93ecfab02260ee97e47a7136c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\accessory_weapons\aec_tread_shots_mp.xml</FileName>
-			<FileHash>aca1a9661008f22fa7d9f8ce0a082a5c</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\aec_defensive_smoke.xml</FileName>
-			<FileHash>da42635b55ba22d2e4aa272929832a36</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\glider_commandos_only.xml</FileName>
 			<FileHash>0af4ace226f03ce9ad5b4c788e9c2853</FileHash>
 		</BurnInfo>
@@ -595,7 +587,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>ed58a708076a098e27ac713726a48ca1</FileHash>
+			<FileHash>501b2061d2f14851c6d3538c25a210f8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
@@ -1007,7 +999,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp.xml</FileName>
-			<FileHash>ee27550fa8678cda9c3882aa46f0885d</FileHash>
+			<FileHash>e04bc9dc30abd09d5d81ceffac452ada</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\british\vehicles\churchill_squad\churchill_avre_squad_mp.xml</FileName>
@@ -1903,7 +1895,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>5c202b4103e91dca009d64ae8dd51b97</FileHash>
+			<FileHash>5698cc6893ba832b9981ee3c3022e1e9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
