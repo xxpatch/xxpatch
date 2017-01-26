@@ -419,6 +419,126 @@
 					<bool name="undoable" value="False" />
 					<uniqueid name="id" value="1073743327" />
 				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747296" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="10" />
+						<float name="y" value="0" />
+						<float name="z" value="0" />
+					</group>
+				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747297" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="5" />
+						<float name="y" value="0" />
+						<float name="z" value="8.6" />
+					</group>
+				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747298" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="-5" />
+						<float name="y" value="0" />
+						<float name="z" value="8.6" />
+					</group>
+				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747299" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="-10" />
+						<float name="y" value="0" />
+						<float name="z" value="0" />
+					</group>
+				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747300" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="5" />
+						<float name="y" value="0" />
+						<float name="z" value="-8.6" />
+					</group>
+				</template_reference>
+				<template_reference name="action" value="action\spawn_entity">
+					<float name="duration" value="99999" />
+					<instance_reference name="entity_blueprint" value="ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<bool name="permanent" value="False" />
+					<bool name="player_owned" value="True" />
+					<group name="target_info">
+						<template_reference name="target_info" value="type_ability_target_type\all">
+						</template_reference>
+					</group>
+					<uniqueid name="id" value="1073747301" />
+					<template_reference name="spawn_attached_option" value="options\none">
+					</template_reference>
+					<list name="spawned_entity_actions">
+					</list>
+					<group name="offset">
+						<float name="x" value="-5" />
+						<float name="y" value="0" />
+						<float name="z" value="-8.6" />
+					</group>
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\modifier_apply_ext">
