@@ -754,7 +754,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="4640" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11090785" />
+								<locstring name="screen_name" value="100" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -796,6 +796,13 @@
 													</template_reference>
 												</list>
 												<uniqueid name="id" value="1073746530" />
+											</template_reference>
+											<template_reference name="action" value="action\change_move_data_action">
+												<float name="acceleration_multiplier" value="1.2" />
+												<float name="deceleration_multiplier" value="1.2" />
+												<float name="pathfinding_size_x" value="0" />
+												<float name="pathfinding_size_y" value="0" />
+												<uniqueid name="id" value="1073747334" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
