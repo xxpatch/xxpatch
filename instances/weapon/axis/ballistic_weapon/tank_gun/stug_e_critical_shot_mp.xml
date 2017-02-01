@@ -278,7 +278,7 @@
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
-					<bool name="instant_requirement_check" value="True" />
+					<bool name="instant_requirement_check" value="False" />
 					<bool name="kill_action_on_failed_requirements" value="False" />
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
@@ -294,24 +294,13 @@
 						</template_reference>
 					</list>
 					<list name="action_table">
-						<template_reference name="action" value="action\random_action">
-							<bool name="instant" value="True" />
-							<list name="random_actions">
-								<group name="action_choice">
-									<list name="actions">
-										<template_reference name="action" value="action\trigger_critical_action">
-											<float name="remove_at_health" value="1" />
-											<instance_reference name="critical" value="critical\vehicle_turret_disabled_temp" />
-											<uniqueid name="id" value="1073743640" />
-										</template_reference>
-									</list>
-									<int name="weight" value="100" />
-								</group>
-							</list>
-							<uniqueid name="id" value="1073743641" />
+						<template_reference name="action" value="action\trigger_critical_action">
+							<float name="remove_at_health" value="1" />
+							<instance_reference name="critical" value="critical\vehicle_vison_block_damaged" />
+							<uniqueid name="id" value="1073747337" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743642" />
+					<uniqueid name="id" value="1073747338" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
