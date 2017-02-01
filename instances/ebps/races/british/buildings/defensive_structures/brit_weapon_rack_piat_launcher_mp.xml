@@ -185,7 +185,7 @@
 				<enum name="unit_type11" value="" />
 				<enum name="unit_type12" value="" />
 				<enum name="unit_type13" value="" />
-				<enum name="unit_type14" value="" />
+				<enum name="unit_type14" value="alternate_retreat_point" />
 				<enum name="unit_type15" value="" />
 			</group>
 			<enum name="weapon_targeting" value="no_targeting" />
