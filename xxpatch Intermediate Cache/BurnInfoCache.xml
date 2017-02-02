@@ -235,7 +235,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\grenades\assault_grenadier_grenade.xml</FileName>
-			<FileHash>3d4be0e133c4c7b234a0549a9d9952a2</FileHash>
+			<FileHash>090bdcec1e29e0ef67d4ed568189c0a7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
@@ -1406,10 +1406,6 @@
 			<FileHash>21e78140b875a9af27def9364e6cc762</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\assgren_nade_token.xml</FileName>
-			<FileHash>d9995785d12a163a74403fc0d0799abc</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\ballistic_weapon\stug_e_critical_shot_mp.xml</FileName>
 			<FileHash>eb066c548c468e99af396ae733dad672</FileHash>
 		</BurnInfo>
@@ -1532,6 +1528,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\research\company_anvil_mp.xml</FileName>
 			<FileHash>d8305ab9b7280e6c437c01c651f62c36</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\ability_lock_out\ability_lock_out_assgren_grenades.xml</FileName>
+			<FileHash>ad9ee9ed12810d60c2e56bf1126d59f1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_panzergren_package.xml</FileName>
@@ -1714,12 +1714,8 @@
 			<FileHash>fdad4f2517a344ed9f6b46d9b33b8f4e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\explosive_weapons\grenade\assault_grenadier_squad_stielgranate_mp.xml</FileName>
-			<FileHash>6994b6bb6bc1cb66f5b5839bbe664e6f</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\explosive_weapons\grenade\assault_grenadier_stielgranate_mp.xml</FileName>
-			<FileHash>b67c76b50d85a006dc4e9d759141d15d</FileHash>
+			<FileHash>97dc1ed19f033350d0bfa21c380ee1fe</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\explosive_weapons\grenade\bk_2h_frangible_blinding_grenade.xml</FileName>
