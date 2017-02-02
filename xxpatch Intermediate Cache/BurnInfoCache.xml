@@ -538,6 +538,10 @@
 			<FileHash>f84a605fb441e5417ce4593d8c385ec4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.xml</FileName>
+			<FileHash>8c981e71ba56245f9a225f88c72e7b4e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
 			<FileHash>8078ad17cb2d545f943fb32046435e3b</FileHash>
 		</BurnInfo>
@@ -608,6 +612,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\soldiers\sniper\sniper_british_mp.xml</FileName>
 			<FileHash>ccaa5afa41ac69edeb0a2a9684937e84</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\team_weapons\at_gun_6_pounder\brit_6_pounder_at_gun_mp.xml</FileName>
+			<FileHash>f08a3aa847c4f848fba6fd1ab79389b7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
@@ -682,6 +690,10 @@
 			<FileHash>bacadcb5410c80b72554b7b6dc0483a0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\team_weapons\at_gun\pak40_75mm_at_gun_mp.xml</FileName>
+			<FileHash>cb032e71283848f23a405fe23df7e3ce</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\armored_car_sdkfz_222\armored_car_sdkfz_222_mp.xml</FileName>
 			<FileHash>603a74d44679e9040ac79b688dc00c48</FileHash>
 		</BurnInfo>
@@ -750,6 +762,14 @@
 			<FileHash>9a2bcac5943e2e29a28b44c2f423cbd8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\team_weapons\soviet_at_guns\m1937_53-k_45mm_at_gun_mp.xml</FileName>
+			<FileHash>7a714d4a3e5c85fc4b1f15926a1447fe</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\team_weapons\soviet_at_guns\m1942_76mm_divisional_gun_zis-3_mp.xml</FileName>
+			<FileHash>a756fb9a5215dbe7dc84e9162bc6e68e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\vehicles\m3a1_scout_car\m3a1_scout_car_mp.xml</FileName>
 			<FileHash>7c0a86b968de8c4cd82cbca397bcab86</FileHash>
 		</BurnInfo>
@@ -792,6 +812,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_westgerman_mp.xml</FileName>
 			<FileHash>cb6a6859b3d1f6d0f821aaa29a9d4214</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
+			<FileHash>2edbb9dad62cc683a22ed052f904acbd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
