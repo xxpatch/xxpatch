@@ -122,7 +122,7 @@
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrop_machine_gun" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\aef_hq_engineer_call_in" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paratroopers_paradrop" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paratroopers_paradrop" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\priest_dispatch" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\sherman_easy8_dispatch" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\sherman_bulldozer_dispatch" />
@@ -136,7 +136,7 @@
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\p47_rocket_attack" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_defensive_buildings" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\air_drop_combat_group" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\forward_observers_unlock_2" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_155mm" />
