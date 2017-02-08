@@ -179,9 +179,9 @@
 				<float name="non_collide_end_angle" value="89" />
 			</group>
 			<float name="building_hit_fx_delay" value="0" />
-			<bool name="collision_building_wall_panel_ignore" value="True" />
+			<bool name="collision_building_wall_panel_ignore" value="False" />
 			<group name="collision_type">
-				<template_reference name="collision_type" value="type_projectile_collision\tp_sticky">
+				<template_reference name="collision_type" value="type_projectile_collision\tp_homing_inf">
 				</template_reference>
 			</group>
 			<float name="deathtimer" value="0" />

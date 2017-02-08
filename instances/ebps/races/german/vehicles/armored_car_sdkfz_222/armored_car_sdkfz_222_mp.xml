@@ -19,7 +19,7 @@
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\scout_car_halftrack_infantry_awareness_mp" />
-				<instance_reference name="ability" value="abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -142,7 +142,7 @@
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="False" />
 					<bool name="trigger_publish_event" value="False" />
-					<instance_reference name="upgrade" value="upgrade\german\items\sdkfz_222_20mm_gun_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="upgrade" value="upgrade\german\items\sdkfz_222_20mm_gun_mp" />
 					<uniqueid name="id" value="1073743605" />
 				</template_reference>
 			</list>
@@ -397,7 +397,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -892,7 +892,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\scout_car_sdkfz222\scoutcar_sdkfz222_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\scout_car_sdkfz222\scoutcar_sdkfz222_mp" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">

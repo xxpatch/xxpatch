@@ -16,9 +16,9 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\aec_defensive_smoke" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\aec_defensive_smoke" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane" />
-				<instance_reference name="ability" value="abilities\british\toggle_ability\brit_vehicle_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\british\toggle_ability\brit_vehicle_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\aec_tread_shots_mp" />
 			</list>
 		</template_reference>
@@ -390,7 +390,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -635,7 +635,7 @@
 								<float name="z" value="0.7" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -1142,7 +1142,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -1184,7 +1184,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">

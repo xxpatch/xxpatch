@@ -19,7 +19,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_antitank_rifle_grenade_ability_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" />
 				<instance_reference name="ability" value="abilities\global\custom_commander\heal_in_cover" />
 			</list>
 		</template_reference>

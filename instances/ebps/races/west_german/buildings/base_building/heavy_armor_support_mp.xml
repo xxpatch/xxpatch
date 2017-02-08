@@ -140,7 +140,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\base_building_retreat_point_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\base_building_retreat_point_mp" />
 				<instance_reference name="ability" value="abilities\west_german\always_on_ability\dispatch_ability\sws_halftrack_forward_receivers" />
 			</list>
 		</template_reference>
@@ -586,7 +586,7 @@
 						<template_reference name="required" value="requirements\required_structure">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<instance_reference name="structure_name" value="ebps\races\west_german\buildings\base_building\heavy_armor_support_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="structure_name" value="ebps\races\west_german\buildings\base_building\heavy_armor_support_mp" />
 							<int name="required_structure_count" value="1" />
 							<bool name="check_team" value="False" />
 							<bool name="require_construction_complete" value="False" />
@@ -612,7 +612,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\le_ig_18_inf_support_gun_squad\le_ig_18_inf_support_gun_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\le_ig_18_inf_support_gun_squad\le_ig_18_inf_support_gun_squad_mp" />
 					<bool name="spawn_at_map_entry_point" value="False" />
 				</group>
 				<group name="spawn_item">
