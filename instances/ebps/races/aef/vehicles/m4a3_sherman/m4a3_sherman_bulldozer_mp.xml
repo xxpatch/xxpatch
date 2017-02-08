@@ -17,7 +17,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\smoke_sherman_mortar_barrage_bulldozer_mp" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -1154,7 +1154,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -1196,7 +1196,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">

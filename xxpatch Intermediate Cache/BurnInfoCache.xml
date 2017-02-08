@@ -399,7 +399,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\army\aef.xml</FileName>
-			<FileHash>1ff0adbb59c683dbd7687089acb719e0</FileHash>
+			<FileHash>d0eed79c36aa4d50aacb434c8319dba6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\army\british.xml</FileName>
@@ -435,15 +435,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
-			<FileHash>c5964ec88bdc0a1ed2355d3c75804f78</FileHash>
+			<FileHash>8b0beef6401266b1a9de8950c88f529a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\territory_munitions_point_mp.xml</FileName>
-			<FileHash>ceb42fb69cdf344e4f4f97827ae17dae</FileHash>
+			<FileHash>c9ec700b2642449e47e9e7c94a4fce58</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\territory_point_mp.xml</FileName>
-			<FileHash>6f0fbd0dd53c7622e8f77d99dc5230f3</FileHash>
+			<FileHash>03e8f1f602a1622cff45072e07ef2b83</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\props\brit_bren_lmg_item.xml</FileName>
@@ -494,14 +494,6 @@
 			<FileHash>1f502135190c89a928882f8d679fe22e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_bazooka_mp.xml</FileName>
-			<FileHash>fc851ccc4b5d7035a9aa5760a95bd3bc</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_browning_automatic_rifle_mp.xml</FileName>
-			<FileHash>6812e9b1285314094032b86106de4aed</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
 			<FileHash>2676469115bf9b2100b4b702e528a69f</FileHash>
 		</BurnInfo>
@@ -523,39 +515,39 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
-			<FileHash>8078ad17cb2d545f943fb32046435e3b</FileHash>
+			<FileHash>786638123f0a99704cdf95bc7c47343d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
-			<FileHash>c91987fd75423b7c950e05f92c7a6d61</FileHash>
+			<FileHash>b2c6121029163bdd631a5bf774c88a9a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
-			<FileHash>e811f6c4f3eeedfa648e9267008a4363</FileHash>
+			<FileHash>c1e4fa42a9874eaec0f7d889534a1b93</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
-			<FileHash>fc291aa0ff0e9cfb70cd2fddf16050db</FileHash>
+			<FileHash>55596a7d7cf828d44d4683e2de6ede60</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_mp.xml</FileName>
-			<FileHash>90323d7a0c69a5b61227a4e9ebcbee5f</FileHash>
+			<FileHash>b8fa9d96797253c844e3b00dbefe5a49</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_bulldozer_mp.xml</FileName>
-			<FileHash>b16ff5955bcea5954791051c47e3c905</FileHash>
+			<FileHash>768ed5355f552405b19411cb4f3d8acd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5a1_stuart\m5a1_stuart_mp.xml</FileName>
-			<FileHash>89fc93cd9c767a34df97eaccc9350a1c</FileHash>
+			<FileHash>70b104b1e33da260ce5a4a193a8cbaa0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
-			<FileHash>b8ce7f30bc9543e32f9971b66a62e570</FileHash>
+			<FileHash>9f0fca6007863f0451df59357ca01c5d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.xml</FileName>
-			<FileHash>d9a34da18ae12df84981b226ca7c964b</FileHash>
+			<FileHash>f6903685aab191a87dcd90b28e7f84cc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>

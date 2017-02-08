@@ -18,7 +18,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\m5_stuart_shell_shock" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\m5_stuart_damage_engine" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -392,7 +392,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -596,7 +596,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m5a1_stuart_m6_37mm_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m5a1_stuart_m6_37mm_mp" />
 						</group>
 						<group name="weapon">
 							<group name="heading">
@@ -611,7 +611,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m5_stuart_shell_shock_shot_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m5_stuart_shell_shock_shot_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -632,7 +632,7 @@
 								<float name="z" value="1.4" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_coaxial_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_coaxial_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -653,7 +653,7 @@
 								<float name="z" value="2.3" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_hull_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\light_machine_gun\m5a1_stuart_m1919a4_30_cal_hull_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -997,7 +997,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -1039,7 +1039,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">

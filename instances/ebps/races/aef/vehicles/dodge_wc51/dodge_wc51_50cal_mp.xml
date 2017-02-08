@@ -1036,7 +1036,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp" />
 						<float name="max_capture_crew_size" value="9" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">

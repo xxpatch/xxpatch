@@ -247,7 +247,7 @@
 				<group name="unlocking_upgrade_info">
 					<instance_reference name="upgrade_pbg" value="upgrade\aef\research\weapon_rack_upgrade_mp" />
 					<instance_reference name="unlocked_ability" value="" />
-					<instance_reference name="unlocked_building" value="ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_bazooka_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="unlocked_building" value="ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_bazooka_mp" />
 					<list name="upgraded_squads">
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp" />
@@ -258,7 +258,7 @@
 				<group name="unlocking_upgrade_info">
 					<instance_reference name="upgrade_pbg" value="upgrade\aef\research\weapon_rack_upgrade_mp" />
 					<instance_reference name="unlocked_ability" value="" />
-					<instance_reference name="unlocked_building" value="ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_browning_automatic_rifle_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="unlocked_building" value="ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_browning_automatic_rifle_mp" />
 					<list name="upgraded_squads">
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp" />

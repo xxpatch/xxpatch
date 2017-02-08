@@ -125,8 +125,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\defensive_structures\aef_tank_trap_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\defensive_structures\retreat_point_decoration_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_bazooka_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_browning_automatic_rifle_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\paratrooper\paratrooper_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\weapon_crew\at_team_weapon_crew_mp.rgd

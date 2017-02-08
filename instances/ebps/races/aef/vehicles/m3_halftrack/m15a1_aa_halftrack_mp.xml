@@ -274,7 +274,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -499,7 +499,7 @@
 								<float name="z" value="-2" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m15a1_halftrack_37mm_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\m15a1_halftrack_37mm_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />
@@ -520,7 +520,7 @@
 								<float name="z" value="-2" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_left_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_left_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />
@@ -541,7 +541,7 @@
 								<float name="z" value="-2" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_right_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\m15a1_aa_half_track_50cal_right_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />

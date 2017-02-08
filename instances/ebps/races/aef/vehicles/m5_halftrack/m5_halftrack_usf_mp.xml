@@ -54,7 +54,7 @@
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
 							<bool name="is_present" value="True" />
-							<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" />
 							<bool name="include_queued" value="False" />
 						</template_reference>
 					</list>
@@ -319,7 +319,7 @@
 								<bool name="big_explosive" value="True" />
 								<bool name="small_explosive" value="True" />
 							</enum_table>
-							<instance_reference name="critical" value="critical\vehicle_abandon" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="critical" value="critical\vehicle_abandon" />
 							<enum_table name="applicable_hit_direction">
 								<bool name="front" value="True" />
 								<bool name="rear" value="True" />
@@ -1039,7 +1039,7 @@
 					<enum name="reason" value="usage" />
 					<locstring name="ui_name" value="0" />
 					<bool name="is_present" value="False" />
-					<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" />
 					<bool name="include_queued" value="False" />
 				</template_reference>
 			</list>
@@ -1049,7 +1049,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\hold_ext">
@@ -1129,7 +1129,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="racebps\aef" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
@@ -1146,7 +1146,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
