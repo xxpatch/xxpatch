@@ -417,7 +417,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\british_piat_spigot_mortar_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			<instance_reference name="projectile" value="ebps\projectile\british_piat_spigot_mortar_mp" />
 		</group>
 		<group name="range">
 			<float name="max" value="30" />
