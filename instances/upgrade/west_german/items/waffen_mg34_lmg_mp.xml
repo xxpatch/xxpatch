@@ -43,7 +43,7 @@
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073744524" />
 			</template_reference>

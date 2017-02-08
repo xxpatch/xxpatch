@@ -212,7 +212,7 @@
 			<list name="base_building_list">
 				<instance_reference name="base_building" value="ebps\races\british\buildings\base_building\british_building_1_mp" />
 				<instance_reference name="base_building" value="ebps\races\british\buildings\base_building\british_building_2_mp" />
-				<instance_reference name="base_building" value="ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="base_building" value="ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp" />
 			</list>
 			<list name="unlocking_upgrade_list">
 				<group name="unlocking_upgrade_info">

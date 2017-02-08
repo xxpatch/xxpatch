@@ -120,7 +120,7 @@
 				<locstring name="ui_name" value="0" />
 				<bool name="include_queued" value="True" />
 				<bool name="is_present" value="False" />
-				<instance_reference name="upgrade_name" value="upgrade\german\commander\ability\light_infantry_panzergren_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade_name" value="upgrade\german\commander\ability\light_infantry_panzergren_package" />
 			</template_reference>
 		</list>
 		<int name="ui_position" value="8" />

@@ -399,11 +399,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\army\aef.xml</FileName>
-			<FileHash>d0eed79c36aa4d50aacb434c8319dba6</FileHash>
+			<FileHash>eaf3a6acc8da76cef17cc58549700e9c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\army\british.xml</FileName>
-			<FileHash>190d304bc5dbf158ddcbde03967f95e0</FileHash>
+			<FileHash>1038edbad3f4c182249f1e3b8119e19d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\army\german.xml</FileName>
@@ -1467,11 +1467,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\assault_engineer_flamethrower.xml</FileName>
-			<FileHash>fd4021a0d2ab9ff290e6d37eeb6b35b8</FileHash>
+			<FileHash>73d251f62fa26481a520b5e552a68d00</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m1919a6_lmg_governor_upgrade_mp.xml</FileName>
-			<FileHash>dbdb52305be820c08438c35e74f51855</FileHash>
+			<FileHash>966678e74f97f717f3174e4ca1eea490</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m8_top_gunner_mp.xml</FileName>
@@ -1479,27 +1479,23 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\paratrooper_m1919a6_lmg_1_mp.xml</FileName>
-			<FileHash>52d16ea65922584cadc592844b29ccfd</FileHash>
+			<FileHash>40d18e44fab2cafce4549f5f0b26bc59</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\paratrooper_m1919a6_lmg_mp.xml</FileName>
-			<FileHash>6bd7b1dd447e885f25d21fea56d93f03</FileHash>
+			<FileHash>1a6cdf01913618f070418c5839b8812a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\riflemen_flamethrower.xml</FileName>
-			<FileHash>8586bc810c6a457627c3ed6b009e2a2b</FileHash>
+			<FileHash>50ba6d4e79f756cd3b316b68d27280d6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
-			<FileHash>7226f52e5062201bc566a4146de89bea</FileHash>
+			<FileHash>a81cb91eb8184c64f796b318150f89a2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\army_items\infantry_discount_mp.xml</FileName>
 			<FileHash>120a0ca9c0388648b8d4db74efca4819</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\bren_lmg_governor_upgrade_all_mp.xml</FileName>
-			<FileHash>429c4ff21e815f68210cba689b5f6ce9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\bren_lmg_governor_upgrade_mp.xml</FileName>
@@ -1507,7 +1503,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\items\sapper_flamethrower.xml</FileName>
-			<FileHash>4b1d6f6297f9c26f939f04e21e353b07</FileHash>
+			<FileHash>6b0db749d580ac30e1b3a27db12a1a2f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\british\research\company_anvil_mp.xml</FileName>
@@ -1519,15 +1515,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\commander\ability\light_infantry_panzergren_package.xml</FileName>
-			<FileHash>2bbddc4d5d33ec4620bb52fde6e4e491</FileHash>
+			<FileHash>2099ab9c1009513e8cfea98ac18749ee</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\items\grenadier_mg42_lmg_mp.xml</FileName>
-			<FileHash>1675488c5637cd7fffc721195832a123</FileHash>
+			<FileHash>11dde41145d322df00328fabff1cd85f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\items\pioneer_flamethrower_mp.xml</FileName>
-			<FileHash>5647f5ab981fe78555a3ac1ee24a280e</FileHash>
+			<FileHash>ad1d88ed653c6b10ae8385f3cc60891e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\german\items\sdkfz_222_20mm_gun_mp.xml</FileName>
@@ -1539,27 +1535,27 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\conscript_ptrs_package.xml</FileName>
-			<FileHash>aacc8c21e6cf8f9072ddfe44724365e2</FileHash>
+			<FileHash>e9698aac13a13135b9b431f46e1cacd5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\engineer_flamethrower_mp.xml</FileName>
-			<FileHash>287749df99fbf8589f5e46a66e65cb3c</FileHash>
+			<FileHash>4dfa12827944dbb96eb77f1673ce5ca8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
-			<FileHash>87a77b3f2eac8e1beadde0a598df55e2</FileHash>
+			<FileHash>2241bdcf764dfc4c09da444e35fb72e4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_mp.xml</FileName>
-			<FileHash>f880b98b8df406808be38ffd866fbf83</FileHash>
+			<FileHash>db021a10f28bb1f1045a4faf659525b0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_1_mp.xml</FileName>
-			<FileHash>83649c145d45a21728dda4a37e65492f</FileHash>
+			<FileHash>26bf475c09b1a3fe076158a0467039ba</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_2_mp.xml</FileName>
-			<FileHash>842a5aeaa5da37b284ae4d231e293b5f</FileHash>
+			<FileHash>6ae7b6d0e3e4b2c89ac32c19d4b27ee3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
@@ -1579,11 +1575,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\volks_flamethrower_mp.xml</FileName>
-			<FileHash>1103b50fc3bd493d8c9341074f50b40b</FileHash>
+			<FileHash>9478f4fc1169107da43436b5bd3845b1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\waffen_mg34_lmg_mp.xml</FileName>
-			<FileHash>4f4caf26e11ecf417d1b4d80fdb7debc</FileHash>
+			<FileHash>fd2dbdf054a348cbf0a85e2c3d28759d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\research\call_sws_upgrade.xml</FileName>

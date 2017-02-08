@@ -122,7 +122,7 @@
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="0" />
 				<bool name="is_present" value="False" />
-				<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade_name" value="upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp" />
 				<bool name="include_queued" value="False" />
 			</template_reference>
 			<template_reference name="required" value="requirements\required_in_territory">
