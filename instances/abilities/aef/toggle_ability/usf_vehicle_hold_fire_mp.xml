@@ -93,7 +93,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\anti_tank_gun\m1_57mm_at_gun__mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\anti_tank_gun\m1_57mm_at_gun__mp" />
 					<uniqueid name="id" value="1073744174" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />
@@ -110,7 +110,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\anti_tank_gun\m1_57mm_at_gun_vet_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="weapon_to_override" value="weapon\aef\ballistic_weapon\anti_tank_gun\m1_57mm_at_gun_vet_mp" />
 					<uniqueid name="id" value="1073744175" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />
