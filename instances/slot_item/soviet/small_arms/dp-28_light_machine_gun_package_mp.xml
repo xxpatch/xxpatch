@@ -57,7 +57,7 @@
 			</template_reference>
 			<template_reference name="action" value="action\upgrade_remove">
 				<bool name="apply_to_entities_in_squad" value="False" />
-				<instance_reference name="upgrade" value="upgrade\soviet\items\guard_dp-28_lmg_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\guard_dp-28_lmg_package_mp" />
 				<uniqueid name="id" value="1073745968" />
 			</template_reference>
 		</list>
