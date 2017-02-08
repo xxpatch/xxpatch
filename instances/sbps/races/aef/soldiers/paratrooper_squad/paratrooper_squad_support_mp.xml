@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="6" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -571,7 +571,7 @@
 						<group name="action_choice">
 							<list name="actions">
 								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_m1919a6_lmg_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_m1919a6_lmg_mp" />
 									<bool name="permanent" value="True" />
 									<uniqueid name="id" value="1073742230" />
 								</template_reference>

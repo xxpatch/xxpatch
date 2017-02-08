@@ -162,7 +162,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="4" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -181,7 +181,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_mp" />
-				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_panzergren_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_panzergren_package" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
 				<instance_reference name="upgrade" value="upgrade\german\items\panzerbusche_39_mp" />
 				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_1_schrek_mp" />
@@ -650,11 +650,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" />
+				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>

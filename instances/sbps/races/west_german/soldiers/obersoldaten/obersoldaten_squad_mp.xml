@@ -409,7 +409,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\west_german\items\waffen_infrared_stg44" />
-				<instance_reference name="upgrade" value="upgrade\west_german\items\waffen_mg34_lmg_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\waffen_mg34_lmg_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">

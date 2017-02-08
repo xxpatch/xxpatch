@@ -193,7 +193,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\german\items\grenadier_mg42_lmg_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\german\items\grenadier_mg42_lmg_mp" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_package" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
 			</list>
@@ -578,7 +578,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.75" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
 												<enum name="application_type" value="apply_to_squad" />
@@ -647,11 +647,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" />
+				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
@@ -812,7 +812,7 @@
 					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
 					<list name="construction_items">
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
 							<int name="ui_position" value="11" />
 						</group>
 						<group name="construction_item">

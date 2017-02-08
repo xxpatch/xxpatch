@@ -202,7 +202,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" />
 				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\medic_specialization\medic_add_squad_upg" />
 			</list>
 		</template_reference>
@@ -538,7 +538,7 @@
 					</list>
 					<list name="action_table">
 						<template_reference name="action" value="action\slot_item_add">
-							<instance_reference name="slot_item" value="slot_item\aef\flame_weapon\assault_engineer_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="slot_item" value="slot_item\aef\flame_weapon\assault_engineer_flamethrower" />
 							<bool name="permanent" value="True" />
 							<uniqueid name="id" value="1073742061" />
 						</template_reference>
@@ -734,7 +734,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_ability_rear_echelon_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\combat_engineer_timed_demo_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />

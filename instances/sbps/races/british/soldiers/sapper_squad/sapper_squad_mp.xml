@@ -178,7 +178,7 @@
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\british\items\sappers_minesweeper_upgrade_mp" />
 				<instance_reference name="upgrade" value="upgrade\british\items\sappers_heavy_squad_mp" />
-				<instance_reference name="upgrade" value="upgrade\british\items\sapper_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\british\items\sapper_flamethrower" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -738,7 +738,7 @@
 							<int name="ui_position" value="11" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">

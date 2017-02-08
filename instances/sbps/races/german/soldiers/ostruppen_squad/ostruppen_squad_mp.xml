@@ -449,8 +449,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
@@ -639,7 +639,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.75" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073742515" />
@@ -785,7 +785,7 @@
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
 							<int name="ui_position" value="11" />
 						</group>
 					</list>

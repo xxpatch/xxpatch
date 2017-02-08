@@ -162,11 +162,11 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="4" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\grenadiers\assault_grenadiers_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\grenadiers\assault_grenadiers_mp" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\grenadiers\assault_grenadiers_leader_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\grenadiers\assault_grenadiers_leader_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -389,7 +389,7 @@
 								<enum name="application_type" value="apply_to_ability" />
 								<bool name="exclusive" value="False" />
 								<string name="modifier_id" value="" />
-								<instance_reference name="target_type_name" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+								<instance_reference name="target_type_name" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" />
 								<enum name="usage_type" value="multiplication" />
 								<float name="value" value="0.67" />
 								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -611,7 +611,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.25" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -670,11 +670,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" />
+				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\assault_grenadier_grenade" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\assault_grenadier_sprint_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
@@ -834,7 +834,7 @@
 					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
 					<list name="construction_items">
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
 							<int name="ui_position" value="11" />
 						</group>
 						<group name="construction_item">

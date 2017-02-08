@@ -604,7 +604,7 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_delayed_cover_auto_camouflage_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_delayed_cover_auto_camouflage_mp" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
 			</list>
@@ -665,7 +665,7 @@
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
 							<int name="ui_position" value="12" />
 						</group>
 					</list>

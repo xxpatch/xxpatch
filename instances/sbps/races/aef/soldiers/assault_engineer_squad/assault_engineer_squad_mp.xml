@@ -216,7 +216,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\assault_engineer_flamethrower" />
 				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>
@@ -724,7 +724,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_critical_mp" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\repair_ability\soviet_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\combat_engineer_timed_demo_mp" />
@@ -892,7 +892,7 @@
 							<int name="ui_position" value="22" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_barbed_wire_fence_mp" />
 							<int name="ui_position" value="11" />
 						</group>
 					</list>

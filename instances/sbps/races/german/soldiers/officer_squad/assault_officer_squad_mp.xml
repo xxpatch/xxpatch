@@ -201,7 +201,7 @@
 					<enum name="reason" value="usage" />
 					<locstring name="ui_name" value="11046706" />
 					<float name="max_squad_cap" value="1" />
-					<instance_reference name="squad_name" value="sbps\races\german\soldiers\officer_squad\assault_officer_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="squad_name" value="sbps\races\german\soldiers\officer_squad\assault_officer_squad_mp" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -466,7 +466,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />

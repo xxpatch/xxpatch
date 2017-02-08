@@ -180,7 +180,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_flamethrower_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_flamethrower_mp" />
 				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_minesweeper_mp" />
 				<instance_reference name="upgrade" value="upgrade\soviet\items\engineer_salvage_kit" />
 			</list>
@@ -751,7 +751,7 @@
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
@@ -763,7 +763,7 @@
 							<int name="ui_position" value="21" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\tanktrap" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\tanktrap" />
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">

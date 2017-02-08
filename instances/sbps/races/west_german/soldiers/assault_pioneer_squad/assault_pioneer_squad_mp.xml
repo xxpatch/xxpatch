@@ -409,7 +409,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\west_german\items\assault_pioneer_repair_upgrade" />
-				<instance_reference name="upgrade" value="upgrade\west_german\items\volks_flamethrower_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\volks_flamethrower_mp" />
 				<instance_reference name="upgrade" value="upgrade\west_german\items\assault_pioneer_combat_upgrade" />
 			</list>
 		</template_reference>
@@ -944,7 +944,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\pioneer_volks_salvage" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\pioneer_stun_grenade_mp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\sp\refuel_tank_wg_sp" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\minesweeper_deploy_mp" />
@@ -1092,11 +1092,11 @@
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp" />
 							<int name="ui_position" value="11" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\reinforced_barbed_wire_fence_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\reinforced_barbed_wire_fence_mp" />
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
@@ -1104,7 +1104,7 @@
 							<int name="ui_position" value="31" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" />
 							<int name="ui_position" value="0" />
 						</group>
 						<group name="construction_item">
@@ -1112,7 +1112,7 @@
 							<int name="ui_position" value="0" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_westgerman_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="ebp" value="ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_westgerman_mp" />
 							<int name="ui_position" value="0" />
 						</group>
 						<group name="construction_item">

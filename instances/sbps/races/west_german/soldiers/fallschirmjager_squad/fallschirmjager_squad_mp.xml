@@ -390,7 +390,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="4" />
-					<instance_reference name="type" value="ebps\races\west_german\soldiers\fallschirmjager\fallschirmjager_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<instance_reference name="type" value="ebps\races\west_german\soldiers\fallschirmjager\fallschirmjager_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -990,7 +990,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
