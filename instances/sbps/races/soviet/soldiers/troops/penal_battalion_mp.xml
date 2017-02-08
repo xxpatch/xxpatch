@@ -161,12 +161,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-				</group>
-				<group name="loadout_data">
-					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_smg_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+					<float name="num" value="6" />
+					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -184,7 +180,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_ptrs_package_1_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_ptrs_package_2_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -381,15 +378,6 @@
 								<float name="value" value="0.67" />
 								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
 							</template_reference>
-							<template_reference name="modifier" value="modifiers\ability_max_range_modifier">
-								<enum name="application_type" value="apply_to_ability" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<instance_reference name="target_type_name" value="abilities\soviet\modal_ability\grenades\penal_molotov_cocktail_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="0.67" />
-								<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
-							</template_reference>
 						</list>
 						<uniqueid name="id" value="1073742742" />
 					</template_reference>
@@ -446,7 +434,7 @@
 						<template_reference name="action" value="action\upgrade_add">
 							<bool name="apply_to_entities_in_squad" value="False" />
 							<bool name="trigger_publish_event" value="False" />
-							<instance_reference name="upgrade" value="upgrade\soviet\items\penal_battalion_flamethrower_package_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="upgrade" value="" />
 							<uniqueid name="id" value="1073742743" />
 						</template_reference>
 					</list>
@@ -480,7 +468,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\to_the_last_man_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />

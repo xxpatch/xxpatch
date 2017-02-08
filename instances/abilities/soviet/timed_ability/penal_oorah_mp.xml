@@ -225,7 +225,7 @@
 						<locstring name="ui_name" value="0" />
 						<bool name="include_queued" value="False" />
 						<bool name="is_present" value="True" />
-						<instance_reference name="upgrade_name" value="upgrade\soviet\items\penal_ptrs_package" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="upgrade_name" value="upgrade\soviet\items\penal_ptrs_package_2_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					</template_reference>
 				</list>
 			</template_reference>

@@ -39,7 +39,7 @@
 					<Dependencies />
 					<Description></Description>
 					<Hidden>false</Hidden>
-					<Name>Relic Fall/Winter Balance Preview</Name>
+					<Name>Relic Fall/Winter Balance Final</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>

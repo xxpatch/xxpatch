@@ -3,8 +3,8 @@
 		<bool name="always_pick_up" value="False" />
 		<bool name="can_stack" value="False" />
 		<float name="can_stack_max" value="1" />
-		<instance_reference name="drop_item_entity" value="" />
-		<float name="drop_rate" value="0" />
+		<instance_reference name="drop_item_entity" value="ebps\gameplay\props\soviet_guard_ptrs_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+		<float name="drop_rate" value="0.33" />
 		<float name="hardpoint" value="1" />
 		<bool name="has_speech_code" value="True" />
 		<bool name="is_entity_user" value="False" />
@@ -50,6 +50,16 @@
 		<list name="on_add_actions">
 		</list>
 		<list name="on_drop_actions">
+			<template_reference name="action" value="action\upgrade_remove">
+				<bool name="apply_to_entities_in_squad" value="False" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_ptrs_package_1_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<uniqueid name="id" value="1073747513" />
+			</template_reference>
+			<template_reference name="action" value="action\upgrade_remove">
+				<bool name="apply_to_entities_in_squad" value="False" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\penal_ptrs_package_2_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+				<uniqueid name="id" value="1073747514" />
+			</template_reference>
 		</list>
 	</group>
 	<uniqueid name="pbgid" value="1073741831" />

@@ -250,10 +250,6 @@
 			<FileHash>c47bc35610c0443ca93e233bc56a5cc8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\merge_ability_mp.xml</FileName>
-			<FileHash>7f33ab0097907165c45dd50f14f84820</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\commander_ability\fear_propaganda_artillery.xml</FileName>
 			<FileHash>84c41c90bb371c7d709724a9ce8ac033</FileHash>
 		</BurnInfo>
@@ -298,16 +294,12 @@
 			<FileHash>1859901d51a3849ca296151bec324293</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_at_throw_ability_mp.xml</FileName>
-			<FileHash>2ad5f71f1064ed6215685a8b401376a9</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp.xml</FileName>
 			<FileHash>e3369f07eab19830273eb34a59628d3d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\penal_oorah_mp.xml</FileName>
-			<FileHash>73df3c50aff2ffb01d2bda12cd49efb8</FileHash>
+			<FileHash>c0fb731854baeca1d7e8011ff02fca26</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\throw_away_hack_ui\cmd_guard_troops.xml</FileName>
@@ -472,6 +464,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\props\brit_bren_lmg_item.xml</FileName>
 			<FileHash>86a9d5f8b1d58bc1fcdfbcdb323ee2d4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\gameplay\props\soviet_guard_ptrs_mp.xml</FileName>
+			<FileHash>53d7e25a16c24fb4667d4231f8fa4d53</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
@@ -752,10 +748,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.xml</FileName>
 			<FileHash>d0b42ad29c6f592943e4609b22cdf305</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_smg_mp.xml</FileName>
-			<FileHash>f3f8d7d147f59c809ebbba5746f62534</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\soviet\soldiers\sniper\sniper_mp.xml</FileName>
@@ -1211,11 +1203,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\base_conscript_squad_mp.xml</FileName>
-			<FileHash>fa6a3c073f90622e5475b573f9f9e443</FileHash>
+			<FileHash>d7e97bb9cf4f1da9aa633e16a1204a8b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.xml</FileName>
-			<FileHash>0221a3b4a7a18921df7c0a5cdae42020</FileHash>
+			<FileHash>4b03cba8a5c91e2fe97c5727a457318c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp.xml</FileName>
@@ -1255,7 +1247,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>c35febf5fe8cc3f040d392df976ab0cd</FileHash>
+			<FileHash>c2b577047ba334cd8bc8ab0ff62b5dc1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -1447,15 +1439,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp.xml</FileName>
-			<FileHash>88b335a1cf339e617417c383093d5d5a</FileHash>
+			<FileHash>cdb28f343be35cb64707eb751e3ee4ab</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_mp.xml</FileName>
-			<FileHash>c053d737dac6d530887a8581fc7c5de7</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_penal_no_slot_mp.xml</FileName>
-			<FileHash>4b24a526c3cb8bac4c76419c1441be58</FileHash>
+			<FileHash>33b2fb6898909b00aced8249d5281d61</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\flamethrowers\flamethrower_roks3_item_mp.xml</FileName>
@@ -1476,10 +1464,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\dp-28_light_machine_gun_package_mp.xml</FileName>
 			<FileHash>075d56af3197a3efa96f66a11589394d</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\penal_package_dummy_item_mp.xml</FileName>
-			<FileHash>5710e3125c9dd9da18177403cab545d9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\usf\medic_auto_heal_token.xml</FileName>
@@ -1579,7 +1563,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\conscript_ptrs_package.xml</FileName>
-			<FileHash>d878177ca44410472c58fc308f96f1d8</FileHash>
+			<FileHash>aacc8c21e6cf8f9072ddfe44724365e2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\engineer_flamethrower_mp.xml</FileName>
@@ -1595,27 +1579,23 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_1_mp.xml</FileName>
-			<FileHash>d5d763c9efd77825c0f3c83586a31009</FileHash>
+			<FileHash>83649c145d45a21728dda4a37e65492f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_2_mp.xml</FileName>
-			<FileHash>2c366bc8631103ab2efe47e812214195</FileHash>
+			<FileHash>842a5aeaa5da37b284ae4d231e293b5f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
 			<FileHash>85e677b9a77b119aaac4691e8707c428</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_battalion_flamethrower_package_mp.xml</FileName>
-			<FileHash>6b2ce90096cff3ad0da9ccc9c4d8690f</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package_1_mp.xml</FileName>
+			<FileHash>85cf602fe6894aa1f5aec4d327dee528</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package.xml</FileName>
-			<FileHash>f4b07e530ad3a7c94243ef885aa24166</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package_3.xml</FileName>
-			<FileHash>b427761d094d64d63a40332f5d9a309b</FileHash>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\penal_ptrs_package_2_mp.xml</FileName>
+			<FileHash>e9c632735ce742c55823a707d778ecfa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\west_german\items\panzerfusilier_g43.xml</FileName>
@@ -1863,7 +1843,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\infantry_anti_tank_weapon\penal_ptrs_41_mp.xml</FileName>
-			<FileHash>6ee0d13e77f7f868a439dc448d6d69d0</FileHash>
+			<FileHash>7eaad59cb6d075f2612d848989a6a1e5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\soviet\ballistic_weapon\tank_gun\t70_m1938_45mm_mp.xml</FileName>
@@ -1979,11 +1959,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>e01c3c1ae9d7f092eefbbb9ad9030d86</FileHash>
+			<FileHash>929fd6b66d529d05e68dd1bf15f814d9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>
-			<FileHash>f195a2cdcd136ec2691416d81d6b0568</FileHash>
+			<FileHash>d69739e24ab248c60bf4d90b43bd0360</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />

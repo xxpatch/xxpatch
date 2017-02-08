@@ -32,7 +32,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11038236" />
 			<locstring name="help_text" value="11007682" />
-			<string name="hotkey_name" value="U" />
+			<string name="hotkey_name" value="P" />
 			<icon name="icon_name" value="Icons_upgrades_icon_upgrade_soviet_ptrs_41" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="11007678" />
