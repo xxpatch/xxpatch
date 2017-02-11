@@ -55,7 +55,7 @@
 				<template_reference name="action" value="action\change_target_action">
 					<list name="actions">
 						<template_reference name="action" value="action\slot_item_add">
-							<instance_reference name="slot_item" value="slot_item\usf\medic_auto_heal_token" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+							<instance_reference name="slot_item" value="slot_item\aef\medic_auto_heal_token" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<bool name="permanent" value="False" />
 							<uniqueid name="id" value="1073744446" />
 						</template_reference>

@@ -7,7 +7,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\always_on_ability\medic_auto_heal.xml</FileName>
-			<FileHash>7c24edd4677cd32b0beb755f403c44f3</FileHash>
+			<FileHash>f11f793d99123f71437371014ed2c1a3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_improved_mp.xml</FileName>
@@ -79,7 +79,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\auto_heal_disable_mp.xml</FileName>
-			<FileHash>ad286a201f84f80136f80d1737a10b7f</FileHash>
+			<FileHash>4068e71b13efa8b50286a0d87f02fcfc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\toggle_ability\officer_retreat_point_mp.xml</FileName>
@@ -1362,6 +1362,10 @@
 			<FileHash>a5980fc11de9b93d72b5aa1747b11952</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\medic_auto_heal_token.xml</FileName>
+			<FileHash>edcd59fba14b1a96d912bc0660d44aaf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\aef\flame_weapon\assault_engineer_flamethrower.xml</FileName>
 			<FileHash>78d390daba48ef36146da68b80a2032f</FileHash>
 		</BurnInfo>
@@ -1402,10 +1406,6 @@
 			<FileHash>f2e4080e762faa60fc698c03e1e6b83b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\flamethrowers\roks-2_flamethrower_item_no_drop_mp.xml</FileName>
-			<FileHash>622d2646aa8e0c12d8f33f85b01dbe0b</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\grenades\penal_troop_satchel_charge_item_at_mp.xml</FileName>
 			<FileHash>9bfbb307774194588aefd8c24a9b990d</FileHash>
 		</BurnInfo>
@@ -1416,10 +1416,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\soviet\small_arms\dp-28_light_machine_gun_package_mp.xml</FileName>
 			<FileHash>9814cc63a5c6c899d8fe61df803566f4</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\usf\medic_auto_heal_token.xml</FileName>
-			<FileHash>edcd59fba14b1a96d912bc0660d44aaf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp.xml</FileName>
