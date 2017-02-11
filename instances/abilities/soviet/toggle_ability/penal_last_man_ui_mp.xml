@@ -74,7 +74,7 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="0" />
+			<locstring name="extra_text" value="106" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<locstring name="help_text" value="104" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<string name="hotkey_name" value="" />
 			<icon name="icon_name" value="Icons_abilities_ability_soviet_inspiring_charge" />
