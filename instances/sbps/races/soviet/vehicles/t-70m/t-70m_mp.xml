@@ -7,7 +7,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />
@@ -64,7 +64,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />
@@ -121,7 +121,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />
@@ -178,7 +178,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />
@@ -235,7 +235,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />
@@ -292,7 +292,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007366" />
+						<locstring name="extra_text" value="101" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11006869" />
 						<string name="hotkey_name" value="N" />

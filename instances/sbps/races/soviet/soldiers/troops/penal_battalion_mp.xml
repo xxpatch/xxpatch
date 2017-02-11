@@ -7,7 +7,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11007288" />
+						<locstring name="extra_text" value="105" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007196" />
 						<string name="hotkey_name" value="B" />
@@ -470,6 +470,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\to_the_last_man_mp" />
+				<instance_reference name="ability" value="abilities\soviet\toggle_ability\penal_last_man_ui_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>

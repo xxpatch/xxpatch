@@ -294,12 +294,16 @@
 			<FileHash>25a28082df447b23fce96cd2f300a037</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\penal_last_man_ui_mp.xml</FileName>
+			<FileHash>d594dcfb7ef2a6e1bf65c19ef191d0c5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>2d19e02ac2140618bc835e037b1f505a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\t70_vet_point_capture_ability_mp.xml</FileName>
-			<FileHash>aa6a97d8f79409f8b91ae23e98551416</FileHash>
+			<FileHash>8c9044a1c1a95afedf59cc2d5a925f6b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\vehicle_recon_toggle_mp.xml</FileName>
@@ -955,7 +959,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp.xml</FileName>
-			<FileHash>362dc71f57d8f8c50ba7d7991c1d53dc</FileHash>
+			<FileHash>cfff47a292544b7b8d526e3e54f1a640</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\aef\vehicles\m5_halftrack_squad\aef_halftrack_squad_mp.xml</FileName>
@@ -1203,7 +1207,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
-			<FileHash>5b279ffcd4d7cef91b59365ff0e6fde8</FileHash>
+			<FileHash>fccc477b24da80e76562fc25b6c63e5b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp.xml</FileName>
@@ -1259,7 +1263,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\vehicles\t-70m\t-70m_mp.xml</FileName>
-			<FileHash>84568be29716a3b10b7def34b72efaee</FileHash>
+			<FileHash>f0071d429ceddbc5280113653d0ba0fa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\soviet\vehicles\t_34_squad\t_34_85_advanced_squad_mp.xml</FileName>
@@ -1899,7 +1903,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\locale\english\english.ucs</FileName>
-			<FileHash>929fd6b66d529d05e68dd1bf15f814d9</FileHash>
+			<FileHash>2348c46fe4163afb7162a06af6627b01</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\info\9cdcf92e05114ce5baacb4b7a120b84c.info</FileName>

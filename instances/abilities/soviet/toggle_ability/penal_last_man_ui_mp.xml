@@ -75,12 +75,12 @@
 		</group>
 		<group name="ui_info">
 			<locstring name="extra_text" value="0" />
-			<locstring name="help_text" value="92" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+			<locstring name="help_text" value="104" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_abilities_ability_raid" />
+			<icon name="icon_name" value="Icons_abilities_ability_soviet_inspiring_charge" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11046829" />
+			<locstring name="screen_name" value="103" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<icon name="icon_alternate_name" value="" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="help_text_alternate" value="0" />
@@ -135,5 +135,5 @@
 		<bool name="can_cast_outside_active_battle_field" value="False" />
 		<bool name="ability_super_event_cue" value="False" />
 	</group>
-	<uniqueid name="pbgid" value="1073741833" />
+	<uniqueid name="pbgid" value="1073741836" />
 </instance>
