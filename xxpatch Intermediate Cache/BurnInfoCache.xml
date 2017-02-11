@@ -39,7 +39,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.xml</FileName>
-			<FileHash>bc3ce353d8664b66977a11db67efcb8d</FileHash>
+			<FileHash>20c1dc92d40c9e963bd993741309d76f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\commander_ability\artillery_155mm.xml</FileName>
@@ -1383,7 +1383,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\explosive_weapon\grenade\axis_assault_grenadier_squad_grenade.xml</FileName>
-			<FileHash>4a70917b88963ef1d6c5e527aeb4f084</FileHash>
+			<FileHash>5a670fde5a461f03926a44c17f07ec1b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\slot_item\german\flame_weapon\pioneer_flamethrower_mp.xml</FileName>
@@ -1659,7 +1659,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\puma_critical_shot_mp.xml</FileName>
-			<FileHash>ea6392bac9df1c4e8ad69bcf50ca2182</FileHash>
+			<FileHash>e6200760643e177555af65bb50057b4c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_75mm_short_commander_mp.xml</FileName>
@@ -1667,7 +1667,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\ballistic_weapon\tank_gun\stug_e_critical_shot_mp.xml</FileName>
-			<FileHash>fdad4f2517a344ed9f6b46d9b33b8f4e</FileHash>
+			<FileHash>7f786089c72b1573e9acbfcd58e505e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\explosive_weapons\grenade\assault_grenadier_squad_stielgranate_mp.xml</FileName>
+			<FileHash>b92e7275a7254e19eca3f277ceadf98c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\explosive_weapons\grenade\assault_grenadier_stielgranate_mp.xml</FileName>
@@ -1747,7 +1751,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_75mm_ap_mp.xml</FileName>
-			<FileHash>cbd155b23e8e1818a1a9057b4de95086</FileHash>
+			<FileHash>aa27029d2601ad830d37ede36d80021f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
@@ -1863,7 +1867,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\luchs_kwk38_20mm_vet2_mp.xml</FileName>
-			<FileHash>8ca94c7ee3db8efd36b65bd5fead629b</FileHash>
+			<FileHash>5aaf9b0181ef758dfef2f5aa7b4d5ad5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\west_german\ballistic_weapon\tank_gun\sdkfz_234_puma_aimed_shot_mp.xml</FileName>
