@@ -22,10 +22,6 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
 			<list name="actions">
-				<template_reference name="action" value="action\garrison_squad_action">
-					<instance_reference name="squad_blueprint" value="sbps\races\soviet\soldiers\troops\guards_troops_assault_mp" />
-					<uniqueid name="id" value="1073743699" />
-				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
@@ -86,6 +82,10 @@
 						<int name="phrase_order" value="0" />
 						<locstring name="phrase" value="0" />
 					</template_reference>
+				</template_reference>
+				<template_reference name="action" value="action\garrison_squad_action">
+					<instance_reference name="squad_blueprint" value="sbps\races\soviet\soldiers\troops\guards_troops_assault_mp" />
+					<uniqueid name="id" value="1073743699" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -463,7 +463,7 @@
 				<string name="code_3" value="" />
 			</group>
 			<bool name="tacmap_team_only" value="False" />
-			<locstring name="tooltip_txt" value="0" />
+			<locstring name="tooltip_txt" value="11049236" />
 			<int name="ui_priority" value="0" />
 			<icon name="minimap_icon" value="" />
 			<icon name="portrait_icon_winter" value="Icons_portraits_vehicle_soviet_m5_halftrack_w_portrait" />

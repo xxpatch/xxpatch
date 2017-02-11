@@ -140,7 +140,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\base_building\british_hq\british_hq_truck_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_bren_lmg_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_fwd_hq_weapon_rack_piat_launcher_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\defensive_structures\brit_sandbag_fence.rgd
@@ -172,7 +171,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_grenadier_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\vehicles\puma\puma_east_german.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_commander_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\buildings\base_building\barracks_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\buildings\base_building\motorpool_mp.rgd
@@ -182,7 +180,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\buildings\defensive_structures\sand_bag_soviet_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\buildings\defensive_structures\tanktrap.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\soldiers\sniper\sniper_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\team_weapons\soviet_at_guns\m1937_53-k_45mm_at_gun_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\team_weapons\soviet_at_guns\m1942_76mm_divisional_gun_zis-3_mp.rgd
@@ -200,7 +197,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp.rgd
-	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\sws_halftrack\sws_halftrack_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\xxpatch Intermediate Cache\Intermediate Files\attrib\attrib\formations\element_british_line_core.rgd
