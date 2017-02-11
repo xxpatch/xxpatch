@@ -40,7 +40,7 @@
 			<locstring name="screen_name_short" value="0" />
 			<enum name="ui_style" value="default" />
 		</group>
-		<bool name="validate_actions" value="False" />
+		<bool name="validate_actions" value="True" />
 		<list name="actions">
 			<template_reference name="action" value="action\slot_item_add">
 				<instance_reference name="slot_item" value="slot_item\soviet\small_arms\dp-28_light_machine_gun_package_mp" />

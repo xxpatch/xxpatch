@@ -1446,10 +1446,6 @@
 			<FileHash>966678e74f97f717f3174e4ca1eea490</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\m8_top_gunner_mp.xml</FileName>
-			<FileHash>bf178d81882f19dca9d2363fb87e55f8</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\aef\items\paratrooper_m1919a6_lmg_1_mp.xml</FileName>
 			<FileHash>40d18e44fab2cafce4549f5f0b26bc59</FileHash>
 		</BurnInfo>
@@ -1515,11 +1511,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_1_mp.xml</FileName>
-			<FileHash>2241bdcf764dfc4c09da444e35fb72e4</FileHash>
+			<FileHash>47e576c475ab6ba319f6abacc1f1b8b5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_dp-28_lmg_package_mp.xml</FileName>
-			<FileHash>db021a10f28bb1f1045a4faf659525b0</FileHash>
+			<FileHash>2ed4be8044c88117a149969921d90d3f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\guard_ptrs_package_1_mp.xml</FileName>
