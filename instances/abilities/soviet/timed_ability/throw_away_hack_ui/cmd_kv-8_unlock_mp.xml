@@ -16,7 +16,7 @@
 					<list name="entity_table">
 					</list>
 					<list name="squad_table">
-						<instance_reference name="squad" value="sbps\races\soviet\vehicles\kv-8\kv-8_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+						<instance_reference name="squad" value="sbps\races\soviet\vehicles\kv-8\kv-8_mp" />
 					</list>
 					<bool name="use_attack_move" value="False" />
 					<uniqueid name="id" value="1073745651" />
