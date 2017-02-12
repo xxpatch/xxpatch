@@ -1,7 +1,7 @@
 <instance description="West German AP Mine" template="ebps">
 	<list name="extensions">
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
-			<string name="alternate_sua" value="" />
+			<string name="alternate_sua" value="armies\soviet\structures\mine_tm35_planted\mine_tm35_planted" />
 			<bool name="always_revealed_in_fow" value="False" />
 			<file name="animator" value="armies\german\weapons\schumine_batch\schumine_batch" />
 			<bool name="is_visible_in_game" value="True" />

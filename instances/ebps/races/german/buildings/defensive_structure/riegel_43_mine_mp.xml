@@ -3,7 +3,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="armies\soviet\structures\mine_tm35_planted\mine_tm35_planted" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\german\weapons\tellermine_batch\tellermine_batch" />
+			<file name="animator" value="armies\german\weapons\tellermine\tellermine" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
@@ -50,7 +50,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\explosive_weapons\mines\teller_mine_mp" />
+							<instance_reference name="weapon" value="weapon\axis\explosive_weapons\mines\axis_riegel_43_mine_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -67,7 +67,7 @@
 					<float name="command" value="0" />
 					<float name="fuel" value="0" />
 					<float name="manpower" value="0" />
-					<float name="munition" value="50" />
+					<float name="munition" value="60" />
 					<float name="popcap" value="0" />
 				</group>
 				<float name="time_seconds" value="30" />
@@ -249,7 +249,7 @@
 			<instance_reference name="wreck_entity" value="" />
 			<list name="death_actions">
 				<template_reference name="action" value="action\detonate">
-					<uniqueid name="id" value="1073747011" />
+					<uniqueid name="id" value="1073747563" />
 				</template_reference>
 			</list>
 			<float name="armor" value="35" />
@@ -323,8 +323,8 @@
 			<string name="extra_text_deprecated" value="" />
 			<bool name="ghost_enable" value="False" />
 			<bool name="has_speech_code" value="True" />
-			<locstring name="help_text" value="2163050" />
-			<string name="hotkey_name" value="M" />
+			<locstring name="help_text" value="11042876" />
+			<string name="hotkey_name" value="W" />
 			<icon name="icon_name" value="Icons_buildings_building_german_mines" />
 			<enum name="kill_type" value="" />
 			<float name="minimap_color_a" value="255" />
@@ -336,8 +336,8 @@
 			<bool name="minimap_teamcolor" value="False" />
 			<bool name="obb_selectable" value="False" />
 			<string name="overlay_name" value="" />
-			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11043122" />
+			<bool name="reveal_for_decryption" value="True" />
+			<locstring name="screen_name" value="11043055" />
 			<enum name="selection_name" value="" />
 			<float name="selection_scale" value="1" />
 			<enum name="selection_type" value="multi_entity_kind_select" />
@@ -348,13 +348,13 @@
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_2">
-				<string name="code_1" value="tm" />
-				<string name="code_2" value="am" />
+				<string name="code_1" value="am" />
+				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_3">
 				<string name="code_1" value="atm" />
-				<string name="code_2" value="min" />
+				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_cover">
@@ -366,14 +366,14 @@
 			<locstring name="tooltip_txt" value="0" />
 			<int name="ui_priority" value="90" />
 			<icon name="minimap_icon" value="" />
-			<icon name="portrait_icon_winter" value="Icons_portraits_building_german_anti_personnel_mine_w_portrait" />
+			<icon name="portrait_icon_winter" value="Icons_portraits_building_german_riegel_mine_w_portrait" />
 			<group name="speaker_alt">
 				<string name="code_1" value="" />
 				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<float name="minimap_icon_scale" value="1" />
-			<icon name="portrait_icon_summer" value="Icons_portraits_building_german_anti_personnel_mine_s_portrait" />
+			<icon name="portrait_icon_summer" value="Icons_portraits_building_german_riegel_mine_s_portrait" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="extra_text" value="0" />
 			<locstring name="screen_name_short" value="0" />
@@ -500,5 +500,5 @@
 		<template_reference name="exts" value="ebpextensions\marker_ext">
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="101099" />
+	<uniqueid name="pbgid" value="1501" />
 </instance>

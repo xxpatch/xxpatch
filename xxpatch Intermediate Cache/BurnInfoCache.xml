@@ -482,8 +482,20 @@
 			<FileHash>f90e49137e6daddc6e8f73667dd2979a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\aef_mine_mp.xml</FileName>
+			<FileHash>2e6142cffc09222a8f16051cf123d0c5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\aef_mine_riflemen_mp.xml</FileName>
+			<FileHash>cac809e87736be715d1c1688e58ceaa0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\aef_tank_trap_mp.xml</FileName>
 			<FileHash>b12f431735e9930cf8471347f36f044d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\m20_m6_at_mine_mp.xml</FileName>
+			<FileHash>9fa2b0ad3f21e5653fee505812cd979d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\aef\buildings\defensive_structures\retreat_point_actual_mp.xml</FileName>
@@ -562,6 +574,14 @@
 			<FileHash>02e83d37088b2843951393cd490529cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_mine_commander_mp.xml</FileName>
+			<FileHash>efefcf89586246933ca610b182e9d50c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_mine_mp.xml</FileName>
+			<FileHash>88f5bcc74ad7ccf66259e5861e1f4a7b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\buildings\defensive_structures\brit_sandbag_fence.xml</FileName>
 			<FileHash>db2542fe736bfb98003a29c3fd0caa94</FileHash>
 		</BurnInfo>
@@ -630,12 +650,16 @@
 			<FileHash>21a6e554498ac09e125703d3d7d28e47</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\riegel_43_mine_mp.xml</FileName>
+			<FileHash>47b3eabd45b4aea2f7c745a0e6e427df</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\tank_trap.xml</FileName>
 			<FileHash>d0a9edb2c2783cb773707b5580780ff1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\teller_mine_mp.xml</FileName>
-			<FileHash>5793566faef516ac4f5ea06cbc5b4ce9</FileHash>
+			<FileHash>3bc9b8bb8416d38e07c1b0d91b303f9a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\defensive_structure\bunker\bunker_mp.xml</FileName>
@@ -755,7 +779,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp.xml</FileName>
-			<FileHash>5942d45e0a53cb38037c7642704a77ee</FileHash>
+			<FileHash>a71dde51447c1f762531e636ec31ac42</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp.xml</FileName>

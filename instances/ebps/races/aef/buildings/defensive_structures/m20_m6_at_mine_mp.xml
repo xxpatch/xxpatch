@@ -1,15 +1,15 @@
-<instance description="" template="ebps">
+<instance description="the vehicle activated teller mine&#xA;Multiplayer Clone." template="ebps">
 	<list name="extensions">
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="armies\soviet\structures\mine_tm35_planted\mine_tm35_planted" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\german\weapons\tellermine_batch\tellermine_batch" />
+			<file name="animator" value="armies\aef\weapons\m6_antitank_mine_batch\m6_antitank_mine_batch" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\sim_entity_ext">
 			<bool name="is_in_spatial_bucket" value="True" />
-			<float name="rotate_snap" value="90" />
+			<float name="rotate_snap" value="360" />
 			<float name="transferable" value="0" />
 			<bool name="kill_paradrop" value="False" />
 		</template_reference>
@@ -27,6 +27,22 @@
 			<float name="revert_time" value="5" />
 			<float name="revert_time_on_detection" value="10" />
 			<list name="camouflage_actions">
+				<template_reference name="action" value="action\apply_modifiers_action">
+					<float name="duration" value="0" />
+					<bool name="permanent" value="False" />
+					<list name="modifiers">
+						<template_reference name="modifier" value="modifiers\health_maximum_modifier">
+							<enum name="application_type" value="apply_to_entity" />
+							<bool name="exclusive" value="False" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="" />
+							<enum name="usage_type" value="multiplication" />
+							<float name="value" value="10" />
+							<instance_reference name="tooltip" value="modifier_tooltip\health_maximum_modifier" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073747553" />
+				</template_reference>
 			</list>
 			<list name="first_strike_actions">
 			</list>
@@ -50,7 +66,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\explosive_weapons\mines\teller_mine_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mines\m20_m6_mine_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -67,10 +83,10 @@
 					<float name="command" value="0" />
 					<float name="fuel" value="0" />
 					<float name="manpower" value="0" />
-					<float name="munition" value="50" />
+					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="30" />
+				<float name="time_seconds" value="12" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\explosion_ext">
@@ -86,39 +102,39 @@
 					<group name="splat_list">
 						<group name="entry_01">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\cement" />
 						</group>
 						<group name="entry_02">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\crater_concrete" />
 						</group>
 						<group name="entry_03">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\crater_stone" />
 						</group>
 						<group name="entry_04">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\road_asphalt" />
 						</group>
 						<group name="entry_05">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\rubble" />
 						</group>
 						<group name="entry_06">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\sand" />
 						</group>
 						<group name="entry_07">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\stone_road" />
 						</group>
 						<group name="entry_08">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\urban" />
 						</group>
 						<group name="entry_09">
 							<string name="splat_texture" value="" />
-							<instance_reference name="terrain_material" value="" />
+							<instance_reference name="terrain_material" value="material\urban_narrow" />
 						</group>
 						<group name="entry_10">
 							<string name="splat_texture" value="" />
@@ -145,11 +161,11 @@
 							<instance_reference name="terrain_material" value="" />
 						</group>
 						<group name="entry_default">
-							<string name="splat_texture" value="crater_dirt\bia_crater_jagged" />
+							<string name="splat_texture" value="" />
 							<instance_reference name="terrain_material" value="" />
 						</group>
 					</group>
-					<float name="vertical_scale" value="0.003" />
+					<float name="vertical_scale" value="0" />
 					<enum name="deform_type" value="tp_additive" />
 				</group>
 				<float name="radius_max" value="5" />
@@ -158,39 +174,39 @@
 				<group name="splat_only_splats">
 					<group name="entry_01">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\cement" />
 					</group>
 					<group name="entry_02">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\crater_concrete" />
 					</group>
 					<group name="entry_03">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\crater_stone" />
 					</group>
 					<group name="entry_04">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\road_asphalt" />
 					</group>
 					<group name="entry_05">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\rubble" />
 					</group>
 					<group name="entry_06">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\sand" />
 					</group>
 					<group name="entry_07">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\stone_road" />
 					</group>
 					<group name="entry_08">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\urban" />
 					</group>
 					<group name="entry_09">
 						<string name="splat_texture" value="" />
-						<instance_reference name="terrain_material" value="" />
+						<instance_reference name="terrain_material" value="material\urban_narrow" />
 					</group>
 					<group name="entry_10">
 						<string name="splat_texture" value="" />
@@ -249,7 +265,7 @@
 			<instance_reference name="wreck_entity" value="" />
 			<list name="death_actions">
 				<template_reference name="action" value="action\detonate">
-					<uniqueid name="id" value="1073747011" />
+					<uniqueid name="id" value="1073747554" />
 				</template_reference>
 			</list>
 			<float name="armor" value="35" />
@@ -323,9 +339,9 @@
 			<string name="extra_text_deprecated" value="" />
 			<bool name="ghost_enable" value="False" />
 			<bool name="has_speech_code" value="True" />
-			<locstring name="help_text" value="2163050" />
+			<locstring name="help_text" value="11068298" />
 			<string name="hotkey_name" value="M" />
-			<icon name="icon_name" value="Icons_buildings_building_german_mines" />
+			<icon name="icon_name" value="Icons_abilities_ability_aef_at_mines" />
 			<enum name="kill_type" value="" />
 			<float name="minimap_color_a" value="255" />
 			<float name="minimap_color_b" value="255" />
@@ -336,8 +352,8 @@
 			<bool name="minimap_teamcolor" value="False" />
 			<bool name="obb_selectable" value="False" />
 			<string name="overlay_name" value="" />
-			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11043122" />
+			<bool name="reveal_for_decryption" value="True" />
+			<locstring name="screen_name" value="11068297" />
 			<enum name="selection_name" value="" />
 			<float name="selection_scale" value="1" />
 			<enum name="selection_type" value="multi_entity_kind_select" />
@@ -348,13 +364,13 @@
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_2">
-				<string name="code_1" value="tm" />
-				<string name="code_2" value="am" />
+				<string name="code_1" value="mi" />
+				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_3">
-				<string name="code_1" value="atm" />
-				<string name="code_2" value="min" />
+				<string name="code_1" value="min" />
+				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_cover">
@@ -366,25 +382,25 @@
 			<locstring name="tooltip_txt" value="0" />
 			<int name="ui_priority" value="90" />
 			<icon name="minimap_icon" value="" />
-			<icon name="portrait_icon_winter" value="Icons_portraits_building_german_anti_personnel_mine_w_portrait" />
+			<icon name="portrait_icon_winter" value="Icons_portraits_building_aef_m6_at_mine_s_portrait" />
 			<group name="speaker_alt">
 				<string name="code_1" value="" />
 				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<float name="minimap_icon_scale" value="1" />
-			<icon name="portrait_icon_summer" value="Icons_portraits_building_german_anti_personnel_mine_s_portrait" />
+			<icon name="portrait_icon_summer" value="Icons_portraits_building_aef_m6_at_mine_s_portrait" />
 			<locstring name="brief_text" value="0" />
-			<locstring name="extra_text" value="0" />
+			<locstring name="extra_text" value="11068299" />
 			<locstring name="screen_name_short" value="0" />
 			<bool name="show_in_build_log" value="True" />
 			<bool name="show_entity_appearance" value="True" />
 			<locstring name="screen_name_world" value="0" />
-			<locstring name="help_text_world" value="0" />
-			<locstring name="extra_text_world" value="0" />
+			<locstring name="help_text_world" value="11073155" />
+			<locstring name="extra_text_world" value="11073156" />
 			<enum name="map_rotation_type_override" value="no_override" />
-			<icon name="symbol_icon_name" value="Icons_symbols_building_german_mines_symbol" />
 			<enum name="occlusion_state" value="can_be_occluded" />
+			<icon name="symbol_icon_name" value="Icons_symbols_ability_aef_m6_at_mines_symbol" />
 			<enum name="decorator_visibility" value="default" />
 			<string name="decorator_marker_name" value="Marker_FX_UI" />
 			<bool name="skin_pack_override" value="False" />
@@ -469,7 +485,7 @@
 			<bool name="random_rotation" value="False" />
 			<float name="replace_ghost_distance" value="5" />
 			<float name="spacing_distance" value="2" />
-			<bool name="self_construct" value="False" />
+			<bool name="self_construct" value="True" />
 			<list name="on_construction_actions">
 			</list>
 			<list name="materials">
@@ -500,5 +516,5 @@
 		<template_reference name="exts" value="ebpextensions\marker_ext">
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="101099" />
+	<uniqueid name="pbgid" value="2514" />
 </instance>
