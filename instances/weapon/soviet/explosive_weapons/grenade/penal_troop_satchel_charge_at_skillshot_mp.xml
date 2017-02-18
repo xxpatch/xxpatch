@@ -1,9 +1,9 @@
 <instance description="" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="11" />
-			<float name="far" value="11" />
-			<float name="mid" value="11" />
+			<float name="near" value="0" />
+			<float name="far" value="0" />
+			<float name="mid" value="0" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
@@ -275,8 +275,6 @@
 			<float name="max" value="340" />
 			<float name="min" value="340" />
 			<list name="on_penetrated_actions">
-			</list>
-			<list name="post_damage_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
@@ -302,16 +300,18 @@
 							<bool name="set" value="False" />
 							<bool name="cause_criticals" value="True" />
 							<enum name="crit_weapon_type" value="big_explosive" />
-							<uniqueid name="id" value="1073746995" />
+							<uniqueid name="id" value="1073747564" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073746996" />
+					<uniqueid name="id" value="1073747565" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
+			</list>
+			<list name="post_damage_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
