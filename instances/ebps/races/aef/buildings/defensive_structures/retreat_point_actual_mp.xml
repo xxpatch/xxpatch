@@ -1,9 +1,9 @@
 <instance description="" template="ebps">
 	<list name="extensions">
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
-			<string name="alternate_sua" value="" />
+			<string name="alternate_sua" value="armies\soviet\structures\command_post\command_post" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\west_german\structures\base_building_01\base_building_01" />
+			<file name="animator" value="armies\aef\props\usf_pathfinder_beacon\usf_pathfinder_beacon" />
 			<bool name="is_visible_in_game" value="False" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
