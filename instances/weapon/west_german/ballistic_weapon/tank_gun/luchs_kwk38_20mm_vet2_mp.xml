@@ -468,6 +468,15 @@
 			<int name="alpha" value="0" />
 		</group>
 		<list name="target_type_table">
+			<group name="target_unit_type_multipliers">
+				<enum name="unit_type" value="infantry" />
+				<group name="weapon_multipliers">
+					<float name="accuracy_multiplier" value="1" />
+					<float name="damage_multiplier" value="1" />
+					<float name="penetration_multiplier" value="1" />
+					<float name="suppression_multiplier" value="100" />
+				</group>
+			</group>
 		</list>
 	</group>
 	<uniqueid name="pbgid" value="18110" />

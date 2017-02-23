@@ -145,6 +145,15 @@
 					</template_reference>
 				</list>
 			</template_reference>
+			<template_reference name="required" value="requirements\required_unit_type">
+				<enum name="reason" value="usage_and_display" />
+				<locstring name="ui_name" value="0" />
+				<enum name="unit_type" value="conscripts" />
+				<template_reference name="qualify_option" value="options\none">
+				</template_reference>
+				<bool name="search_load_out" value="True" />
+				<bool name="owned_by_player_only" value="True" />
+			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
 		<int name="ui_position" value="33" />

@@ -615,7 +615,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\british\timed_ability\tune_up_bonus_mp" />
 			</list>
-			<bool name="allow_targeted_abilities_whilst_moving" value="True" />
+			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_retreat_ext">
 			<group name="retreat_building_types">
