@@ -338,6 +338,10 @@
 			<FileHash>514ab6c920283cb1bedf68bfd1fcf5ca</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\accessory_weapons\puma_aimed_shot_mp.xml</FileName>
+			<FileHash>391fdaf437256127faadcc190fe9809b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\modal_ability\accessory_weapons\volksgrenadier_panzerfaust_mp.xml</FileName>
 			<FileHash>039d3a7f2022024058efb07e416d9242</FileHash>
 		</BurnInfo>
@@ -1380,10 +1384,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp.xml</FileName>
 			<FileHash>aba4cf5e276c2e21d611b6529591778f</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\puma_sdkfz_234_armored_car_squad\armored_car_sdkfz_234_squad_mp.xml</FileName>
-			<FileHash>eca3c52004de37d1969cb30a687459fd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\vehicles\sturmtiger_squad\sturmtiger_squad_mp.xml</FileName>
