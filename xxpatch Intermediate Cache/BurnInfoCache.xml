@@ -186,10 +186,6 @@
 			<FileHash>3ec44d5f71ca1227c51da2250aef8b84</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\assault_field_officer.xml</FileName>
-			<FileHash>178c1903b9489d66d22e4913770b8d12</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\modal_ability\commander_ability\jaeger_interrogation.xml</FileName>
 			<FileHash>aed9398fbdda65b8d631a3267bab3468</FileHash>
 		</BurnInfo>
@@ -292,10 +288,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\throw_away_hack_ui\cmd_guard_troops.xml</FileName>
 			<FileHash>1267a4623ee49d386e109a6c86052406</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\timed_ability\throw_away_hack_ui\cmd_kv-8_unlock_mp.xml</FileName>
-			<FileHash>25a28082df447b23fce96cd2f300a037</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\soviet\toggle_ability\penal_last_man_ui_mp.xml</FileName>
