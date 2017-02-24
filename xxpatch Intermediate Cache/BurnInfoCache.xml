@@ -710,6 +710,10 @@
 			<FileHash>1c94d33c6460d00852aa9018fa3c7ab9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\ostwind_flak_panzer\ostwind_flak_panzer_mp.xml</FileName>
+			<FileHash>39380be8e152648b4b73d33491bb3cc9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_commander_mp.xml</FileName>
 			<FileHash>a8392ae0a31bb603be78c13e85be2873</FileHash>
 		</BurnInfo>
@@ -1534,6 +1538,10 @@
 			<FileHash>f8cd38230f9faeb1f2445ac53f344e8a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\intel_bulletins\custom_commanders\okw\ostwind_suppression.xml</FileName>
+			<FileHash>4eb25311bd18ece190266605df325d90</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\upgrade\soviet\items\conscript_ptrs_package.xml</FileName>
 			<FileHash>e9698aac13a13135b9b431f46e1cacd5</FileHash>
 		</BurnInfo>
@@ -1748,6 +1756,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\grenadier_mg42lmg_mp.xml</FileName>
 			<FileHash>879dab33a814550cb3397f5dd7932c82</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\ostwind_mg34_hull_mp.xml</FileName>
+			<FileHash>c109928c036801a3bc40c826f2b79376</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp.xml</FileName>
