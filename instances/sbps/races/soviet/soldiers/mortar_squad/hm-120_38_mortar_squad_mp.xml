@@ -569,30 +569,36 @@
 				<float name="suppressed_activate_threshold" value="0.2" />
 				<float name="suppressed_recover_threshold" value="0.15" />
 				<list name="pin_down_activate_actions">
-					<template_reference name="action" value="action\apply_modifiers_action">
-						<float name="duration" value="0" />
-						<bool name="permanent" value="False" />
-						<list name="modifiers">
-							<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
-								<enum name="application_type" value="apply_to_squad" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="" />
-								<enum name="usage_type" value="enable" />
-								<float name="value" value="-1" />
-								<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
-							</template_reference>
-							<template_reference name="modifier" value="modifiers\facing_only_enable">
-								<enum name="application_type" value="apply_to_entity" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="" />
-								<enum name="usage_type" value="enable" />
-								<float name="value" value="1" />
-								<instance_reference name="tooltip" value="modifier_tooltip\facing_only_enable" />
+					<template_reference name="action" value="action\change_target_action">
+						<list name="actions">
+							<template_reference name="action" value="action\apply_modifiers_action">
+								<float name="duration" value="0" />
+								<bool name="permanent" value="False" />
+								<list name="modifiers">
+									<template_reference name="modifier" value="modifiers\capture_enable_squad_modifier">
+										<enum name="application_type" value="apply_to_squad" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="enable" />
+										<float name="value" value="-1" />
+										<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
+									</template_reference>
+									<template_reference name="modifier" value="modifiers\facing_only_enable">
+										<enum name="application_type" value="apply_to_entity" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="enable" />
+										<float name="value" value="1" />
+										<instance_reference name="tooltip" value="modifier_tooltip\facing_only_enable" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747776" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743826" />
+						<enum name="change_target_type" value="entities" />
+						<uniqueid name="id" value="1073747775" />
 					</template_reference>
 					<template_reference name="action" value="action\delay">
 						<float name="delay" value="10" />
@@ -630,48 +636,54 @@
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
-					<template_reference name="action" value="action\apply_modifiers_action">
-						<float name="duration" value="0" />
-						<bool name="permanent" value="False" />
-						<list name="modifiers">
-							<template_reference name="modifier" value="modifiers\posture_speed_modifier">
-								<enum name="application_type" value="apply_to_entity" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="" />
-								<enum name="usage_type" value="addition" />
-								<float name="value" value="-2" />
-								<instance_reference name="tooltip" value="modifier_tooltip\posture_speed_modifier" />
-							</template_reference>
-							<template_reference name="modifier" value="modifiers\cooldown_weapon_modifier">
-								<enum name="application_type" value="apply_to_weapon" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="hardpoint_01" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="4" />
-								<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
-							</template_reference>
-							<template_reference name="modifier" value="modifiers\reload_weapon_modifier">
-								<enum name="application_type" value="apply_to_weapon" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="hardpoint_01" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="4" />
-								<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
-							</template_reference>
-							<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
-								<enum name="application_type" value="apply_to_weapon" />
-								<bool name="exclusive" value="False" />
-								<string name="modifier_id" value="" />
-								<string name="target_type_name" value="hardpoint_01" />
-								<enum name="usage_type" value="multiplication" />
-								<float name="value" value="0.25" />
-								<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
+					<template_reference name="action" value="action\change_target_action">
+						<list name="actions">
+							<template_reference name="action" value="action\apply_modifiers_action">
+								<float name="duration" value="0" />
+								<bool name="permanent" value="False" />
+								<list name="modifiers">
+									<template_reference name="modifier" value="modifiers\posture_speed_modifier">
+										<enum name="application_type" value="apply_to_entity" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="" />
+										<enum name="usage_type" value="addition" />
+										<float name="value" value="-2" />
+										<instance_reference name="tooltip" value="modifier_tooltip\posture_speed_modifier" />
+									</template_reference>
+									<template_reference name="modifier" value="modifiers\cooldown_weapon_modifier">
+										<enum name="application_type" value="apply_to_weapon" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="hardpoint_01" />
+										<enum name="usage_type" value="multiplication" />
+										<float name="value" value="4" />
+										<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
+									</template_reference>
+									<template_reference name="modifier" value="modifiers\reload_weapon_modifier">
+										<enum name="application_type" value="apply_to_weapon" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="hardpoint_01" />
+										<enum name="usage_type" value="multiplication" />
+										<float name="value" value="4" />
+										<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
+									</template_reference>
+									<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
+										<enum name="application_type" value="apply_to_weapon" />
+										<bool name="exclusive" value="False" />
+										<string name="modifier_id" value="" />
+										<string name="target_type_name" value="hardpoint_01" />
+										<enum name="usage_type" value="multiplication" />
+										<float name="value" value="0.25" />
+										<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
+									</template_reference>
+								</list>
+								<uniqueid name="id" value="1073747778" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743830" />
+						<enum name="change_target_type" value="entities" />
+						<uniqueid name="id" value="1073747777" />
 					</template_reference>
 				</list>
 			</group>
