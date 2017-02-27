@@ -12,12 +12,6 @@
 					<uniqueid name="id" value="1073744592" />
 					<list name="action_list_sequences">
 						<list name="actions">
-							<template_reference name="action" value="action\force_reload_action">
-								<int name="hardpoint_index" value="1" />
-								<uniqueid name="id" value="1073744593" />
-							</template_reference>
-						</list>
-						<list name="actions">
 							<template_reference name="action" value="action\use_accessory_weapon">
 								<instance_reference name="accessory_weapon_item" value="slot_item\aef\explosive_weapon\grenade\rifleman_at_rifle_grenade" />
 								<instance_reference name="decrement_accessory_item" value="" />

@@ -23,7 +23,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\accessory_weapons\rifleman_at_rifle_grenade_vet.xml</FileName>
-			<FileHash>abda6547463128d7b9c1021e4a2117b5</FileHash>
+			<FileHash>7e705e30e37a6de2e0e6ef739803484a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery.xml</FileName>
@@ -370,6 +370,10 @@
 			<FileHash>15b9c2af89a4acd8e596f96d25b49451</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\timed_ability\commander_ability\heat_shells_ability_mp.xml</FileName>
+			<FileHash>2dfa2d4bcbe511501144b23bee9885e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\base_building_retreat_point_mp.xml</FileName>
 			<FileHash>e8c8580ac24a16ff51831d81aa4df77a</FileHash>
 		</BurnInfo>
@@ -623,7 +627,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
-			<FileHash>b50e847c3c6579b650e112fea6200d35</FileHash>
+			<FileHash>9813aa1d8c575755b78310cf94029653</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\german\buildings\base_building\bereich_festung_mp.xml</FileName>
@@ -816,6 +820,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
 			<FileHash>d155e7631003d896a3e10bfea6f4ac0e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
+			<FileHash>56810b7b6d2940aacf613da2b3805b21</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\puma_sdkfz_234\puma_sdkfz_234_mp.xml</FileName>
+			<FileHash>3e9169b4469725901fc63b5929e8da11</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\sws_halftrack\sws_halftrack_mp.xml</FileName>
