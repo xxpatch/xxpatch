@@ -792,6 +792,8 @@
 										</list>
 										<uniqueid name="id" value="1073743763" />
 									</template_reference>
+								</list>
+								<list name="squad_entity_actions">
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
 										<bool name="permanent" value="False" />
@@ -806,10 +808,8 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743766" />
+										<uniqueid name="id" value="1073747783" />
 									</template_reference>
-								</list>
-								<list name="squad_entity_actions">
 								</list>
 							</group>
 							<group name="veterancy_rank">
