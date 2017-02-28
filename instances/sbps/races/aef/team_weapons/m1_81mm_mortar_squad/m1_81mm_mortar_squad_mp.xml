@@ -17,7 +17,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wi" />
 							<string name="code_2" value="" />
@@ -74,7 +74,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
 							<string name="code_2" value="" />
@@ -131,7 +131,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="gs" />
 							<string name="code_2" value="" />
@@ -188,7 +188,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wp" />
 							<string name="code_2" value="" />
@@ -245,7 +245,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wi" />
 							<string name="code_2" value="" />
@@ -302,7 +302,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="11116620" />
-						<string name="selection_group" value="mortar_60mm" />
+						<string name="selection_group" value="mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wi" />
 							<string name="code_2" value="" />
