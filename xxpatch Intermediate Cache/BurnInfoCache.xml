@@ -458,8 +458,16 @@
 			<FileHash>53d7e25a16c24fb4667d4231f8fa4d53</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\aef_antitank_rifle_grenade.xml</FileName>
+			<FileHash>9125b06af2c91856ddae6db3f16aa360</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\british_piat_spigot_mortar_mp.xml</FileName>
 			<FileHash>465a03cefe6d64938cd3c76391b1fffc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\grenadier_antitank_rifle_grenade.xml</FileName>
+			<FileHash>830b9793e40c809c5f739c29eaed1d8a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\projectile\kwk37_stugiii_stubby_arced_mp.xml</FileName>
