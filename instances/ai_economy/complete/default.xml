@@ -207,21 +207,21 @@
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\soviet\soldiers\troops\guards_troops" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.125" />
 				<float name="per_unit_scale_historical" value="0.125" />
 				<float name="utility" value="105" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\soviet\soldiers\troops\penal_battalion" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.15" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="100" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\soviet\soldiers\troops\shock_troops" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
@@ -270,7 +270,7 @@
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\soviet\vehicles\su-76m\su-76m" />
 				<float name="utility_random_range_offset" value="25" />
 			</group>
 			<group name="squad_utility">
@@ -319,140 +319,140 @@
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_veteran_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.4" />
 				<float name="per_unit_scale_historical" value="0.5" />
 				<float name="utility" value="75" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" />
 				<float name="utility_random_range_offset" value="-1" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.4" />
 				<float name="per_unit_scale_historical" value="0.25" />
 				<float name="utility" value="95" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.2" />
 				<float name="per_unit_scale_historical" value="0.2" />
 				<float name="utility" value="105" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="75" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\team_weapons\le_ig_18_inf_support_gun_squad\le_ig_18_inf_support_gun_squad_mp" />
 				<float name="utility_random_range_offset" value="25" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.15" />
 				<float name="per_unit_scale_historical" value="0.15" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_wurfrahmen_40_halftrack_squad_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\panzer_iv_squad\panzer_iv_ausf_j_battle_group_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\jagdpanzer_tank_destroyer_squad\jagdpanzer_tank_destroyer_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\jagdtiger_td_squad\jagdtiger_td_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="130" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\king_tiger_squad\king_tiger_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\panther_squad\panther_ausf_g_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="100" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\soldiers\obersoldaten\obersoldaten_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.125" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="100" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.2" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.2" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.22" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_sherman_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.23" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.35" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\aef\vehicles\m36_tank_destroyer_squad\m36_tank_destroyer_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
@@ -466,84 +466,84 @@
 				<float name="per_unit_scale" value="0.45" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="70" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\panzer_ii_luchs_squad\panzer_ii_luchs_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="-1" />
 				<float name="per_unit_scale_historical" value="-1" />
 				<float name="utility" value="2000" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\west_german\vehicles\sws_halftrack_squad\sws_halftrack_squad_mp" />
 				<float name="utility_random_range_offset" value="-1" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.5" />
 				<float name="per_unit_scale_historical" value="0.025" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\soviet\vehicles\kv-1\kv-1_commander_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="100" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\soldiers\tommy_squad\tommy_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.275" />
 				<float name="per_unit_scale_historical" value="0.175" />
 				<float name="utility" value="95" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\team_weapons\british_machine_gun_squad\british_machine_gun_squad_mp" />
 				<float name="utility_random_range_offset" value="20" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\cromwell_squad_mp\cromwell_mk4_75mm_squad_mp" />
 				<float name="utility_random_range_offset" value="25" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.2" />
 				<float name="per_unit_scale_historical" value="0" />
 				<float name="utility" value="40" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" />
 				<float name="utility_random_range_offset" value="20" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.1" />
 				<float name="per_unit_scale_historical" value="0.1" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp" />
 				<float name="utility_random_range_offset" value="15" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.2" />
 				<float name="per_unit_scale_historical" value="0.15" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\team_weapons\at_gun_6_pounder\brit_6_pounder_at_gun_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0.05" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\sherman_firefly_squad\sherman_firefly_squad_mp" />
 				<float name="utility_random_range_offset" value="10" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.45" />
 				<float name="per_unit_scale_historical" value="0.25" />
 				<float name="utility" value="70" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\soldiers\sniper_squad\sniper_british_squad_mp" />
 				<float name="utility_random_range_offset" value="30" />
 			</group>
 			<group name="squad_utility">
 				<float name="per_unit_scale" value="0.15" />
 				<float name="per_unit_scale_historical" value="0.15" />
 				<float name="utility" value="120" />
-				<instance_reference name="blueprint" value="" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\churchill_squad\churchill_default_squad_mp" />
 				<float name="utility_random_range_offset" value="-1" />
 			</group>
 		</list>
