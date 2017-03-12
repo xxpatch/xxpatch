@@ -382,6 +382,10 @@
 			<FileHash>bd15693d8f6086a74d6f7ef3d598e3c5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp.xml</FileName>
+			<FileHash>f01d1598e3d41c7381fdad5a69c2a43a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp.xml</FileName>
 			<FileHash>e2979be6ab15853746a1696113400688</FileHash>
 		</BurnInfo>
@@ -819,7 +823,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.xml</FileName>
-			<FileHash>2edbb9dad62cc683a22ed052f904acbd</FileHash>
+			<FileHash>1ddd3e2f522f4afc27d388c039a109a4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
@@ -1375,7 +1379,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp.xml</FileName>
-			<FileHash>0e101965bf7d9974125f9cbee25aa703</FileHash>
+			<FileHash>92df20cec490695296726d545e90f3fb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\sbps\races\west_german\team_weapons\le_ig_18_inf_support_gun_squad\le_ig_18_inf_support_gun_squad_mp.xml</FileName>

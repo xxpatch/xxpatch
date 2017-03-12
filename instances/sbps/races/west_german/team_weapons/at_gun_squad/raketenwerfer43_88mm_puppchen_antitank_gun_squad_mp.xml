@@ -786,7 +786,6 @@
 				<instance_reference name="ability" value="abilities\global\modal_ability\garrisoned_squad_facing" />
 				<instance_reference name="ability" value="abilities\global\modal_ability\garrisoned_squad_facing_unset" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\rakten_camouflage_mp" />
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
