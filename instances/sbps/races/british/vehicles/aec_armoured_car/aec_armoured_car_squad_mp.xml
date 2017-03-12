@@ -754,7 +754,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="4640" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="100" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
+								<locstring name="screen_name" value="11090785" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -795,24 +795,17 @@
 														<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
 													</template_reference>
 												</list>
-												<uniqueid name="id" value="1073746530" />
-											</template_reference>
-											<template_reference name="action" value="action\change_move_data_action">
-												<float name="acceleration_multiplier" value="1.2" />
-												<float name="deceleration_multiplier" value="1.2" />
-												<float name="pathfinding_size_x" value="0" />
-												<float name="pathfinding_size_y" value="0" />
-												<uniqueid name="id" value="1073747334" />
+												<uniqueid name="id" value="1073747819" />
 											</template_reference>
 										</list>
 										<enum name="change_target_type" value="entities" />
-										<uniqueid name="id" value="1073746531" />
+										<uniqueid name="id" value="1073747820" />
 									</template_reference>
 									<template_reference name="action" value="action\upgrade_add">
 										<bool name="apply_to_entities_in_squad" value="False" />
 										<bool name="trigger_publish_event" value="False" />
 										<instance_reference name="upgrade" value="upgrade\max_vet" />
-										<uniqueid name="id" value="1073746532" />
+										<uniqueid name="id" value="1073747821" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -828,7 +821,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073746533" />
+										<uniqueid name="id" value="1073747822" />
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
