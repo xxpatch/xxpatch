@@ -130,27 +130,35 @@
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
 					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_any_in_list">
+						<template_reference name="required" value="requirements\required_all_in_list">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
 							<list name="requirements">
-								<template_reference name="requirement" value="requirements\required_not">
+								<template_reference name="requirement" value="requirements\required_in_cover">
 									<enum name="reason" value="usage" />
 									<locstring name="ui_name" value="0" />
-									<list name="requirement_table">
-										<template_reference name="required" value="requirements\required_in_cover">
-											<enum name="reason" value="usage" />
-											<locstring name="ui_name" value="0" />
-											<group name="cover_type_table">
-												<enum name="cover_type_01" value="tp_heavy" />
-												<enum name="cover_type_02" value="tp_light" />
-												<enum name="cover_type_03" value="tp_garrison_halftrack" />
-												<enum name="cover_type_04" value="tp_zz_team_weapon_heavy" />
-												<enum name="cover_type_05" value="" />
-												<enum name="cover_type_06" value="" />
-											</group>
-										</template_reference>
-									</list>
+									<group name="cover_type_table">
+										<enum name="cover_type_01" value="tp_heavy" />
+										<enum name="cover_type_02" value="tp_light" />
+										<enum name="cover_type_03" value="" />
+										<enum name="cover_type_04" value="" />
+										<enum name="cover_type_05" value="" />
+										<enum name="cover_type_06" value="" />
+									</group>
+								</template_reference>
+								<template_reference name="requirement" value="requirements\required_in_state">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<bool name="garrisoned" value="False" />
+									<bool name="healed" value="False" />
+									<float name="in_combat_since" value="-1" />
+									<bool name="injured" value="False" />
+									<bool name="leader" value="False" />
+									<bool name="not_moving" value="True" />
+									<bool name="not_retreating" value="False" />
+									<bool name="pinned" value="False" />
+									<bool name="suppressed" value="False" />
+									<bool name="camouflaged" value="False" />
 								</template_reference>
 								<template_reference name="requirement" value="requirements\required_not">
 									<enum name="reason" value="usage" />
@@ -161,10 +169,10 @@
 											<locstring name="ui_name" value="0" />
 											<bool name="garrisoned" value="False" />
 											<bool name="healed" value="False" />
-											<float name="in_combat_since" value="-1" />
+											<float name="in_combat_since" value="5" />
 											<bool name="injured" value="False" />
 											<bool name="leader" value="False" />
-											<bool name="not_moving" value="True" />
+											<bool name="not_moving" value="False" />
 											<bool name="not_retreating" value="False" />
 											<bool name="pinned" value="False" />
 											<bool name="suppressed" value="False" />
@@ -172,39 +180,31 @@
 										</template_reference>
 									</list>
 								</template_reference>
-								<template_reference name="requirement" value="requirements\required_in_state">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<bool name="garrisoned" value="False" />
-									<bool name="healed" value="False" />
-									<float name="in_combat_since" value="5" />
-									<bool name="injured" value="False" />
-									<bool name="leader" value="False" />
-									<bool name="not_moving" value="False" />
-									<bool name="not_retreating" value="False" />
-									<bool name="pinned" value="False" />
-									<bool name="suppressed" value="False" />
-									<bool name="camouflaged" value="False" />
-								</template_reference>
 							</list>
 						</template_reference>
 					</list>
 					<list name="action_table">
-						<template_reference name="action" value="action\apply_modifiers_action">
-							<float name="duration" value="0" />
-							<bool name="permanent" value="False" />
-							<list name="modifiers">
-								<template_reference name="modifier" value="modifiers\camouflage_enable">
-									<enum name="application_type" value="apply_to_squad" />
-									<bool name="exclusive" value="True" />
-									<string name="modifier_id" value="" />
-									<string name="target_type_name" value="" />
-									<enum name="usage_type" value="enable" />
-									<float name="value" value="-1" />
-									<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
+						<template_reference name="action" value="action\change_target_action">
+							<list name="actions">
+								<template_reference name="action" value="action\apply_modifiers_action">
+									<float name="duration" value="0" />
+									<bool name="permanent" value="False" />
+									<list name="modifiers">
+										<template_reference name="modifier" value="modifiers\camouflage_enable">
+											<enum name="application_type" value="apply_to_squad" />
+											<bool name="exclusive" value="False" />
+											<string name="modifier_id" value="" />
+											<string name="target_type_name" value="" />
+											<enum name="usage_type" value="enable" />
+											<float name="value" value="1" />
+											<instance_reference name="tooltip" value="modifier_tooltip\camouflage_enable" />
+										</template_reference>
+									</list>
+									<uniqueid name="id" value="1073747835" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073745115" />
+							<enum name="change_target_type" value="squad" />
+							<uniqueid name="id" value="1073747834" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073745116" />
