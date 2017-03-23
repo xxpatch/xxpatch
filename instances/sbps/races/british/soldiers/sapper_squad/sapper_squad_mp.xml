@@ -176,7 +176,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="2" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\british\items\sappers_minesweeper_upgrade_mp" />
+				<instance_reference name="upgrade" value="upgrade\british\items\sappers_minesweeper_upgrade_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="upgrade" value="upgrade\british\items\sappers_heavy_squad_mp" />
 				<instance_reference name="upgrade" value="upgrade\british\items\sapper_flamethrower" />
 			</list>
@@ -592,7 +592,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\repair_ability\brit_repair_ability_sappers_mp" />
 				<instance_reference name="ability" value="abilities\british\always_on_ability\engineer_cover_combat_bonus" />
 			</list>
@@ -746,7 +746,7 @@
 							<int name="ui_position" value="22" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement" />
+							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
@@ -754,11 +754,11 @@
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_mp" />
+							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_bofors_40mm_autocannon_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="22" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_17_pounder_pit_mp" />
+							<instance_reference name="ebp" value="ebps\races\british\buildings\emplacements\brit_17_pounder_pit_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<int name="ui_position" value="21" />
 						</group>
 					</list>

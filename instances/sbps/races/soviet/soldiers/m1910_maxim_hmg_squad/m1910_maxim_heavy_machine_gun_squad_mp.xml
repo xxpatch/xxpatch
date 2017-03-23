@@ -447,11 +447,11 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\soviet\team_weapons\m1910_maxim_heavy_machine_gun_mp" />
+					<instance_reference name="type" value="ebps\races\soviet\team_weapons\m1910_maxim_heavy_machine_gun_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="6" />
-					<instance_reference name="type" value="ebps\races\soviet\soldiers\weapon_crew\maxim_weapon_crew_mp" />
+					<instance_reference name="type" value="ebps\races\soviet\soldiers\weapon_crew\maxim_weapon_crew_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -875,6 +875,22 @@
 									</template_reference>
 								</list>
 								<list name="squad_entity_actions">
+									<template_reference name="action" value="action\apply_modifiers_action">
+										<float name="duration" value="0" />
+										<bool name="permanent" value="False" />
+										<list name="modifiers">
+											<template_reference name="modifier" value="modifiers\weapon_suppression_modifier">
+												<enum name="application_type" value="apply_to_weapon" />
+												<bool name="exclusive" value="False" />
+												<string name="modifier_id" value="" />
+												<string name="target_type_name" value="hardpoint_01" />
+												<enum name="usage_type" value="multiplication" />
+												<float name="value" value="1.1" />
+												<instance_reference name="tooltip" value="modifier_tooltip\weapon_suppression_modifier" />
+											</template_reference>
+										</list>
+										<uniqueid name="id" value="1073748424" />
+									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
@@ -1017,7 +1033,6 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\sniper_hmg_sprint_mp" />
 				<instance_reference name="ability" value="abilities\global\modal_ability\garrisoned_squad_facing" />
 				<instance_reference name="ability" value="abilities\global\modal_ability\garrisoned_squad_facing_unset" />
 			</list>

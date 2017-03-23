@@ -124,7 +124,7 @@
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\panzerfusiliers_dispatch" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\okw_stuka_aerial_superiority_recon" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\terror_officer" />
 			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\valiant_assault" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications" />

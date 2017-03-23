@@ -447,7 +447,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\british\vehicles\comet\comet_mp" />
+					<instance_reference name="type" value="ebps\races\british\vehicles\comet\comet_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -481,7 +481,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\british\items\british_tank_commander" />
+				<instance_reference name="upgrade" value="upgrade\british\items\british_tank_commander" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -650,9 +650,9 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\british\timed_ability\tune_up_bonus_mp" />
+				<instance_reference name="ability" value="abilities\british\timed_ability\tune_up_bonus_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
-			<bool name="allow_targeted_abilities_whilst_moving" value="True" />
+			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_retreat_ext">
 			<group name="retreat_building_types">

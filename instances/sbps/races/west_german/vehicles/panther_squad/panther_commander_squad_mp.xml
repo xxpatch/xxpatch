@@ -686,7 +686,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\command_panther_mark_target" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\command_panther_mark_target" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\vehicle_emergency_repair_ability_mp" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />

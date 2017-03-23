@@ -381,7 +381,7 @@
 			<float name="tilt_scatter_chance" value="0.5" />
 		</group>
 		<group name="setup">
-			<float name="duration" value="2" />
+			<float name="duration" value="2.5" />
 			<bool name="has_instant_setup" value="False" />
 			<bool name="can_interrupt_setup" value="False" />
 			<float name="attach_duration" value="1.3" />
@@ -409,7 +409,7 @@
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="0.5" />
 			</group>
-			<float name="amount" value="0.000175" />
+			<float name="amount" value="0.00015909" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />

@@ -501,7 +501,7 @@
 				<float name="per_unit_scale" value="0.25" />
 				<float name="per_unit_scale_historical" value="0" />
 				<float name="utility" value="110" />
-				<instance_reference name="blueprint" value="sbps\races\british\vehicles\cromwell_squad_mp\cromwell_mk4_75mm_squad_mp" />
+				<instance_reference name="blueprint" value="sbps\races\british\vehicles\cromwell_squad_mp\cromwell_mk4_75mm_squad_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				<float name="utility_random_range_offset" value="25" />
 			</group>
 			<group name="squad_utility">

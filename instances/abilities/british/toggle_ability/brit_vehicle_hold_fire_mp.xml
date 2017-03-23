@@ -178,7 +178,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp" />
+					<instance_reference name="weapon_to_override" value="weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					<uniqueid name="id" value="1073744198" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />
@@ -195,7 +195,7 @@
 							<bool name="owned_by_player_only" value="True" />
 						</template_reference>
 					</list>
-					<instance_reference name="weapon_to_override" value="weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp" />
+					<instance_reference name="weapon_to_override" value="weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 					<uniqueid name="id" value="1073744199" />
 					<bool name="auto_attack_only" value="True" />
 					<bool name="persist_on_weapon_change" value="True" />

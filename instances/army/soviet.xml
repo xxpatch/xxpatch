@@ -174,7 +174,7 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_anti_tank_bomb_strike" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\dshk_mp" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\il-2_sturmovik_attack_advanced" />
-			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\m5_halftrack_assault" />
 		</list>
 		<group name="resource_max_cap">
