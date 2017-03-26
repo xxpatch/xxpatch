@@ -119,7 +119,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\artillery_cover.xml</FileName>
-			<FileHash>f6a5bc51c16a3c14af567bbe4d3288ae</FileHash>
+			<FileHash>55334b3cad7fe51e69168581ccefb708</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\glider_commandos_only.xml</FileName>
@@ -140,10 +140,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\dispatch_ability\glider_headquarters.xml</FileName>
 			<FileHash>e5797fdd4c6dd2029056e908eca6a73f</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\dispatch_ability\land_mattress.xml</FileName>
-			<FileHash>83cba81375581c1399e8ad82a8ac6149</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\grenades\tommy_heat_grenade_mp.xml</FileName>
@@ -707,7 +703,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\team_weapons\land_mattress_launcher\brit_land_mattress_launcher_mp.xml</FileName>
-			<FileHash>59fd320c1cbd4d4525a45f4c02862d5f</FileHash>
+			<FileHash>39f6fb19dcc12fb95e5f3588549ef00e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\team_weapons\machine_gun\british_machine_gun_mp.xml</FileName>
@@ -2002,6 +1998,10 @@
 			<FileHash>b74bc850c41b25774ea65d97026f2a12</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\bofor_emplacement_40mm_autocannon_barrage_artillery_cover.xml</FileName>
+			<FileHash>3788e1de7dc40f6bfab030d0cfaa3ddb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp.xml</FileName>
 			<FileHash>02ea129c2eaaeeb563b302d6aa4fc036</FileHash>
 		</BurnInfo>
@@ -2031,7 +2031,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.xml</FileName>
-			<FileHash>535891a0d82f9fc5b04dd702c980a154</FileHash>
+			<FileHash>dce57c9a36e9e187edccac04801012df</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp.xml</FileName>
+			<FileHash>31532b78788878255bc1ac60167501b7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\weapon\british\explosive_weapons\mortar\brit_3_inch_mortar_2_barrage_light_he_mp.xml</FileName>
