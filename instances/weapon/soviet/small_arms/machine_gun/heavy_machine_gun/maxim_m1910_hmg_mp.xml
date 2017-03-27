@@ -123,8 +123,8 @@
 		<group name="burst">
 			<bool name="can_burst" value="True" />
 			<group name="duration">
-				<float name="max" value="2.25" />
-				<float name="min" value="2.25" />
+				<float name="max" value="4.25" />
+				<float name="min" value="4.25" />
 			</group>
 			<group name="incremental_target_table">
 				<float name="accuracy_multiplier" value="1.15" />
@@ -272,8 +272,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="4" />
-			<float name="min" value="4" />
+			<float name="max" value="2" />
+			<float name="min" value="2" />
 			<list name="on_penetrated_actions">
 			</list>
 			<list name="post_damage_actions">
@@ -381,7 +381,7 @@
 			<float name="tilt_scatter_chance" value="0.5" />
 		</group>
 		<group name="setup">
-			<float name="duration" value="2.5" />
+			<float name="duration" value="3" />
 			<bool name="has_instant_setup" value="False" />
 			<bool name="can_interrupt_setup" value="False" />
 			<float name="attach_duration" value="1.3" />
@@ -409,7 +409,7 @@
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="0.5" />
 			</group>
-			<float name="amount" value="0.00015909" />
+			<float name="amount" value="7.954545E-05" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
@@ -418,8 +418,8 @@
 			<float name="fire_cone_angle" value="5" />
 			<group name="normal">
 				<float name="max_down" value="-90" />
-				<float name="max_left" value="-30" />
-				<float name="max_right" value="30" />
+				<float name="max_left" value="-45" />
+				<float name="max_right" value="45" />
 				<float name="max_up" value="45" />
 				<float name="speed_horizontal" value="35" />
 				<float name="speed_vertical" value="60" />
