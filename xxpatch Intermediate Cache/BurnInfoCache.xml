@@ -114,6 +114,10 @@
 			<FileHash>86cfdd16c500c195245e89ddb6084c98</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\accessory_weapons\cromwell_smoke_shell_shot_mp.xml</FileName>
+			<FileHash>bdb1f5dbae18a1f2853a588789603df5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\british\modal_ability\commander_ability\aec_defensive_smoke.xml</FileName>
 			<FileHash>3ae2216be0f6aa17f6fee048ec6091bc</FileHash>
 		</BurnInfo>
@@ -251,7 +255,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\timed_ability\command_panther_mark_target.xml</FileName>
-			<FileHash>ae2f2ec125ed504b8236ebd3e6b01f92</FileHash>
+			<FileHash>ab69f3bf9cda6e039baaefb38bbf5179</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp.xml</FileName>
@@ -723,7 +727,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.xml</FileName>
-			<FileHash>1ae5bb67a9c29085d379a9fafa337939</FileHash>
+			<FileHash>c6d3786c52fa6236c7caff929222f25e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\XXPatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
