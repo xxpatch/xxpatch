@@ -51,7 +51,7 @@
 						<template_reference name="required" value="requirements\required_entity">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp" />
+							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<enum name="entity_type" value="" />
 						</template_reference>
 					</list>
@@ -89,7 +89,7 @@
 						<template_reference name="required" value="requirements\required_entity">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp" />
+							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<enum name="entity_type" value="" />
 						</template_reference>
 					</list>
@@ -127,7 +127,7 @@
 						<template_reference name="required" value="requirements\required_entity">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
-							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp" />
+							<instance_reference name="entity_blueprint_name" value="ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 							<enum name="entity_type" value="" />
 						</template_reference>
 					</list>

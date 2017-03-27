@@ -19,6 +19,7 @@
 				<instance_reference name="ability" value="abilities\aef\timed_ability\m1_atgun_piercing_ability" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\m1_atgun_take_aim_ability" />
 				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

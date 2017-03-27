@@ -78,15 +78,15 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073747124" />
-						</template_reference>
-						<template_reference name="action" value="action\cancel_forced_attack">
-							<uniqueid name="id" value="1073747125" />
-							<enum name="stop_command" value="attack_stop" />
+							<uniqueid name="id" value="1073748450" />
 						</template_reference>
 					</list>
 					<enum name="change_target_type" value="entities" />
-					<uniqueid name="id" value="1073747123" />
+					<uniqueid name="id" value="1073748451" />
+				</template_reference>
+				<template_reference name="action" value="action\cancel_forced_attack">
+					<uniqueid name="id" value="1073748449" />
+					<enum name="stop_command" value="attack_stop" />
 				</template_reference>
 			</list>
 			<list name="start_target_actions">
@@ -142,7 +142,7 @@
 			<string name="code_2" value="" />
 			<string name="code_3" value="" />
 		</group>
-		<enum name="squad_caster" value="squad" />
+		<enum name="squad_caster" value="one_entity" />
 		<enum name="target" value="tp_squad" />
 		<group name="target_special_validation">
 			<template_reference name="target_special_validation" value="type_ability_target_type\all">
@@ -158,7 +158,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="11007443" />
 			<locstring name="help_text" value="11007463" />
-			<string name="hotkey_name" value="H" />
+			<string name="hotkey_name" value="Q" />
 			<icon name="icon_name" value="Icons_abilities_ability_soviet_sniper_hold_fire_off" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
@@ -176,7 +176,7 @@
 		<list name="requirements">
 		</list>
 		<enum name="ability_super" value="tp_none" />
-		<int name="ui_position" value="23" />
+		<int name="ui_position" value="22" />
 		<bool name="ui_mini_map_capture" value="False" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="" />

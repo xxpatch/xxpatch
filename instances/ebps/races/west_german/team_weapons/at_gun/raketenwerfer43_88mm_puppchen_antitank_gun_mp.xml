@@ -17,6 +17,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\okw_ratken_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

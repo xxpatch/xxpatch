@@ -19,6 +19,7 @@
 				<instance_reference name="ability" value="abilities\west_german\timed_ability\puma_smoke_screen" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\puma_aimed_shot_mp" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

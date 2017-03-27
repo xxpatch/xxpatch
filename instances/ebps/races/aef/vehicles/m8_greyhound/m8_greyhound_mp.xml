@@ -19,6 +19,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\m8_canister_shot" />
 				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
