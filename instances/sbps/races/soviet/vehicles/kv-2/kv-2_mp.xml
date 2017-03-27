@@ -447,7 +447,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\soviet\vehicles\kv-2\kv-2_mp" />
+					<instance_reference name="type" value="ebps\races\soviet\vehicles\kv-2\kv-2_mp" mod="9cdcf92e05114ce5baacb4b7a120b84c" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

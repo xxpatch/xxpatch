@@ -12,14 +12,14 @@
 							<float name="duration" value="0" />
 							<bool name="permanent" value="False" />
 							<list name="modifiers">
-								<template_reference name="modifier" value="modifiers\move_enable_modifier">
-									<enum name="application_type" value="apply_to_entity" />
+								<template_reference name="modifier" value="modifiers\auto_target_enable_weapon_modifier">
+									<enum name="application_type" value="apply_to_weapon" />
 									<bool name="exclusive" value="False" />
 									<string name="modifier_id" value="" />
-									<string name="target_type_name" value="" />
+									<string name="target_type_name" value="hardpoint_05" />
 									<enum name="usage_type" value="enable" />
-									<float name="value" value="-1" />
-									<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
+									<float name="value" value="1" />
+									<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
 								</template_reference>
 							</list>
 							<uniqueid name="id" value="1073743652" />
@@ -27,10 +27,6 @@
 					</list>
 					<enum name="change_target_type" value="entities" />
 					<uniqueid name="id" value="1073743653" />
-				</template_reference>
-				<template_reference name="action" value="action\ui_decorator_state_action">
-					<uniqueid name="id" value="1073747833" />
-					<string name="state_icon" value="FrameBraceEnabled" />
 				</template_reference>
 			</list>
 			<list name="start_target_actions">
